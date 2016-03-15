@@ -1,10 +1,13 @@
 #!/usr/bin/python3
 
-def maxXor(left, right):
-	pass
+def countergame(n):
+	#return "Richard"
+	#return "Louise"
 
 if __name__ == '__main__':
-	l = int(input())
-	r = int(input())
-	print(maxXor(l, r))
+	t = int(input().strip())
+	for a0 in range(t):
+		n = int(input().strip())
+		winner = countergame(n)
+		print(winner)
 

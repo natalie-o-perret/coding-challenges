@@ -7,10 +7,10 @@ def maxxor(left, right):
 	# e.g. 4 ^ 2 = 100 ^ 010 = 111
 	result = left ^ right
 	# Let's take the bits representation length associated to the result
-	# e.g. = 1
-	resultBitLength = math.floor(math.ln(result, 2) + 1)
+	# e.g. = len(111) = 3
+	resultBitLength = math.floor(math.log(result, 2) + 1)
 	# Then we get the number related number to this 1 bits long representation
-	# aka the maxmimum, e.g. 2 ** 1 - 1 = 1
+	# aka the maxmimum, e.g. 2 ** 3 - 1 = 8 - 1 = 7
 	maximum = int(2 ** resultBitLength) - 1;
 	return maximum;
 
