@@ -1,0 +1,2 @@
+line = input()
+print(line)
