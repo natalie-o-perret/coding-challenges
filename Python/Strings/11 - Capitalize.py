@@ -1,2 +1,1 @@
-s = input()
-print(s.title())
+print(" ".join((s.capitalize() for s in input().strip().split(" "))))
