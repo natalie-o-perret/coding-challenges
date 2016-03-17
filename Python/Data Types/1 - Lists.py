@@ -1,8 +1,8 @@
 l = []
 n = int(input())
-for i in range(n):
-	cmd, *args = input().strip().split(" ")
-	if cmd == 'print':
+for _ in range(n):
+	cmd, *args = input().strip()
+	if (cmd == 'print'):
 		print(l)
 	else:
-		getattr(l, cmd)(*(int(a) for a in args))
+		getattr(l, cmd)(*args)

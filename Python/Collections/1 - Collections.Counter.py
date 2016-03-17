@@ -1,7 +1,7 @@
 from collections import Counter
 
 X = int(input())
-sizes = counter(map(int, input().split()))
+sizes = Counter(map(int, input().split()))
 N = int(input())
 money = 0
 for i in range(N):
