@@ -1,3 +1,5 @@
+# Enter your code here. Read input from STDIN. Print output to STDOUTK = int(input())
 K = int(input())
-rooms = map(int, input().split())
-
+a = map(int, input().split())
+c = (K * sum(set(a)) - sum(a)) // (K - 1)
+print(c)
