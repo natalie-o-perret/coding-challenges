@@ -1,4 +1,2 @@
 N, X = map(int, input().split())
-for x in range(X):
-	marks = map(float, input().split())
-	pass
+[print(sum(marks) / len(marks)) for marks in zip(*[list(map(float, input().split())) for _ in range(X)])]
