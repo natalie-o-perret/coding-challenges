@@ -1,70 +1,87 @@
 import math
 
-class Point3D:
+class Point3D(object):
 	def __init__(self, x = 0, y = 0, z = 0):
 		self.x = x
 		self.y = y
 		self.z = y
 
-	def dot_product(o):
-		r = (self.x * o.x) + (self.y * o.y) + (self.z * o.z)
+class Vector3D(object):
+	def __init__(self, start_point = Point3D(), stop_point = Point3D()):
+		self.x = stop_point.x - start_point.x
+		self.y = stop_point.y - start_point.y
+		self.z = stop_point.z - start_point.z
+
+	def dot_product(self, other):
+		r = (self.x * other.x) + (self.y * other.y) + (self.z * other.z)
 		return r
 
-	def cross_product(o):
-		x = self.y * o.z - self.z * o.y
-		y = self.z * o.x - self.x * o.z
-		z = self.x * o.y - self.y * o.x
-		r = Point3D(x, y, z)
+	def cross_product(self, other):
+		r = Vector3D()
+        r.x = self.y * other.z - self.z * other.y
+		r.y= self.z * other.x - self.x * other.z
+		r.z = self.x * other.y - self.y * other.x
 		return r 
 
-	def distance_to(o):
-		r = math.sqrt((self.x - o.x)**2 + (self.y - o.y)**2 + (self.z - o.z)**2)
+	def distance_to(self, other):
+		r = math.sqrt((self.x - other.x)**2 + (self.y - other.y)**2 + (self.z - other.z)**2)
 		return r
 
 	def norm(self):
-		r = (self.x * o.x) + (self.y * o.y) + (self.z * o.z)
+		r = self.distance_to(Vector3D())
 		return r
 
 	def normalize(self):
 		norm = self.norm()
-		r = Point3D(self.x / norm, self.y / norm, self.z / norm)
+		r = Vector3D()
+		r.x = self.x / norm
+		r.y = self.y / norm
+		r.z = self.z / norm
 		return r
 
-	def __add__(self, o):
-		x = self.x + o.x
-		y = self.y + o.y
-		z = self.z + o.z
-		r = Point3D(x, y, z)
+	def __repr__(self):
+		return self.__str__()
+        
+	def __str__(self):
+		return "{:.2f}".format(self.x, self.y, self.y)
+
+	def __add__(self, other):
+        r = Vector3D()
+		r.x = self.x + other.x
+		r.y = self.y + other.y
+		r.z = self.z + other.z
 		return r
 
-	def __sub__(self, o):
-		x = self.x - o.x
-		y = self.y - o.y
-		z = self.z - o.z
-		r = Point3D(x, y, z)
+	def __sub__(self, other):
+        r = Vector3D()
+		r.x = self.x - other.x
+		r.y = self.y - other.y
+		r.z = self.z - other.z
 		return r
 
-	def __mul__(self, o):
-		return self.cross_product(o)
+	def __mul__(self, other):
+		return self.cross_product(other)
 
 	def __abs__(self):
-		return self.norm()
+		return self.normalize()
 
 # Points
-A = Point3D(map(float, input().split()))
-B = Point3D(map(float, input().split()))
-C = Point3D(map(float, input().split()))
-D = Point3D(map(float, input().split()))
+A = Point3D(*list(map(float, input().split())))
+B = Point3D(*list(map(float, input().split())))
+C = Point3D(*list(map(float, input().split())))
+D = Point3D(*list(map(float, input().split())))
 
 # Vectors
-AB = (B - A).normalize()
-BC = (C - B).normalize()
-CD = (D - C).normalize()
+AB = Vector3D(A, B)
+BC = Vector3D(B, C)
+CD = Vector3D(C, D)
 
-# Planes
-ABC = AB.cross_product(BC)
-BCD = BC.cross_product(CD)
+# Planes: ABC and BCD
+X = AB * BC
+Y = BC * CD
 
-PHI = math.degrees(math.acos(ABC, BCD))
+# Angle
+PHIrad = math.acos(X.dot_product(Y) / (abs(X) * abs(Y)))
+PHIdeg = math.degrees(PHIrad)
 
-print("{:.2f}".format(PHI))
+print("{:.2f}".format(PHIdeg))
