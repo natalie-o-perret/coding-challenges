@@ -12,6 +12,7 @@ class Point3D(object):
 	def __str__(self):
 		return "{:.2f}".format(self.x, self.y, self.y)
 
+
 class Vector3D(object):
 	def __init__(self, start_point=Point3D(), stop_point=Point3D()):
 		self.x = stop_point.x - start_point.x
