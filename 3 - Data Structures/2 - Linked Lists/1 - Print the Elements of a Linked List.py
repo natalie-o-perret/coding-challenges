@@ -16,3 +16,9 @@ def print_list(head):
 		while current:
 			print(current.data)
 			current = current.next
+
+def recursive_print_list(head):
+	if head:
+		print(head.data)
+		if head.next:
+			recursive_print_list(head.next)
