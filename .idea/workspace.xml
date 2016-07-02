@@ -1,0 +1,467 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="00a07016-aa52-4a1b-97e0-cfe27523dc72" name="Default" comment="">
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/EhouarnPerret.Python.HackerRank.iml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/encodings.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/misc.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/modules.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/vcs.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Algorithms/Bit Manipulation/1 - Lonely Integer.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Algorithms/Bit Manipulation/2 - Maximize XOR.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Algorithms/Bit Manipulation/3 - Counter Game.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Algorithms/Bit Manipulation/4 - Sansa and XOR.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Algorithms/Bit Manipulation/5 - Flipping Bits.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Algorithms/Implementation/1 - Angry Professor.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Algorithms/Implementation/2 - Sherlock And The Beast.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Algorithms/Implementation/3 - Utopian Tree.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Algorithms/Implementation/4 - Find Digits.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Algorithms/Implementation/4 - Kaprekar - Numbers.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Algorithms/Implementation/5 - Encryption.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Algorithms/Implementation/5 - Sherlock And Squares.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Algorithms/Implementation/6 - Matrix Rotation.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Algorithms/Implementation/6 - Service Lane.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Algorithms/Implementation/7 - Cut The Sticks.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Algorithms/Implementation/8 - Chocolate Feast.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Algorithms/Implementation/9 - Caesar Cypher.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Algorithms/Warmup/1 - Solve Me First.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Algorithms/Warmup/2 - Simple Array Sum.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Algorithms/Warmup/3 - A Very Big Sum.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Algorithms/Warmup/4 - Diagonal Difference.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Algorithms/Warmup/5 - Plus Minus.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Algorithms/Warmup/6 - Staircase.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Algorithms/Warmup/7 - Time Conversion.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Python/Built-Ins/1 - Zipped!.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Python/Built-Ins/2 - Input().py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Python/Built-Ins/3 - Python Evaluation.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Python/Built-Ins/4 - Sort Data.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Python/Built-Ins/5 - Any Or All..py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Python/Built-Ins/6 - ginortS.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Python/Classes/1 - Dealing With Complex Numbers.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Python/Classes/2 - Find The Torsional Angle.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Python/Collections/1 - Collections.Counter.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Python/Collections/2 - DefaultDict Tutorial.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Python/Collections/3 - Collections.NamedTuple.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Python/Collections/4 - Collections.OrderedDict.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Python/Collections/5 - Word Order.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Python/Collections/6 - Collections.Deque.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Python/Collections/7 - Piling Up!.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Python/Collections/8 - Most Common.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Python/Data Types/1 - Lists.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Python/Data Types/2 - Tuples.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Python/Data Types/3 - Set - Symmetric Difference.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Python/Data Types/4 - List Comprehensions.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Python/Data Types/5 - Find The Second Largest Number.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Python/Data Types/6 - Nested Lists.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Python/Date AndTime/1 - Calendar Module.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Python/Date AndTime/2 - Time Delta.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Python/Errors And Exceptions/1 - Exceptions.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Python/Errors And Exceptions/2 - Incorrect Regex.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Python/Functionals/1 - Map And Lambda Function.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Python/Functionals/2 - Validating Email Addresses With a Filter.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Python/Introduction/1 - Hello World.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Python/Introduction/10 - Interchange Two Numbers.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Python/Introduction/11 - Finding The Percentage.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Python/Introduction/12 - Print Function.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Python/Introduction/2 - Raw Input.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Python/Introduction/3 - Arithmetic Operators.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Python/Introduction/4 - Python Division.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Python/Introduction/5 - Mod Divmod.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Python/Introduction/6 - Power - Mod Power.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Python/Introduction/7 - Integers Come In All Sizes.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Python/Introduction/8 - Loops.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Python/Introduction/9 - What's Your Name.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Python/Itertools/1 - Itertools.Product.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Python/Itertools/2 - Itertools.Permutations.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Python/Itertools/3 - Itertools.Combinations.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Python/Itertools/4 - Itertools.Combinations With Replacement.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Python/Itertools/5 - Compress The String.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Python/Itertools/6 - Iteratables And Iterators.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Python/Itertools/7 - Maximize It.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Python/Math/1 - Polar Coordinates.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Python/Math/2 - Find Angle.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Python/Math/3 - Triangle Quest 2.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Python/Math/4 - Triangle Quest.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Python/Regex And Patterns/1 - Introduction To Regex Module.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Python/Regex And Patterns/10 - Hex Color Code.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Python/Regex And Patterns/11 - HTML Parser - Part 1.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Python/Regex And Patterns/12 - HTML Parser - Part 2.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Python/Regex And Patterns/13 - Detect HTML Tags, Attributes and Attribute Values.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Python/Regex And Patterns/14 - Validating UID.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Python/Regex And Patterns/2 - Re.split().py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Python/Regex And Patterns/3 - Group(), Groups() &amp; Groupdict().py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Python/Regex And Patterns/4 - Re.findall() &amp; Re.finditer().py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Python/Regex And Patterns/5 - Re.start() &amp; Re.end().py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Python/Regex And Patterns/6 - Regex Substitution.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Python/Regex And Patterns/7 - Validating A Roman Number.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Python/Regex And Patterns/8 - Validating Phone Numbers.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Python/Regex And Patterns/9 - Validating &amp; Parsing Email Address.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Python/Sets/1 - Introduction To Sets.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Python/Sets/10 - The Captain's Room.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Python/Sets/11 - Check Subset.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Python/Sets/12 - Check Strict Superset.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Python/Sets/2 - No Idea.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Python/Sets/3 - Set Add.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Python/Sets/4 - Set Discard Remove And Pop.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Python/Sets/5 - Set Union.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Python/Sets/6 - Set Intersection.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Python/Sets/7 - Set Difference.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Python/Sets/8 - Set Symmetric Difference.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Python/Sets/9 - Set Mutations.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Python/Strings/1 - sWAP cASE.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Python/Strings/10 - Alphabet Rangoli.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Python/Strings/11 - Capitalize.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Python/Strings/12 - The Minion Game.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Python/Strings/2 - String Split And Join.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Python/Strings/3 - Mutations.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Python/Strings/4 - Find A String.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Python/Strings/5 - String Validators.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Python/Strings/6 - Text Alignment.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Python/Strings/7 - Text Wrap.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Python/Strings/8 - Desginer Door Mat.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Python/Strings/9 - String Formatting.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Tutorials/30 Days of Code/Day 0 - Hello, World.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Tutorials/30 Days of Code/Day 1 - Data Types.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Tutorials/30 Days of Code/Day 10 - Binary Numbers.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Tutorials/30 Days of Code/Day 11- 2D Arrays.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Tutorials/30 Days of Code/Day 12 - Inheritance.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Tutorials/30 Days of Code/Day 13 - Abstract Classes.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Tutorials/30 Days of Code/Day 14 - Scope.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Tutorials/30 Days of Code/Day 15 - Linked List.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Tutorials/30 Days of Code/Day 2 - Operators.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Tutorials/30 Days of Code/Day 3 - Introduction to Conditional Statements.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Tutorials/30 Days of Code/Day 4 - Class vs. Instance.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Tutorials/30 Days of Code/Day 5 - Loops.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Tutorials/30 Days of Code/Day 6 - Let's Review.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Tutorials/30 Days of Code/Day 7 - Arrays.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Tutorials/30 Days of Code/Day 8 - Dictionaries and Maps.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Tutorials/30 Days of Code/Day 9 - Recursion.py" afterPath="" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/1 - Tutorials/30 Days of Code/Day 26 - Nested Logic.py" afterPath="$PROJECT_DIR$/1 - Tutorials/30 Days of Code/Day 26 - Nested Logic.py" />
+    </list>
+    <ignored path="EhouarnPerret.Python.HackerRank.iws" />
+    <ignored path=".idea/workspace.xml" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="TRACKING_ENABLED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ChangesViewManager" flattened_view="true" show_ignored="false" />
+  <component name="CreatePatchCommitExecutor">
+    <option name="PATCH_PATH" value="" />
+  </component>
+  <component name="ExecutionTargetManager" SELECTED_TARGET="default_target" />
+  <component name="FavoritesManager">
+    <favorites_list name="EhouarnPerret.Python.HackerRank" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf>
+      <file leaf-file-name="Day 29 - Bitwise AND.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/1 - Tutorials/30 Days of Code/Day 29 - Bitwise AND.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="216">
+              <caret line="9" column="0" selection-start-line="9" selection-start-column="0" selection-end-line="9" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Day 0 - Hello, World.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/1 - Tutorials/30 Days of Code/Day 0 - Hello, World.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="0">
+              <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Day 13 - Abstract Classes.py" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/1 - Tutorials/30 Days of Code/Day 13 - Abstract Classes.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="0">
+              <caret line="0" column="39" selection-start-line="0" selection-start-column="39" selection-end-line="0" selection-end-column="39" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/1 - Tutorials/30 Days of Code/Day 29 - Bitwise AND.py" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectFrameBounds">
+    <option name="x" value="127" />
+    <option name="y" value="37" />
+    <option name="width" value="1934" />
+    <option name="height" value="1022" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="false">
+    <OptionsSetting value="true" id="Add" />
+    <OptionsSetting value="true" id="Remove" />
+    <OptionsSetting value="true" id="Checkout" />
+    <OptionsSetting value="true" id="Update" />
+    <OptionsSetting value="true" id="Status" />
+    <OptionsSetting value="true" id="Edit" />
+    <ConfirmationsSetting value="0" id="Add" />
+    <ConfirmationsSetting value="0" id="Remove" />
+  </component>
+  <component name="ProjectView">
+    <navigator currentView="ProjectPane" proportions="" version="1">
+      <flattenPackages />
+      <showMembers />
+      <showModules />
+      <showLibraryContents />
+      <hideEmptyPackages />
+      <abbreviatePackageNames />
+      <autoscrollToSource />
+      <autoscrollFromSource />
+      <sortByType />
+      <manualOrder />
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="Scratches" />
+      <pane id="Scope" />
+      <pane id="ProjectPane">
+        <subPane>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="EhouarnPerret.Python.HackerRank" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="EhouarnPerret.Python.HackerRank" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="EhouarnPerret.Python.HackerRank" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+        </subPane>
+      </pane>
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="settings.editor.selected.configurable" value="reference.settingsdialog.IDE.editor.colors.Console Font" />
+    <property name="settings.editor.splitter.proportion" value="0.2" />
+  </component>
+  <component name="RunManager">
+    <configuration default="true" type="PythonConfigurationType" factoryName="Python">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="EhouarnPerret.Python.HackerRank" />
+      <option name="SCRIPT_NAME" value="" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <method />
+    </configuration>
+    <configuration default="true" type="Tox" factoryName="Tox">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="EhouarnPerret.Python.HackerRank" />
+      <method />
+    </configuration>
+    <configuration default="true" type="tests" factoryName="Attests">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="EhouarnPerret.Python.HackerRank" />
+      <option name="SCRIPT_NAME" value="" />
+      <option name="CLASS_NAME" value="" />
+      <option name="METHOD_NAME" value="" />
+      <option name="FOLDER_NAME" value="" />
+      <option name="TEST_TYPE" value="TEST_SCRIPT" />
+      <option name="PATTERN" value="" />
+      <option name="USE_PATTERN" value="false" />
+      <method />
+    </configuration>
+    <configuration default="true" type="tests" factoryName="Doctests">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="EhouarnPerret.Python.HackerRank" />
+      <option name="SCRIPT_NAME" value="" />
+      <option name="CLASS_NAME" value="" />
+      <option name="METHOD_NAME" value="" />
+      <option name="FOLDER_NAME" value="" />
+      <option name="TEST_TYPE" value="TEST_SCRIPT" />
+      <option name="PATTERN" value="" />
+      <option name="USE_PATTERN" value="false" />
+      <method />
+    </configuration>
+    <configuration default="true" type="tests" factoryName="Nosetests">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="EhouarnPerret.Python.HackerRank" />
+      <option name="SCRIPT_NAME" value="" />
+      <option name="CLASS_NAME" value="" />
+      <option name="METHOD_NAME" value="" />
+      <option name="FOLDER_NAME" value="" />
+      <option name="TEST_TYPE" value="TEST_SCRIPT" />
+      <option name="PATTERN" value="" />
+      <option name="USE_PATTERN" value="false" />
+      <option name="PARAMS" value="" />
+      <option name="USE_PARAM" value="false" />
+      <method />
+    </configuration>
+    <configuration default="true" type="tests" factoryName="Unittests">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="EhouarnPerret.Python.HackerRank" />
+      <option name="SCRIPT_NAME" value="" />
+      <option name="CLASS_NAME" value="" />
+      <option name="METHOD_NAME" value="" />
+      <option name="FOLDER_NAME" value="" />
+      <option name="TEST_TYPE" value="TEST_SCRIPT" />
+      <option name="PATTERN" value="" />
+      <option name="USE_PATTERN" value="false" />
+      <option name="PUREUNITTEST" value="true" />
+      <option name="PARAMS" value="" />
+      <option name="USE_PARAM" value="false" />
+      <method />
+    </configuration>
+    <configuration default="true" type="tests" factoryName="py.test">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="EhouarnPerret.Python.HackerRank" />
+      <option name="SCRIPT_NAME" value="" />
+      <option name="CLASS_NAME" value="" />
+      <option name="METHOD_NAME" value="" />
+      <option name="FOLDER_NAME" value="" />
+      <option name="TEST_TYPE" value="TEST_SCRIPT" />
+      <option name="PATTERN" value="" />
+      <option name="USE_PATTERN" value="false" />
+      <option name="testToRun" value="" />
+      <option name="keywords" value="" />
+      <option name="params" value="" />
+      <option name="USE_PARAM" value="false" />
+      <option name="USE_KEYWORD" value="false" />
+      <method />
+    </configuration>
+  </component>
+  <component name="ShelveChangesManager" show_recycled="false">
+    <option name="remove_strategy" value="false" />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="00a07016-aa52-4a1b-97e0-cfe27523dc72" name="Default" comment="" />
+      <created>1467500222515</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1467500222515</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="127" y="37" width="1934" height="1022" extended-state="0" />
+    <editor active="true" />
+    <layout>
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.27209798" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="true" content_ui="tabs" />
+      <window_info id="Python Console" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="true" content_ui="tabs" />
+      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+    </layout>
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager />
+    <watches-manager />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/1 - Tutorials/30 Days of Code/Day 29 - Bitwise AND.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="216">
+          <caret line="9" column="0" selection-start-line="9" selection-start-column="0" selection-end-line="9" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/1 - Tutorials/30 Days of Code/Day 0 - Hello, World.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/1 - Tutorials/30 Days of Code/Day 13 - Abstract Classes.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="39" selection-start-line="0" selection-start-column="39" selection-end-line="0" selection-end-column="39" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>

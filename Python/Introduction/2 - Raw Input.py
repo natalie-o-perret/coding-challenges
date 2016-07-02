@@ -1,2 +1,0 @@
-line = input()
-print(line)
