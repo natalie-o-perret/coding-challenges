@@ -5,7 +5,7 @@ import sys
 
 n = int(input().strip())
 
-if ((n % 2) != 0):
+if (n % 2) != 0:
 	print("Weird")
 else:
 	if (2 <= n) and (n <= 5):

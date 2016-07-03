@@ -12,7 +12,7 @@
  return back the head of the linked list in the below method
 """
 
-def Insert(head, data):
+def iterative_tail_insert(head, data):
 		node = Node(data)
 		if head:
 				current = head
@@ -23,12 +23,12 @@ def Insert(head, data):
 				head = node
 		return head
 
-def Recursive_Insert(head, data):
+def recursive_tail_insert(head, data):
 	if not head:
 		return Node(data)
 	else:
 		if head.next:
-			Recursive_Insert(head.next, data)
+			recursive_tail_insert(head.next, data)
 		else:
 			head.next = Node(data, None)
 		return head

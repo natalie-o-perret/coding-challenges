@@ -2,142 +2,40 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="00a07016-aa52-4a1b-97e0-cfe27523dc72" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/EhouarnPerret.Python.HackerRank.iml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/encodings.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/misc.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/modules.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/vcs.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Algorithms/Bit Manipulation/1 - Lonely Integer.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Algorithms/Bit Manipulation/2 - Maximize XOR.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Algorithms/Bit Manipulation/3 - Counter Game.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Algorithms/Bit Manipulation/4 - Sansa and XOR.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Algorithms/Bit Manipulation/5 - Flipping Bits.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Algorithms/Implementation/1 - Angry Professor.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Algorithms/Implementation/2 - Sherlock And The Beast.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Algorithms/Implementation/3 - Utopian Tree.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Algorithms/Implementation/4 - Find Digits.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Algorithms/Implementation/4 - Kaprekar - Numbers.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Algorithms/Implementation/5 - Encryption.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Algorithms/Implementation/5 - Sherlock And Squares.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Algorithms/Implementation/6 - Matrix Rotation.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Algorithms/Implementation/6 - Service Lane.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Algorithms/Implementation/7 - Cut The Sticks.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Algorithms/Implementation/8 - Chocolate Feast.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Algorithms/Implementation/9 - Caesar Cypher.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Algorithms/Warmup/1 - Solve Me First.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Algorithms/Warmup/2 - Simple Array Sum.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Algorithms/Warmup/3 - A Very Big Sum.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Algorithms/Warmup/4 - Diagonal Difference.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Algorithms/Warmup/5 - Plus Minus.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Algorithms/Warmup/6 - Staircase.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Algorithms/Warmup/7 - Time Conversion.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Python/Built-Ins/1 - Zipped!.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Python/Built-Ins/2 - Input().py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Python/Built-Ins/3 - Python Evaluation.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Python/Built-Ins/4 - Sort Data.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Python/Built-Ins/5 - Any Or All..py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Python/Built-Ins/6 - ginortS.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Python/Classes/1 - Dealing With Complex Numbers.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Python/Classes/2 - Find The Torsional Angle.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Python/Collections/1 - Collections.Counter.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Python/Collections/2 - DefaultDict Tutorial.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Python/Collections/3 - Collections.NamedTuple.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Python/Collections/4 - Collections.OrderedDict.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Python/Collections/5 - Word Order.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Python/Collections/6 - Collections.Deque.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Python/Collections/7 - Piling Up!.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Python/Collections/8 - Most Common.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Python/Data Types/1 - Lists.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Python/Data Types/2 - Tuples.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Python/Data Types/3 - Set - Symmetric Difference.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Python/Data Types/4 - List Comprehensions.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Python/Data Types/5 - Find The Second Largest Number.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Python/Data Types/6 - Nested Lists.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Python/Date AndTime/1 - Calendar Module.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Python/Date AndTime/2 - Time Delta.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Python/Errors And Exceptions/1 - Exceptions.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Python/Errors And Exceptions/2 - Incorrect Regex.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Python/Functionals/1 - Map And Lambda Function.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Python/Functionals/2 - Validating Email Addresses With a Filter.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Python/Introduction/1 - Hello World.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Python/Introduction/10 - Interchange Two Numbers.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Python/Introduction/11 - Finding The Percentage.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Python/Introduction/12 - Print Function.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Python/Introduction/2 - Raw Input.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Python/Introduction/3 - Arithmetic Operators.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Python/Introduction/4 - Python Division.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Python/Introduction/5 - Mod Divmod.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Python/Introduction/6 - Power - Mod Power.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Python/Introduction/7 - Integers Come In All Sizes.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Python/Introduction/8 - Loops.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Python/Introduction/9 - What's Your Name.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Python/Itertools/1 - Itertools.Product.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Python/Itertools/2 - Itertools.Permutations.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Python/Itertools/3 - Itertools.Combinations.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Python/Itertools/4 - Itertools.Combinations With Replacement.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Python/Itertools/5 - Compress The String.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Python/Itertools/6 - Iteratables And Iterators.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Python/Itertools/7 - Maximize It.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Python/Math/1 - Polar Coordinates.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Python/Math/2 - Find Angle.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Python/Math/3 - Triangle Quest 2.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Python/Math/4 - Triangle Quest.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Python/Regex And Patterns/1 - Introduction To Regex Module.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Python/Regex And Patterns/10 - Hex Color Code.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Python/Regex And Patterns/11 - HTML Parser - Part 1.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Python/Regex And Patterns/12 - HTML Parser - Part 2.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Python/Regex And Patterns/13 - Detect HTML Tags, Attributes and Attribute Values.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Python/Regex And Patterns/14 - Validating UID.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Python/Regex And Patterns/2 - Re.split().py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Python/Regex And Patterns/3 - Group(), Groups() &amp; Groupdict().py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Python/Regex And Patterns/4 - Re.findall() &amp; Re.finditer().py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Python/Regex And Patterns/5 - Re.start() &amp; Re.end().py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Python/Regex And Patterns/6 - Regex Substitution.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Python/Regex And Patterns/7 - Validating A Roman Number.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Python/Regex And Patterns/8 - Validating Phone Numbers.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Python/Regex And Patterns/9 - Validating &amp; Parsing Email Address.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Python/Sets/1 - Introduction To Sets.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Python/Sets/10 - The Captain's Room.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Python/Sets/11 - Check Subset.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Python/Sets/12 - Check Strict Superset.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Python/Sets/2 - No Idea.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Python/Sets/3 - Set Add.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Python/Sets/4 - Set Discard Remove And Pop.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Python/Sets/5 - Set Union.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Python/Sets/6 - Set Intersection.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Python/Sets/7 - Set Difference.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Python/Sets/8 - Set Symmetric Difference.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Python/Sets/9 - Set Mutations.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Python/Strings/1 - sWAP cASE.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Python/Strings/10 - Alphabet Rangoli.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Python/Strings/11 - Capitalize.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Python/Strings/12 - The Minion Game.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Python/Strings/2 - String Split And Join.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Python/Strings/3 - Mutations.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Python/Strings/4 - Find A String.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Python/Strings/5 - String Validators.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Python/Strings/6 - Text Alignment.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Python/Strings/7 - Text Wrap.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Python/Strings/8 - Desginer Door Mat.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Python/Strings/9 - String Formatting.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Tutorials/30 Days of Code/Day 0 - Hello, World.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Tutorials/30 Days of Code/Day 1 - Data Types.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Tutorials/30 Days of Code/Day 10 - Binary Numbers.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Tutorials/30 Days of Code/Day 11- 2D Arrays.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Tutorials/30 Days of Code/Day 12 - Inheritance.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Tutorials/30 Days of Code/Day 13 - Abstract Classes.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Tutorials/30 Days of Code/Day 14 - Scope.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Tutorials/30 Days of Code/Day 15 - Linked List.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Tutorials/30 Days of Code/Day 2 - Operators.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Tutorials/30 Days of Code/Day 3 - Introduction to Conditional Statements.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Tutorials/30 Days of Code/Day 4 - Class vs. Instance.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Tutorials/30 Days of Code/Day 5 - Loops.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Tutorials/30 Days of Code/Day 6 - Let's Review.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Tutorials/30 Days of Code/Day 7 - Arrays.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Tutorials/30 Days of Code/Day 8 - Dictionaries and Maps.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Tutorials/30 Days of Code/Day 9 - Recursion.py" afterPath="" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/1 - Tutorials/30 Days of Code/Day 26 - Nested Logic.py" afterPath="$PROJECT_DIR$/1 - Tutorials/30 Days of Code/Day 26 - Nested Logic.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/1 - Tutorials/30 Days of Code/Day 27 - Testing.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/1 - Tutorials/30 Days of Code/Day 28 - RegEx, Patterns, and Intro to Databases.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/1 - Tutorials/30 Days of Code/Day 29 - Bitwise AND.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/3 - Data Structures/2 - Linked Lists/8 - Compare two linked lists.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/3 - Data Structures/2 - Linked Lists/9 - Merge two sorted linked lists.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/1 - Tutorials/30 Days of Code/Day 1 - Data Types.py" afterPath="$PROJECT_DIR$/1 - Tutorials/30 Days of Code/Day 1 - Data Types.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/1 - Tutorials/30 Days of Code/Day 17 - More Exceptions.py" afterPath="$PROJECT_DIR$/1 - Tutorials/30 Days of Code/Day 17 - More Exceptions.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/1 - Tutorials/30 Days of Code/Day 23 - BST Level-Order Traversal.py" afterPath="$PROJECT_DIR$/1 - Tutorials/30 Days of Code/Day 23 - BST Level-Order Traversal.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/1 - Tutorials/30 Days of Code/Day 24 - More Linked Lists.py" afterPath="$PROJECT_DIR$/1 - Tutorials/30 Days of Code/Day 24 - More Linked Lists.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/1 - Tutorials/30 Days of Code/Day 3 - Introduction to Conditional Statements.py" afterPath="$PROJECT_DIR$/1 - Tutorials/30 Days of Code/Day 3 - Introduction to Conditional Statements.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/1 - Tutorials/30 Days of Code/Day 5 - Loops.py" afterPath="$PROJECT_DIR$/1 - Tutorials/30 Days of Code/Day 5 - Loops.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/2 - Algorithms/Bit Manipulation/1 - Lonely Integer.py" afterPath="$PROJECT_DIR$/2 - Algorithms/Bit Manipulation/1 - Lonely Integer.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/2 - Algorithms/Bit Manipulation/2 - Maximize XOR.py" afterPath="$PROJECT_DIR$/2 - Algorithms/Bit Manipulation/2 - Maximize XOR.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/2 - Algorithms/Bit Manipulation/3 - Counter Game.py" afterPath="$PROJECT_DIR$/2 - Algorithms/Bit Manipulation/3 - Counter Game.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/2 - Algorithms/Bit Manipulation/5 - Flipping Bits.py" afterPath="$PROJECT_DIR$/2 - Algorithms/Bit Manipulation/5 - Flipping Bits.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/2 - Algorithms/Implementation/1 - Angry Professor.py" afterPath="$PROJECT_DIR$/2 - Algorithms/Implementation/1 - Angry Professor.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/2 - Algorithms/Implementation/2 - Sherlock And The Beast.py" afterPath="$PROJECT_DIR$/2 - Algorithms/Implementation/2 - Sherlock And The Beast.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/2 - Algorithms/Implementation/3 - Utopian Tree.py" afterPath="$PROJECT_DIR$/2 - Algorithms/Implementation/3 - Utopian Tree.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/2 - Algorithms/Implementation/4 - Find Digits.py" afterPath="$PROJECT_DIR$/2 - Algorithms/Implementation/4 - Find Digits.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/2 - Algorithms/Implementation/4 - Kaprekar - Numbers.py" afterPath="$PROJECT_DIR$/2 - Algorithms/Implementation/4 - Kaprekar - Numbers.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/2 - Algorithms/Implementation/5 - Encryption.py" afterPath="$PROJECT_DIR$/2 - Algorithms/Implementation/5 - Encryption.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/2 - Algorithms/Implementation/5 - Sherlock And Squares.py" afterPath="$PROJECT_DIR$/2 - Algorithms/Implementation/5 - Sherlock And Squares.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/2 - Algorithms/Implementation/6 - Service Lane.py" afterPath="$PROJECT_DIR$/2 - Algorithms/Implementation/6 - Service Lane.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/2 - Algorithms/Implementation/7 - Cut The Sticks.py" afterPath="$PROJECT_DIR$/2 - Algorithms/Implementation/7 - Cut The Sticks.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/2 - Algorithms/Implementation/9 - Caesar Cypher.py" afterPath="$PROJECT_DIR$/2 - Algorithms/Implementation/9 - Caesar Cypher.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/2 - Algorithms/Strings/1 - Pangrams.py" afterPath="$PROJECT_DIR$/2 - Algorithms/Strings/1 - Pangrams.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/2 - Algorithms/Strings/4 - Gemstones.py" afterPath="$PROJECT_DIR$/2 - Algorithms/Strings/4 - Gemstones.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/3 - Data Structures/2 - Linked Lists/1 - Print the Elements of a Linked List.py" afterPath="$PROJECT_DIR$/3 - Data Structures/2 - Linked Lists/1 - Print the Elements of a Linked List.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/3 - Data Structures/2 - Linked Lists/2 - Insert a Node at the Tail of a Linked List.py" afterPath="$PROJECT_DIR$/3 - Data Structures/2 - Linked Lists/2 - Insert a Node at the Tail of a Linked List.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/3 - Data Structures/2 - Linked Lists/3 - Insert a node at the head of a linked list.py" afterPath="$PROJECT_DIR$/3 - Data Structures/2 - Linked Lists/3 - Insert a node at the head of a linked list.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/3 - Data Structures/2 - Linked Lists/4 - Delete a Node.py" afterPath="$PROJECT_DIR$/3 - Data Structures/2 - Linked Lists/4 - Delete a Node.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/3 - Data Structures/2 - Linked Lists/5 - Insert a node at a specific position in a linked list.py" afterPath="$PROJECT_DIR$/3 - Data Structures/2 - Linked Lists/5 - Insert a node at a specific position in a linked list.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/3 - Data Structures/2 - Linked Lists/7 - Reverse a linked list.py" afterPath="$PROJECT_DIR$/3 - Data Structures/2 - Linked Lists/7 - Reverse a linked list.py" />
     </list>
     <ignored path="EhouarnPerret.Python.HackerRank.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -157,19 +55,79 @@
     <favorites_list name="EhouarnPerret.Python.HackerRank" />
   </component>
   <component name="FileEditorManager">
-    <leaf>
-      <file leaf-file-name="Day 29 - Bitwise AND.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/1 - Tutorials/30 Days of Code/Day 29 - Bitwise AND.py">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="450">
+      <file leaf-file-name="8 - Compare two linked lists.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/3 - Data Structures/2 - Linked Lists/8 - Compare two linked lists.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="216">
-              <caret line="9" column="0" selection-start-line="9" selection-start-column="0" selection-end-line="9" selection-end-column="0" />
+            <state relative-caret-position="335">
+              <caret line="24" column="0" selection-start-line="24" selection-start-column="0" selection-end-line="24" selection-end-column="0" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="Day 0 - Hello, World.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/1 - Tutorials/30 Days of Code/Day 0 - Hello, World.py">
+      <file leaf-file-name="9 - Merge two sorted linked lists.py" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/3 - Data Structures/2 - Linked Lists/9 - Merge two sorted linked lists.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="321">
+              <caret line="26" column="29" selection-start-line="26" selection-start-column="29" selection-end-line="26" selection-end-column="29" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="5 - Insert a node at a specific position in a linked list.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/3 - Data Structures/2 - Linked Lists/5 - Insert a node at a specific position in a linked list.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="576">
+              <caret line="24" column="13" selection-start-line="24" selection-start-column="13" selection-end-line="24" selection-end-column="13" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="4 - Delete a Node.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/3 - Data Structures/2 - Linked Lists/4 - Delete a Node.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="648">
+              <caret line="27" column="0" selection-start-line="27" selection-start-column="0" selection-end-line="27" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="3 - Insert a node at the head of a linked list.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/3 - Data Structures/2 - Linked Lists/3 - Insert a node at the head of a linked list.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="432">
+              <caret line="18" column="0" selection-start-line="18" selection-start-column="0" selection-end-line="18" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="2 - Insert a Node at the Tail of a Linked List.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/3 - Data Structures/2 - Linked Lists/2 - Insert a Node at the Tail of a Linked List.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="792">
+              <caret line="33" column="19" selection-start-line="33" selection-start-column="19" selection-end-line="33" selection-end-column="19" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="1 - Print the Elements of a Linked List.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/3 - Data Structures/2 - Linked Lists/1 - Print the Elements of a Linked List.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="312">
+              <caret line="13" column="8" selection-start-line="13" selection-start-column="8" selection-end-line="13" selection-end-column="8" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="6 - Print in Reverse.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/3 - Data Structures/2 - Linked Lists/6 - Print in Reverse.py">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="0">
               <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
@@ -178,17 +136,14 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="Day 13 - Abstract Classes.py" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/1 - Tutorials/30 Days of Code/Day 13 - Abstract Classes.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="0">
-              <caret line="0" column="39" selection-start-line="0" selection-start-column="39" selection-end-line="0" selection-end-column="39" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
     </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -197,14 +152,46 @@
     <option name="CHANGED_PATHS">
       <list>
         <option value="$PROJECT_DIR$/1 - Tutorials/30 Days of Code/Day 29 - Bitwise AND.py" />
+        <option value="$PROJECT_DIR$/2 - Algorithms/Implementation/9 - Caesar Cypher.py" />
+        <option value="$PROJECT_DIR$/2 - Algorithms/Implementation/8 - Chocolate Feast.py" />
+        <option value="$PROJECT_DIR$/2 - Algorithms/Implementation/7 - Cut The Sticks.py" />
+        <option value="$PROJECT_DIR$/2 - Algorithms/Implementation/5 - Encryption.py" />
+        <option value="$PROJECT_DIR$/2 - Algorithms/Implementation/4 - Kaprekar - Numbers.py" />
+        <option value="$PROJECT_DIR$/2 - Algorithms/Implementation/4 - Find Digits.py" />
+        <option value="$PROJECT_DIR$/2 - Algorithms/Implementation/3 - Utopian Tree.py" />
+        <option value="$PROJECT_DIR$/2 - Algorithms/Implementation/1 - Angry Professor.py" />
+        <option value="$PROJECT_DIR$/2 - Algorithms/Implementation/2 - Sherlock And The Beast.py" />
+        <option value="$PROJECT_DIR$/2 - Algorithms/Bit Manipulation/1 - Lonely Integer.py" />
+        <option value="$PROJECT_DIR$/1 - Tutorials/30 Days of Code/Day 1 - Data Types.py" />
+        <option value="$PROJECT_DIR$/1 - Tutorials/30 Days of Code/Day 3 - Introduction to Conditional Statements.py" />
+        <option value="$PROJECT_DIR$/1 - Tutorials/30 Days of Code/Day 5 - Loops.py" />
+        <option value="$PROJECT_DIR$/1 - Tutorials/30 Days of Code/Day 17 - More Exceptions.py" />
+        <option value="$PROJECT_DIR$/1 - Tutorials/30 Days of Code/Day 23 - BST Level-Order Traversal.py" />
+        <option value="$PROJECT_DIR$/1 - Tutorials/30 Days of Code/Day 24 - More Linked Lists.py" />
+        <option value="$PROJECT_DIR$/2 - Algorithms/Bit Manipulation/2 - Maximize XOR.py" />
+        <option value="$PROJECT_DIR$/2 - Algorithms/Bit Manipulation/3 - Counter Game.py" />
+        <option value="$PROJECT_DIR$/2 - Algorithms/Bit Manipulation/5 - Flipping Bits.py" />
+        <option value="$PROJECT_DIR$/2 - Algorithms/Implementation/6 - Service Lane.py" />
+        <option value="$PROJECT_DIR$/2 - Algorithms/Implementation/5 - Sherlock And Squares.py" />
+        <option value="$PROJECT_DIR$/2 - Algorithms/Strings/1 - Pangrams.py" />
+        <option value="$PROJECT_DIR$/2 - Algorithms/Strings/4 - Gemstones.py" />
+        <option value="$PROJECT_DIR$/2 - Algorithms/Strings/5 - Funny String.py" />
+        <option value="$PROJECT_DIR$/3 - Data Structures/2 - Linked Lists/7 - Reverse a linked list.py" />
+        <option value="$PROJECT_DIR$/3 - Data Structures/2 - Linked Lists/8 - Compare two linked lists.py" />
+        <option value="$PROJECT_DIR$/3 - Data Structures/2 - Linked Lists/9 - Merge two sorted linked lists.py" />
+        <option value="$PROJECT_DIR$/3 - Data Structures/2 - Linked Lists/5 - Insert a node at a specific position in a linked list.py" />
+        <option value="$PROJECT_DIR$/3 - Data Structures/2 - Linked Lists/4 - Delete a Node.py" />
+        <option value="$PROJECT_DIR$/3 - Data Structures/2 - Linked Lists/3 - Insert a node at the head of a linked list.py" />
+        <option value="$PROJECT_DIR$/3 - Data Structures/2 - Linked Lists/1 - Print the Elements of a Linked List.py" />
+        <option value="$PROJECT_DIR$/3 - Data Structures/2 - Linked Lists/2 - Insert a Node at the Tail of a Linked List.py" />
       </list>
     </option>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="127" />
-    <option name="y" value="37" />
-    <option name="width" value="1934" />
-    <option name="height" value="1022" />
+    <option name="x" value="-11" />
+    <option name="y" value="-11" />
+    <option name="width" value="1942" />
+    <option name="height" value="1056" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="false">
     <OptionsSetting value="true" id="Add" />
@@ -231,8 +218,8 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scratches" />
       <pane id="Scope" />
+      <pane id="Scratches" />
       <pane id="ProjectPane">
         <subPane>
           <PATH>
@@ -251,6 +238,38 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="EhouarnPerret.Python.HackerRank" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="EhouarnPerret.Python.HackerRank" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="3 - Data Structures" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="EhouarnPerret.Python.HackerRank" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="EhouarnPerret.Python.HackerRank" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="3 - Data Structures" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="2 - Linked Lists" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
         </subPane>
       </pane>
     </panes>
@@ -259,7 +278,24 @@
     <property name="settings.editor.selected.configurable" value="reference.settingsdialog.IDE.editor.colors.Console Font" />
     <property name="settings.editor.splitter.proportion" value="0.2" />
   </component>
-  <component name="RunManager">
+  <component name="RunManager" selected="Python.8 - Compare two linked lists">
+    <configuration default="false" name="8 - Compare two linked lists" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/3 - Data Structures/2 - Linked Lists" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="EhouarnPerret.Python.HackerRank" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/3 - Data Structures/2 - Linked Lists/8 - Compare two linked lists.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <method />
+    </configuration>
     <configuration default="true" type="PythonConfigurationType" factoryName="Python">
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -394,9 +430,20 @@
       <option name="USE_KEYWORD" value="false" />
       <method />
     </configuration>
+    <list size="1">
+      <item index="0" class="java.lang.String" itemvalue="Python.8 - Compare two linked lists" />
+    </list>
+    <recent_temporary>
+      <list size="1">
+        <item index="0" class="java.lang.String" itemvalue="Python.8 - Compare two linked lists" />
+      </list>
+    </recent_temporary>
   </component>
   <component name="ShelveChangesManager" show_recycled="false">
     <option name="remove_strategy" value="false" />
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
   </component>
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
@@ -406,48 +453,375 @@
       <option name="presentableId" value="Default" />
       <updated>1467500222515</updated>
     </task>
+    <task id="LOCAL-00001" summary="Add PyCharm project stuff&#10;Clean up the project">
+      <created>1467500503987</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1467500503987</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="127" y="37" width="1934" height="1022" extended-state="0" />
+    <frame x="-11" y="-11" width="1942" height="1056" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.27209798" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.2847296" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
-      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="true" content_ui="tabs" />
-      <window_info id="Python Console" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
-      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32714617" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Python Console" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
-      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="true" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
-      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
-      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.27534246" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
     </layout>
   </component>
+  <component name="Vcs.Log.UiProperties">
+    <option name="RECENTLY_FILTERED_USER_GROUPS">
+      <collection />
+    </option>
+    <option name="RECENTLY_FILTERED_BRANCH_GROUPS">
+      <collection />
+    </option>
+  </component>
   <component name="VcsContentAnnotationSettings">
     <option name="myLimit" value="2678400000" />
   </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Add PyCharm project stuff&#10;Clean up the project" />
+    <option name="LAST_COMMIT_MESSAGE" value="Add PyCharm project stuff&#10;Clean up the project" />
+  </component>
   <component name="XDebuggerManager">
-    <breakpoint-manager />
+    <breakpoint-manager>
+      <option name="time" value="2" />
+    </breakpoint-manager>
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/1 - Tutorials/30 Days of Code/Day 29 - Bitwise AND.py">
+    <entry file="file://$PROJECT_DIR$/1 - Tutorials/30 Days of Code/Day 2 - Operators.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="168">
+          <caret line="7" column="0" selection-start-line="7" selection-start-column="0" selection-end-line="7" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/1 - Tutorials/30 Days of Code/Day 3 - Introduction to Conditional Statements.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="168">
+          <caret line="7" column="9" selection-start-line="7" selection-start-column="9" selection-end-line="7" selection-end-column="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/1 - Tutorials/30 Days of Code/Day 4 - Class vs. Instance.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/1 - Tutorials/30 Days of Code/Day 5 - Loops.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="192">
+          <caret line="8" column="25" selection-start-line="8" selection-start-column="25" selection-end-line="8" selection-end-column="25" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/1 - Tutorials/30 Days of Code/Day 6 - Let's Review.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/1 - Tutorials/30 Days of Code/Day 7 - Arrays.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="216">
-          <caret line="9" column="0" selection-start-line="9" selection-start-column="0" selection-end-line="9" selection-end-column="0" />
+          <caret line="9" column="3" selection-start-line="9" selection-start-column="3" selection-end-line="9" selection-end-column="3" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/1 - Tutorials/30 Days of Code/Day 8 - Dictionaries and Maps.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="168">
+          <caret line="7" column="4" selection-start-line="7" selection-start-column="4" selection-end-line="7" selection-end-column="4" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/1 - Tutorials/30 Days of Code/Day 9 - Recursion.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/1 - Tutorials/30 Days of Code/Day 10 - Binary Numbers.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/1 - Tutorials/30 Days of Code/Day 11- 2D Arrays.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="358">
+          <caret line="19" column="17" selection-start-line="19" selection-start-column="17" selection-end-line="19" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/1 - Tutorials/30 Days of Code/Day 12 - Inheritance.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-554">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/1 - Tutorials/30 Days of Code/Day 13 - Abstract Classes.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-197">
+          <caret line="0" column="39" selection-start-line="0" selection-start-column="39" selection-end-line="0" selection-end-column="39" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/1 - Tutorials/30 Days of Code/Day 14 - Scope.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/1 - Tutorials/30 Days of Code/Day 15 - Linked List.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/1 - Tutorials/30 Days of Code/Day 16 - Exceptions String To Integer.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/1 - Tutorials/30 Days of Code/Day 17 - More Exceptions.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="288">
+          <caret line="12" column="3" selection-start-line="12" selection-start-column="3" selection-end-line="12" selection-end-column="3" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/1 - Tutorials/30 Days of Code/Day 18 - Queues and Stacks.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-648">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/1 - Tutorials/30 Days of Code/Day 20 - Sorting.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-221">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/1 - Tutorials/30 Days of Code/Day 22 - Binary Search Trees.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/1 - Tutorials/30 Days of Code/Day 23 - BST Level-Order Traversal.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="43">
+          <caret line="19" column="13" selection-start-line="19" selection-start-column="13" selection-end-line="19" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/1 - Tutorials/30 Days of Code/Day 24 - More Linked Lists.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="168">
+          <caret line="7" column="9" selection-start-line="7" selection-start-column="9" selection-end-line="7" selection-end-column="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/1 - Tutorials/30 Days of Code/Day 26 - Nested Logic.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/1 - Tutorials/30 Days of Code/Day 25 - Running Time and Complexity.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="456">
+          <caret line="19" column="0" selection-start-line="19" selection-start-column="0" selection-end-line="19" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/2 - Algorithms/Bit Manipulation/2 - Maximize XOR.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="120">
+          <caret line="6" column="4" selection-start-line="6" selection-start-column="4" selection-end-line="6" selection-end-column="4" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/2 - Algorithms/Bit Manipulation/3 - Counter Game.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="120">
+          <caret line="5" column="8" selection-start-line="5" selection-start-column="8" selection-end-line="5" selection-end-column="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/2 - Algorithms/Bit Manipulation/4 - Sansa and XOR.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/2 - Algorithms/Bit Manipulation/5 - Flipping Bits.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="120">
+          <caret line="5" column="0" selection-start-line="5" selection-start-column="0" selection-end-line="5" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/2 - Algorithms/Implementation/1 - Angry Professor.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="240">
+          <caret line="10" column="9" selection-start-line="10" selection-start-column="9" selection-end-line="10" selection-end-column="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/2 - Algorithms/Implementation/6 - Service Lane.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="48">
+          <caret line="2" column="0" selection-start-line="2" selection-start-column="0" selection-end-line="2" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/2 - Algorithms/Implementation/6 - Matrix Rotation.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/2 - Algorithms/Implementation/5 - Sherlock And Squares.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="120">
+          <caret line="5" column="8" selection-start-line="5" selection-start-column="8" selection-end-line="5" selection-end-column="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/2 - Algorithms/Strings/1 - Pangrams.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="72">
+          <caret line="3" column="7" selection-start-line="3" selection-start-column="7" selection-end-line="3" selection-end-column="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/2 - Algorithms/Strings/2 - Alternating Characters.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/2 - Algorithms/Strings/3 - The Love-Letter Mystery.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="14" selection-start-line="0" selection-start-column="14" selection-end-line="0" selection-end-column="14" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/2 - Algorithms/Strings/4 - Gemstones.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="9" selection-start-line="0" selection-start-column="9" selection-end-line="0" selection-end-column="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/2 - Algorithms/Strings/5 - Funny String.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="120">
+          <caret line="5" column="15" selection-start-line="5" selection-start-column="15" selection-end-line="5" selection-end-column="15" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/README.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;MarkdownPreviewEditor]">
+        <state split_layout="FIRST">
+          <first_editor relative-caret-position="48">
+            <caret line="2" column="0" selection-start-line="2" selection-start-column="0" selection-end-line="2" selection-end-column="0" />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+      <provider editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+      <provider editor-type-id="MarkdownFxPreviewEditor">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/LICENSE">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/.PyCharm2016.1/system/python_stubs/-1442825926/builtins.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="854">
+          <caret line="2553" column="8" selection-start-line="2553" selection-start-column="8" selection-end-line="2553" selection-end-column="8" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/1 - Tutorials/30 Days of Code/Day 0 - Hello, World.py">
+    <entry file="file://$PROJECT_DIR$/6 - Python/Math/2 - Find Angle.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="288">
+          <caret line="12" column="10" selection-start-line="12" selection-start-column="10" selection-end-line="12" selection-end-column="10" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/6 - Python/Math/3 - Triangle Quest 2.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/6 - Python/Math/1 - Polar Coordinates.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="48">
+          <caret line="2" column="6" selection-start-line="2" selection-start-column="6" selection-end-line="2" selection-end-column="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/3 - Data Structures/2 - Linked Lists/7 - Reverse a linked list.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-216">
+          <caret line="12" column="3" selection-start-line="12" selection-start-column="3" selection-end-line="12" selection-end-column="3" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/3 - Data Structures/2 - Linked Lists/6 - Print in Reverse.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
@@ -455,10 +829,58 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/1 - Tutorials/30 Days of Code/Day 13 - Abstract Classes.py">
+    <entry file="file://$PROJECT_DIR$/3 - Data Structures/2 - Linked Lists/5 - Insert a node at a specific position in a linked list.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="39" selection-start-line="0" selection-start-column="39" selection-end-line="0" selection-end-column="39" />
+        <state relative-caret-position="576">
+          <caret line="24" column="13" selection-start-line="24" selection-start-column="13" selection-end-line="24" selection-end-column="13" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/3 - Data Structures/2 - Linked Lists/4 - Delete a Node.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="648">
+          <caret line="27" column="0" selection-start-line="27" selection-start-column="0" selection-end-line="27" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/3 - Data Structures/2 - Linked Lists/3 - Insert a node at the head of a linked list.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="432">
+          <caret line="18" column="0" selection-start-line="18" selection-start-column="0" selection-end-line="18" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/3 - Data Structures/2 - Linked Lists/1 - Print the Elements of a Linked List.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="312">
+          <caret line="13" column="8" selection-start-line="13" selection-start-column="8" selection-end-line="13" selection-end-column="8" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/3 - Data Structures/2 - Linked Lists/2 - Insert a Node at the Tail of a Linked List.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="792">
+          <caret line="33" column="19" selection-start-line="33" selection-start-column="19" selection-end-line="33" selection-end-column="19" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/3 - Data Structures/2 - Linked Lists/8 - Compare two linked lists.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="335">
+          <caret line="24" column="0" selection-start-line="24" selection-start-column="0" selection-end-line="24" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/3 - Data Structures/2 - Linked Lists/9 - Merge two sorted linked lists.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="321">
+          <caret line="26" column="29" selection-start-line="26" selection-start-column="29" selection-end-line="26" selection-end-column="29" />
           <folding />
         </state>
       </provider>

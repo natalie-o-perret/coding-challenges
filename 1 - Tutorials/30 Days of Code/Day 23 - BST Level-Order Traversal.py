@@ -17,7 +17,7 @@ class Solution:
                 root.right = current
         return root
 
-    def levelOrder(self, root):
+    def level_order_traverse(self, root):
         #Write your code here
         if root:
             queue = [root]
@@ -35,4 +35,4 @@ root = None
 for i in range(T):
     data = int(input())
     root = myTree.insert(root, data)
-myTree.levelOrder(root)
+myTree.level_order_traverse(root)

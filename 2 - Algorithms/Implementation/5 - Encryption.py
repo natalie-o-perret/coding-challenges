@@ -11,7 +11,7 @@ sl = math.sqrt(l)
 r = math.floor(sl)
 c = math.ceil(sl)
 
-if ((r * c) < l):
+if (r * c) < l:
 	r = c
 
 for	i in range(0, c):

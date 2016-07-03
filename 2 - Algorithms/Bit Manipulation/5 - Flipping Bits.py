@@ -1,7 +1,9 @@
 #!/usr/bin/python3
 
+
 def flipbits(n):
-	return ~n + 2**32
+	return ~n + 2 ** 32
+
 
 if __name__ == '__main__':
 	t = int(input().strip())

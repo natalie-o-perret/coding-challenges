@@ -14,7 +14,7 @@
 
 # This is a "method-only" submission.
 # You only need to complete this method.
-def InsertNth(head, data, position):
+def insert(head, data, position):
 	node = Node(data)
 	if not head:
 		head = node

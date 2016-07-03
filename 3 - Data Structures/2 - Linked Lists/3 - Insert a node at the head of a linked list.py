@@ -12,7 +12,7 @@
  return back the head of the linked list in the below method. 
 """
 
-def Insert(head, data):
+def insert(head, data):
 	node = Node(data)
 	node.next = head
 	return node

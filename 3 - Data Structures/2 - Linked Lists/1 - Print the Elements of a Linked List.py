@@ -10,7 +10,8 @@
        self.next = next_node
 """
 
-def print_list(head):
+
+def iterative_print_list(head):
 	if head:
 		current = head
 		while current:

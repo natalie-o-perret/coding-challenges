@@ -11,7 +11,7 @@
  return back the head of the linked list in the below method. 
 """
 
-def Delete(head, position):
+def iterative_delete(head, position):
 	if head:
 		if position == 0:
 			head = head.next
@@ -26,9 +26,9 @@ def Delete(head, position):
 			previous.next = current.next
 	return head
 
-def Recursive_Delete(head, position):
+def recursive_delete(head, position):
 	if position == 0:
 		return head.next
 	else:
-		head.next = Recursive_Delete(head.next, position - 1)
+		head.next = recursive_delete(head.next, position - 1)
 		return head
