@@ -12,6 +12,7 @@
  return back the head of the linked list in the below method. 
 """
 
+
 # This is a "method-only" submission.
 # You only need to complete this method.
 def insert(head, data, position):

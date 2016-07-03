@@ -1,9 +1,9 @@
 #!/bin/python3
 
-def solveMeFirst(a,b):
+def solve_me_first(a, b):
    return a + b
   
 num1 = int(input())
 num2 = int(input())
-res = solveMeFirst(num1,num2)
+res = solve_me_first(num1, num2)
 print(res)

@@ -13,18 +13,18 @@
 """
 
 
-def recursive_compare(head_a, head_b):
+def compare_recursive(head_a, head_b):
 	if not head_a and not head_b:
 		# return True
 		return 1
 	elif (head_a and head_b) and (head_a.data == head_b.data):
-		return recursive_compare(head_a.next, head_b.next)
+		return compare_recursive(head_a.next, head_b.next)
 	else:
 		# return False
 		return 0
 
 
-def iterative_compare(head_a, head_b):
+def compare_iterative(head_a, head_b):
 	node_a = head_a
 	node_b = head_b
 	while True:

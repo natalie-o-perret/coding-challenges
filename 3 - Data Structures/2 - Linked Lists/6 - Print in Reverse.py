@@ -12,7 +12,8 @@
  
 """
 
-def ReversePrint(head):
+
+def print_reverse_iterative(head):
 	if head:
 		stack = [head]
 		while stack[-1].next:
@@ -23,7 +24,7 @@ def ReversePrint(head):
 			print(node.data)
 
 
-def Recursive_ReversePrint(head):
+def print_reverse_recursive(head):
 	if head:
-		ReversePrint(head.next)
+		print_reverse_iterative(head.next)
 		print(head.data)

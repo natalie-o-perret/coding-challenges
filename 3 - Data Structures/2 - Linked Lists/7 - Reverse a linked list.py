@@ -13,7 +13,7 @@
 """
 
 
-def iterative_reverse(head):
+def reverse_iterative(head):
 	# e.g. A > B > C > D
 	if head:
 		current = head  # current = A
@@ -27,7 +27,7 @@ def iterative_reverse(head):
 	return head
 
 
-def stack_reverse(head):
+def reverse_stack(head):
 	# e.g. A > B > C > D
 	if head:
 		stack = [head]
@@ -45,10 +45,9 @@ def stack_reverse(head):
 	return head
 
 
-def recursive_reverse(head):
+def reverse_recursive(head):
 	if not head:
 		return head
 	else:
-		head = recursive_reverse(head.next)
-		head.next
+		head = reverse_recursive(head.next)
 	return head

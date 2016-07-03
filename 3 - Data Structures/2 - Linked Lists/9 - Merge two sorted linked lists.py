@@ -25,7 +25,7 @@ def merge_lists(head_a, head_b):
 	node = Node()
 	while True:
 		if node_a and node_b:
-
+	pass
 
 
 # 1 -> 3 -> 5 -> 6 -> NULL
