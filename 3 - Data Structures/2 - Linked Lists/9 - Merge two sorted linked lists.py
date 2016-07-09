@@ -1,32 +1,13 @@
 """
- Merge two linked lists
- head could be None as well for empty list
- Node is defined as
-
- class Node(object):
-
-   def __init__(self, data=None, next_node=None):
-       self.data = data
-       self.next = next_node
-
- return back the head of the linked list in the below method.
+Merge two sorted linked lists.
+Head could be None as well for empty list
 """
-
-
-class Node(object):
-	def __init__(self, data=None, next_node=None):
-		self.data = data
-		self.next = next_node
 
 
 def merge_lists(head_a, head_b):
 	node_a = head_a
 	node_b = head_b
-	node = Node()
-	while True:
-		if node_a and node_b:
 	pass
-
 
 # 1 -> 3 -> 5 -> 6 -> NULL
 # 2 -> 4 -> 7 -> NULL

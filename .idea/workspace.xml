@@ -1,15 +1,26 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="00a07016-aa52-4a1b-97e0-cfe27523dc72" name="Default" comment="">
+    <list default="true" id="00a07016-aa52-4a1b-97e0-cfe27523dc72" name="Default" comment="Add instructions to HackerRank challenges...">
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/3 - Data Structures/2 - Linked Lists/Node.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/3 - Data Structures/3 - Trees/1 - Preorder Traversal.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/3 - Data Structures/3 - Trees/2 - Inorder Traversal.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/3 - Data Structures/3 - Trees/3 - Postorder Traversal.py" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/1 - Tutorials/30 Days of Code/Day 0 - Hello, World.py" afterPath="$PROJECT_DIR$/1 - Tutorials/30 Days of Code/Day 0 - Hello, World.py" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/1 - Tutorials/30 Days of Code/Day 1 - Data Types.py" afterPath="$PROJECT_DIR$/1 - Tutorials/30 Days of Code/Day 1 - Data Types.py" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/1 - Tutorials/30 Days of Code/Day 2 - Operators.py" afterPath="$PROJECT_DIR$/1 - Tutorials/30 Days of Code/Day 2 - Operators.py" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/1 - Tutorials/30 Days of Code/Day 3 - Introduction to Conditional Statements.py" afterPath="$PROJECT_DIR$/1 - Tutorials/30 Days of Code/Day 3 - Introduction to Conditional Statements.py" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/1 - Tutorials/30 Days of Code/Day 4 - Class vs. Instance.py" afterPath="$PROJECT_DIR$/1 - Tutorials/30 Days of Code/Day 4 - Class vs. Instance.py" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/1 - Tutorials/30 Days of Code/Day 5 - Loops.py" afterPath="$PROJECT_DIR$/1 - Tutorials/30 Days of Code/Day 5 - Loops.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/1 - Tutorials/30 Days of Code/Day 6 - Let's Review.py" afterPath="$PROJECT_DIR$/1 - Tutorials/30 Days of Code/Day 6 - Let's Review.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/1 - Tutorials/30 Days of Code/Day 7 - Arrays.py" afterPath="$PROJECT_DIR$/1 - Tutorials/30 Days of Code/Day 7 - Arrays.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/1 - Tutorials/30 Days of Code/Day 8 - Dictionaries and Maps.py" afterPath="$PROJECT_DIR$/1 - Tutorials/30 Days of Code/Day 8 - Dictionaries and Maps.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/3 - Data Structures/2 - Linked Lists/1 - Print the Elements of a Linked List.py" afterPath="$PROJECT_DIR$/3 - Data Structures/2 - Linked Lists/1 - Print the Elements of a Linked List.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/3 - Data Structures/2 - Linked Lists/2 - Insert a Node at the Tail of a Linked List.py" afterPath="$PROJECT_DIR$/3 - Data Structures/2 - Linked Lists/2 - Insert a Node at the Tail of a Linked List.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/3 - Data Structures/2 - Linked Lists/3 - Insert a node at the head of a linked list.py" afterPath="$PROJECT_DIR$/3 - Data Structures/2 - Linked Lists/3 - Insert a node at the head of a linked list.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/3 - Data Structures/2 - Linked Lists/4 - Delete a Node.py" afterPath="$PROJECT_DIR$/3 - Data Structures/2 - Linked Lists/4 - Delete a Node.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/3 - Data Structures/2 - Linked Lists/5 - Insert a node at a specific position in a linked list.py" afterPath="$PROJECT_DIR$/3 - Data Structures/2 - Linked Lists/5 - Insert a node at a specific position in a linked list.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/3 - Data Structures/2 - Linked Lists/6 - Print in Reverse.py" afterPath="$PROJECT_DIR$/3 - Data Structures/2 - Linked Lists/6 - Print in Reverse.py" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/3 - Data Structures/2 - Linked Lists/7 - Reverse a linked list.py" afterPath="$PROJECT_DIR$/3 - Data Structures/2 - Linked Lists/7 - Reverse a linked list.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/3 - Data Structures/2 - Linked Lists/8 - Compare two linked lists.py" afterPath="$PROJECT_DIR$/3 - Data Structures/2 - Linked Lists/8 - Compare two linked lists.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/3 - Data Structures/2 - Linked Lists/9 - Merge two sorted linked lists.py" afterPath="$PROJECT_DIR$/3 - Data Structures/2 - Linked Lists/9 - Merge two sorted linked lists.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/6 - Python/Strings/3 - Mutations.py" afterPath="$PROJECT_DIR$/6 - Python/Strings/3 - Mutations.py" />
     </list>
     <ignored path="EhouarnPerret.Python.HackerRank.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -33,8 +44,18 @@
       <file leaf-file-name="9 - Merge two sorted linked lists.py" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/3 - Data Structures/2 - Linked Lists/9 - Merge two sorted linked lists.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="984">
-              <caret line="41" column="0" selection-start-line="41" selection-start-column="0" selection-end-line="41" selection-end-column="0" />
+            <state relative-caret-position="336">
+              <caret line="14" column="6" selection-start-line="14" selection-start-column="0" selection-end-line="14" selection-end-column="6" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="1 - Print the Elements of a Linked List.py" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/3 - Data Structures/2 - Linked Lists/1 - Print the Elements of a Linked List.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="120">
+              <caret line="5" column="0" selection-start-line="5" selection-start-column="0" selection-end-line="5" selection-end-column="0" />
               <folding />
             </state>
           </provider>
@@ -43,8 +64,18 @@
       <file leaf-file-name="8 - Compare two linked lists.py" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/3 - Data Structures/2 - Linked Lists/8 - Compare two linked lists.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="909">
-              <caret line="39" column="0" selection-start-line="39" selection-start-column="0" selection-end-line="39" selection-end-column="0" />
+            <state relative-caret-position="744">
+              <caret line="31" column="0" selection-start-line="31" selection-start-column="0" selection-end-line="31" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="6 - Print in Reverse.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/3 - Data Structures/2 - Linked Lists/6 - Print in Reverse.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="48">
+              <caret line="2" column="42" selection-start-line="2" selection-start-column="42" selection-end-line="2" selection-end-column="42" />
               <folding />
             </state>
           </provider>
@@ -53,78 +84,58 @@
       <file leaf-file-name="7 - Reverse a linked list.py" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/3 - Data Structures/2 - Linked Lists/7 - Reverse a linked list.py">
           <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="162">
+              <caret line="30" column="20" selection-start-line="30" selection-start-column="20" selection-end-line="30" selection-end-column="20" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="2 - Insert a Node at the Tail of a Linked List.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/3 - Data Structures/2 - Linked Lists/2 - Insert a Node at the Tail of a Linked List.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="168">
+              <caret line="7" column="12" selection-start-line="7" selection-start-column="12" selection-end-line="7" selection-end-column="12" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Node.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/3 - Data Structures/2 - Linked Lists/Node.py">
+          <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="96">
-              <caret line="4" column="1" selection-start-line="4" selection-start-column="1" selection-end-line="4" selection-end-column="1" />
+              <caret line="4" column="0" selection-start-line="4" selection-start-column="0" selection-end-line="4" selection-end-column="0" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="Day 0 - Hello, World.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/1 - Tutorials/30 Days of Code/Day 0 - Hello, World.py">
+      <file leaf-file-name="3 - Insert a node at the head of a linked list.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/3 - Data Structures/2 - Linked Lists/3 - Insert a node at the head of a linked list.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="192">
-              <caret line="8" column="21" selection-start-line="8" selection-start-column="21" selection-end-line="8" selection-end-column="21" />
+            <state relative-caret-position="48">
+              <caret line="2" column="0" selection-start-line="2" selection-start-column="0" selection-end-line="2" selection-end-column="0" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="Day 1 - Data Types.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/1 - Tutorials/30 Days of Code/Day 1 - Data Types.py">
+      <file leaf-file-name="4 - Delete a Node.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/3 - Data Structures/2 - Linked Lists/4 - Delete a Node.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="264">
-              <caret line="19" column="12" selection-start-line="8" selection-start-column="16" selection-end-line="19" selection-end-column="12" />
+            <state relative-caret-position="24">
+              <caret line="1" column="49" selection-start-line="1" selection-start-column="49" selection-end-line="1" selection-end-column="49" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="Day 2 - Operators.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/1 - Tutorials/30 Days of Code/Day 2 - Operators.py">
+      <file leaf-file-name="5 - Insert a node at a specific position in a linked list.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/3 - Data Structures/2 - Linked Lists/5 - Insert a node at a specific position in a linked list.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="240">
-              <caret line="10" column="0" selection-start-line="10" selection-start-column="0" selection-end-line="10" selection-end-column="0" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="Day 3 - Introduction to Conditional Statements.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/1 - Tutorials/30 Days of Code/Day 3 - Introduction to Conditional Statements.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="408">
-              <caret line="17" column="4" selection-start-line="17" selection-start-column="4" selection-end-line="17" selection-end-column="4" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="Day 4 - Class vs. Instance.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/1 - Tutorials/30 Days of Code/Day 4 - Class vs. Instance.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-72">
-              <caret line="15" column="3" selection-start-line="15" selection-start-column="3" selection-end-line="15" selection-end-column="3" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="Day 5 - Loops.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/1 - Tutorials/30 Days of Code/Day 5 - Loops.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="336">
-              <caret line="14" column="48" selection-start-line="14" selection-start-column="26" selection-end-line="14" selection-end-column="48" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="Day 7 - Arrays.py" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/1 - Tutorials/30 Days of Code/Day 7 - Arrays.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="0">
-              <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+            <state relative-caret-position="24">
+              <caret line="1" column="0" selection-start-line="1" selection-start-column="0" selection-end-line="1" selection-end-column="0" />
               <folding />
             </state>
           </provider>
@@ -145,9 +156,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/1 - Tutorials/30 Days of Code/Day 29 - Bitwise AND.py" />
-        <option value="$PROJECT_DIR$/2 - Algorithms/Implementation/9 - Caesar Cypher.py" />
-        <option value="$PROJECT_DIR$/2 - Algorithms/Implementation/8 - Chocolate Feast.py" />
         <option value="$PROJECT_DIR$/2 - Algorithms/Implementation/7 - Cut The Sticks.py" />
         <option value="$PROJECT_DIR$/2 - Algorithms/Implementation/5 - Encryption.py" />
         <option value="$PROJECT_DIR$/2 - Algorithms/Implementation/4 - Kaprekar - Numbers.py" />
@@ -167,29 +175,38 @@
         <option value="$PROJECT_DIR$/2 - Algorithms/Strings/1 - Pangrams.py" />
         <option value="$PROJECT_DIR$/2 - Algorithms/Strings/4 - Gemstones.py" />
         <option value="$PROJECT_DIR$/2 - Algorithms/Strings/5 - Funny String.py" />
-        <option value="$PROJECT_DIR$/3 - Data Structures/2 - Linked Lists/8 - Compare two linked lists.py" />
-        <option value="$PROJECT_DIR$/3 - Data Structures/2 - Linked Lists/6 - Print in Reverse.py" />
-        <option value="$PROJECT_DIR$/3 - Data Structures/2 - Linked Lists/5 - Insert a node at a specific position in a linked list.py" />
-        <option value="$PROJECT_DIR$/3 - Data Structures/2 - Linked Lists/4 - Delete a Node.py" />
         <option value="$PROJECT_DIR$/6 - Python/Built-Ins/2 - Input().py" />
         <option value="$PROJECT_DIR$/2 - Algorithms/Warmup/1 - Solve Me First.py" />
         <option value="$PROJECT_DIR$/2 - Algorithms/Warmup/7 - Time Conversion.py" />
-        <option value="$PROJECT_DIR$/3 - Data Structures/2 - Linked Lists/2 - Insert a Node at the Tail of a Linked List.py" />
-        <option value="$PROJECT_DIR$/3 - Data Structures/2 - Linked Lists/3 - Insert a node at the head of a linked list.py" />
         <option value="$PROJECT_DIR$/3 - Data Structures/1 - Arrays/4 - Array Left Rotation.py" />
         <option value="$PROJECT_DIR$/3 - Data Structures/1 - Arrays/5 - Sparse Arrays.py" />
         <option value="$PROJECT_DIR$/3 - Data Structures/1 - Arrays/3 - Dynamic Array.py" />
         <option value="$PROJECT_DIR$/3 - Data Structures/1 - Arrays/1 - Arrays - DS.py" />
         <option value="$PROJECT_DIR$/3 - Data Structures/1 - Arrays/2 - 2D Array - DS.py" />
-        <option value="$PROJECT_DIR$/3 - Data Structures/2 - Linked Lists/9 - Merge two sorted linked lists.py" />
-        <option value="$PROJECT_DIR$/3 - Data Structures/2 - Linked Lists/1 - Print the Elements of a Linked List.py" />
         <option value="$PROJECT_DIR$/1 - Tutorials/30 Days of Code/Day 2 - Operators.py" />
         <option value="$PROJECT_DIR$/1 - Tutorials/30 Days of Code/Day 3 - Introduction to Conditional Statements.py" />
         <option value="$PROJECT_DIR$/1 - Tutorials/30 Days of Code/Day 4 - Class vs. Instance.py" />
-        <option value="$PROJECT_DIR$/3 - Data Structures/2 - Linked Lists/7 - Reverse a linked list.py" />
         <option value="$PROJECT_DIR$/1 - Tutorials/30 Days of Code/Day 0 - Hello, World.py" />
         <option value="$PROJECT_DIR$/1 - Tutorials/30 Days of Code/Day 1 - Data Types.py" />
         <option value="$PROJECT_DIR$/1 - Tutorials/30 Days of Code/Day 5 - Loops.py" />
+        <option value="$PROJECT_DIR$/1 - Tutorials/30 Days of Code/Day 6 - Let's Review.py" />
+        <option value="$PROJECT_DIR$/1 - Tutorials/30 Days of Code/Day 7 - Arrays.py" />
+        <option value="$PROJECT_DIR$/1 - Tutorials/30 Days of Code/Day 8 - Dictionaries and Maps.py" />
+        <option value="$PROJECT_DIR$/3 - Data Structures/3 - Trees/Inorder Traversal.py" />
+        <option value="$PROJECT_DIR$/6 - Python/Strings/3 - Mutations.py" />
+        <option value="$PROJECT_DIR$/3 - Data Structures/3 - Trees/1 - Preorder Traversal.py" />
+        <option value="$PROJECT_DIR$/3 - Data Structures/3 - Trees/2 - Inorder Traversal.py" />
+        <option value="$PROJECT_DIR$/3 - Data Structures/3 - Trees/3 - Postorder Traversal.py" />
+        <option value="$PROJECT_DIR$/3 - Data Structures/2 - Linked Lists/3 - Insert a node at the head of a linked list.py" />
+        <option value="$PROJECT_DIR$/3 - Data Structures/2 - Linked Lists/5 - Insert a node at a specific position in a linked list.py" />
+        <option value="$PROJECT_DIR$/3 - Data Structures/2 - Linked Lists/6 - Print in Reverse.py" />
+        <option value="$PROJECT_DIR$/3 - Data Structures/2 - Linked Lists/4 - Delete a Node.py" />
+        <option value="$PROJECT_DIR$/3 - Data Structures/2 - Linked Lists/2 - Insert a Node at the Tail of a Linked List.py" />
+        <option value="$PROJECT_DIR$/3 - Data Structures/2 - Linked Lists/1 - Print the Elements of a Linked List.py" />
+        <option value="$PROJECT_DIR$/3 - Data Structures/2 - Linked Lists/Node.py" />
+        <option value="$PROJECT_DIR$/3 - Data Structures/2 - Linked Lists/9 - Merge two sorted linked lists.py" />
+        <option value="$PROJECT_DIR$/3 - Data Structures/2 - Linked Lists/8 - Compare two linked lists.py" />
+        <option value="$PROJECT_DIR$/3 - Data Structures/2 - Linked Lists/7 - Reverse a linked list.py" />
       </list>
     </option>
   </component>
@@ -302,83 +319,7 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="6 - Python" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="Date AndTime" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="EhouarnPerret.Python.HackerRank" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="EhouarnPerret.Python.HackerRank" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="6 - Python" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="Data Types" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="EhouarnPerret.Python.HackerRank" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="EhouarnPerret.Python.HackerRank" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="6 - Python" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="Collections" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="EhouarnPerret.Python.HackerRank" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="EhouarnPerret.Python.HackerRank" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="6 - Python" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="Classes" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="EhouarnPerret.Python.HackerRank" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="EhouarnPerret.Python.HackerRank" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="6 - Python" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="Built-Ins" />
+              <option name="myItemId" value="3 - Data Structures" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
@@ -393,6 +334,10 @@
             </PATH_ELEMENT>
             <PATH_ELEMENT>
               <option name="myItemId" value="3 - Data Structures" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="3 - Trees" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
@@ -414,74 +359,6 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="EhouarnPerret.Python.HackerRank" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="EhouarnPerret.Python.HackerRank" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="3 - Data Structures" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="1 - Arrays" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="EhouarnPerret.Python.HackerRank" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="EhouarnPerret.Python.HackerRank" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="2 - Algorithms" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="Warmup" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="EhouarnPerret.Python.HackerRank" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="EhouarnPerret.Python.HackerRank" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="2 - Algorithms" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="EhouarnPerret.Python.HackerRank" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="EhouarnPerret.Python.HackerRank" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="1 - Tutorials" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="30 Days of Code" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
         </subPane>
       </pane>
       <pane id="Scratches" />
@@ -492,7 +369,7 @@
     <property name="settings.editor.selected.configurable" value="reference.settingsdialog.IDE.editor.colors.Console Font" />
     <property name="settings.editor.splitter.proportion" value="0.2" />
   </component>
-  <component name="RunManager" selected="Python.4 - Array Left Rotation">
+  <component name="RunManager" selected="Python.2 - Inorder Traversal">
     <configuration default="false" name="8 - Compare two linked lists" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -523,6 +400,40 @@
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <module name="EhouarnPerret.Python.HackerRank" />
       <option name="SCRIPT_NAME" value="$PROJECT_DIR$/3 - Data Structures/1 - Arrays/4 - Array Left Rotation.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <method />
+    </configuration>
+    <configuration default="false" name="1 - Preorder Traversal" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/3 - Data Structures/3 - Trees" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="EhouarnPerret.Python.HackerRank" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/3 - Data Structures/3 - Trees/1 - Preorder Traversal.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <method />
+    </configuration>
+    <configuration default="false" name="2 - Inorder Traversal" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/3 - Data Structures/3 - Trees" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="EhouarnPerret.Python.HackerRank" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/3 - Data Structures/3 - Trees/2 - Inorder Traversal.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <method />
@@ -661,14 +572,18 @@
       <option name="USE_KEYWORD" value="false" />
       <method />
     </configuration>
-    <list size="2">
+    <list size="4">
       <item index="0" class="java.lang.String" itemvalue="Python.8 - Compare two linked lists" />
       <item index="1" class="java.lang.String" itemvalue="Python.4 - Array Left Rotation" />
+      <item index="2" class="java.lang.String" itemvalue="Python.1 - Preorder Traversal" />
+      <item index="3" class="java.lang.String" itemvalue="Python.2 - Inorder Traversal" />
     </list>
     <recent_temporary>
-      <list size="2">
-        <item index="0" class="java.lang.String" itemvalue="Python.4 - Array Left Rotation" />
-        <item index="1" class="java.lang.String" itemvalue="Python.8 - Compare two linked lists" />
+      <list size="4">
+        <item index="0" class="java.lang.String" itemvalue="Python.2 - Inorder Traversal" />
+        <item index="1" class="java.lang.String" itemvalue="Python.1 - Preorder Traversal" />
+        <item index="2" class="java.lang.String" itemvalue="Python.4 - Array Left Rotation" />
+        <item index="3" class="java.lang.String" itemvalue="Python.8 - Compare two linked lists" />
       </list>
     </recent_temporary>
   </component>
@@ -707,20 +622,27 @@
       <option name="project" value="LOCAL" />
       <updated>1467589223708</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="Add instructions to HackerRank challenges...">
+      <created>1467663774739</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1467663774739</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="ToolWindowManager">
     <frame x="-11" y="-11" width="1942" height="1056" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.35630965" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.24867444" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
-      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.21138212" sideWeight="0.5021209" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32520324" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Python Console" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.21138212" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.21138212" sideWeight="0.49787912" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
@@ -757,62 +679,6 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/2 - Algorithms/Bit Manipulation/4 - Sansa and XOR.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/2 - Algorithms/Bit Manipulation/5 - Flipping Bits.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="120">
-          <caret line="5" column="0" selection-start-line="5" selection-start-column="0" selection-end-line="5" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/2 - Algorithms/Implementation/1 - Angry Professor.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="240">
-          <caret line="10" column="9" selection-start-line="10" selection-start-column="9" selection-end-line="10" selection-end-column="9" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/2 - Algorithms/Implementation/6 - Service Lane.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="48">
-          <caret line="2" column="0" selection-start-line="2" selection-start-column="0" selection-end-line="2" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/2 - Algorithms/Implementation/6 - Matrix Rotation.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/2 - Algorithms/Implementation/5 - Sherlock And Squares.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="120">
-          <caret line="5" column="8" selection-start-line="5" selection-start-column="8" selection-end-line="5" selection-end-column="8" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/2 - Algorithms/Strings/1 - Pangrams.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="72">
-          <caret line="3" column="7" selection-start-line="3" selection-start-column="7" selection-end-line="3" selection-end-column="7" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/2 - Algorithms/Strings/2 - Alternating Characters.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/2 - Algorithms/Strings/3 - The Love-Letter Mystery.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
@@ -885,30 +751,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="48">
           <caret line="2" column="6" selection-start-line="2" selection-start-column="6" selection-end-line="2" selection-end-column="6" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/3 - Data Structures/2 - Linked Lists/6 - Print in Reverse.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="680">
-          <caret line="30" column="0" selection-start-line="30" selection-start-column="0" selection-end-line="30" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/3 - Data Structures/2 - Linked Lists/5 - Insert a node at a specific position in a linked list.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="680">
-          <caret line="35" column="0" selection-start-line="35" selection-start-column="0" selection-end-line="35" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/3 - Data Structures/2 - Linked Lists/4 - Delete a Node.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="176">
-          <caret line="14" column="7" selection-start-line="14" selection-start-column="7" selection-end-line="14" selection-end-column="7" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -1008,22 +850,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/3 - Data Structures/2 - Linked Lists/2 - Insert a Node at the Tail of a Linked List.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="144">
-          <caret line="6" column="0" selection-start-line="6" selection-start-column="0" selection-end-line="6" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/3 - Data Structures/2 - Linked Lists/3 - Insert a node at the head of a linked list.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="240">
-          <caret line="10" column="0" selection-start-line="10" selection-start-column="0" selection-end-line="10" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/3 - Data Structures/1 - Arrays/4 - Array Left Rotation.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="168">
@@ -1064,16 +890,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/3 - Data Structures/2 - Linked Lists/1 - Print the Elements of a Linked List.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="192">
-          <caret line="8" column="8" selection-start-line="8" selection-start-column="8" selection-end-line="8" selection-end-column="8" />
-          <folding>
-            <marker date="1467586614923" expanded="true" signature="0:232" ph="&quot;&quot;&quot;...&quot;&quot;&quot;" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/6 - Python/Date AndTime/2 - Time Delta.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="192">
@@ -1106,26 +922,18 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/3 - Data Structures/2 - Linked Lists/9 - Merge two sorted linked lists.py">
+    <entry file="file://$PROJECT_DIR$/1 - Tutorials/30 Days of Code/Day 5 - Loops.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="984">
-          <caret line="41" column="0" selection-start-line="41" selection-start-column="0" selection-end-line="41" selection-end-column="0" />
+        <state relative-caret-position="240">
+          <caret line="10" column="0" selection-start-line="10" selection-start-column="0" selection-end-line="10" selection-end-column="0" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/3 - Data Structures/2 - Linked Lists/8 - Compare two linked lists.py">
+    <entry file="file://$PROJECT_DIR$/1 - Tutorials/30 Days of Code/Day 1 - Data Types.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="909">
-          <caret line="39" column="0" selection-start-line="39" selection-start-column="0" selection-end-line="39" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/3 - Data Structures/2 - Linked Lists/7 - Reverse a linked list.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="96">
-          <caret line="4" column="1" selection-start-line="4" selection-start-column="1" selection-end-line="4" selection-end-column="1" />
+        <state relative-caret-position="416">
+          <caret line="19" column="12" selection-start-line="8" selection-start-column="16" selection-end-line="19" selection-end-column="12" />
           <folding />
         </state>
       </provider>
@@ -1138,26 +946,146 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/1 - Tutorials/30 Days of Code/Day 1 - Data Types.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="264">
-          <caret line="19" column="12" selection-start-line="8" selection-start-column="16" selection-end-line="19" selection-end-column="12" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/1 - Tutorials/30 Days of Code/Day 5 - Loops.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="336">
-          <caret line="14" column="48" selection-start-line="14" selection-start-column="26" selection-end-line="14" selection-end-column="48" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/1 - Tutorials/30 Days of Code/Day 7 - Arrays.py">
       <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="144">
+          <caret line="6" column="0" selection-start-line="6" selection-start-column="0" selection-end-line="6" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/1 - Tutorials/30 Days of Code/Day 8 - Dictionaries and Maps.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="192">
+          <caret line="8" column="40" selection-start-line="8" selection-start-column="40" selection-end-line="8" selection-end-column="40" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/1 - Tutorials/30 Days of Code/Day 9 - Recursion.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="192">
+          <caret line="8" column="0" selection-start-line="8" selection-start-column="0" selection-end-line="8" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/1 - Tutorials/30 Days of Code/Day 6 - Let's Review.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="432">
+          <caret line="18" column="0" selection-start-line="18" selection-start-column="0" selection-end-line="18" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/6 - Python/Strings/3 - Mutations.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="120">
+          <caret line="5" column="0" selection-start-line="5" selection-start-column="0" selection-end-line="5" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/3 - Data Structures/3 - Trees/1 - Preorder Traversal.py">
+      <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="3" selection-end-column="3" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/3 - Data Structures/3 - Trees/3 - Postorder Traversal.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="306">
+          <caret line="15" column="0" selection-start-line="15" selection-start-column="0" selection-end-line="15" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/3 - Data Structures/3 - Trees/2 - Inorder Traversal.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="312">
+          <caret line="13" column="19" selection-start-line="13" selection-start-column="19" selection-end-line="13" selection-end-column="19" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/3 - Data Structures/2 - Linked Lists/3 - Insert a node at the head of a linked list.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="48">
+          <caret line="2" column="0" selection-start-line="2" selection-start-column="0" selection-end-line="2" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/3 - Data Structures/2 - Linked Lists/6 - Print in Reverse.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="48">
+          <caret line="2" column="42" selection-start-line="2" selection-start-column="42" selection-end-line="2" selection-end-column="42" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/3 - Data Structures/2 - Linked Lists/4 - Delete a Node.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="24">
+          <caret line="1" column="49" selection-start-line="1" selection-start-column="49" selection-end-line="1" selection-end-column="49" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/3 - Data Structures/2 - Linked Lists/5 - Insert a node at a specific position in a linked list.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="24">
+          <caret line="1" column="0" selection-start-line="1" selection-start-column="0" selection-end-line="1" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/3 - Data Structures/2 - Linked Lists/2 - Insert a Node at the Tail of a Linked List.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="168">
+          <caret line="7" column="12" selection-start-line="7" selection-start-column="12" selection-end-line="7" selection-end-column="12" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/3 - Data Structures/2 - Linked Lists/Node.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="96">
+          <caret line="4" column="0" selection-start-line="4" selection-start-column="0" selection-end-line="4" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/3 - Data Structures/2 - Linked Lists/7 - Reverse a linked list.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="162">
+          <caret line="30" column="20" selection-start-line="30" selection-start-column="20" selection-end-line="30" selection-end-column="20" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/3 - Data Structures/2 - Linked Lists/8 - Compare two linked lists.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="744">
+          <caret line="31" column="0" selection-start-line="31" selection-start-column="0" selection-end-line="31" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/3 - Data Structures/2 - Linked Lists/9 - Merge two sorted linked lists.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="336">
+          <caret line="14" column="6" selection-start-line="14" selection-start-column="0" selection-end-line="14" selection-end-column="6" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/3 - Data Structures/2 - Linked Lists/1 - Print the Elements of a Linked List.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="120">
+          <caret line="5" column="0" selection-start-line="5" selection-start-column="0" selection-end-line="5" selection-end-column="0" />
           <folding />
         </state>
       </provider>
