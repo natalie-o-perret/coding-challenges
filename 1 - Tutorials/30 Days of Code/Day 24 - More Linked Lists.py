@@ -39,6 +39,7 @@ class Solution:
             current = current.next
         return head
 
+
 mylist = Solution()
 T = int(input())
 head = None

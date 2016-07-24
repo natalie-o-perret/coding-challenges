@@ -2,12 +2,7 @@
 Complete the preOrder function in your editor below, which has  parameter: a pointer to the root of a binary tree.
 It must print the values in the tree's postorder traversal as a single line of space-separated values.
 """
-
-class BinaryTreeNode(object):
-	def __init__(self, data=None, left=None, right=None):
-		self.data = data
-		self.left = left
-		self.right = right
+from . import Node
 
 
 def traverse_in_order_recursive(root):
@@ -30,12 +25,12 @@ def traverse_in_order_iterative(root):
 				node = stack.pop()
 
 
-root = BinaryTreeNode("A")
-root.left = BinaryTreeNode("B")
-root.left.left = BinaryTreeNode("C")
-root.left.right = BinaryTreeNode("D")
-root.right = BinaryTreeNode("E")
-root.right.left = BinaryTreeNode("G")
-root.right.right = BinaryTreeNode("F")
+root = Node("A")
+root.left = Node("B")
+root.left.left = Node("C")
+root.left.right = Node("D")
+root.right = Node("E")
+root.right.left = Node("G")
+root.right.right = Node("F")
 
 traverse_in_order_iterative(root)

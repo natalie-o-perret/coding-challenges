@@ -2,6 +2,7 @@
 Merge two linked list head could be None as well for empty list.
 Return back the head of the linked list in the below method.
 """
+from . import Node
 
 
 def compare_recursive(head_a, head_b):

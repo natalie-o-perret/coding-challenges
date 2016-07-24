@@ -22,6 +22,7 @@ class MyBook(Book):
 		print("Author:", self.author)
 		print("Price:", self.price)
 
+
 title = input()
 author = input()
 price = int(input())

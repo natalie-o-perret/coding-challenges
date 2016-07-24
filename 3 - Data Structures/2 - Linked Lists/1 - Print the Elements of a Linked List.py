@@ -2,6 +2,7 @@
 Print elements of a linked list on console.
 Head input could be None as well for empty list
 """
+from . import Node
 
 
 def print_list_iterative(head):
@@ -15,5 +16,4 @@ def print_list_iterative(head):
 def print_list_recursive(head):
 	if head:
 		print(head.data)
-		if head.next:
-			print_list_recursive(head.next)
+		print_list_recursive(head.next)

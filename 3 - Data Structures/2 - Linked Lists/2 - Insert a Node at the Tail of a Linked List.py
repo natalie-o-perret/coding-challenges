@@ -2,6 +2,7 @@
 Insert Node at the end of a linked list.
 Head pointer input could be None as well for empty list
 """
+from . import Node
 
 
 def tail_insert_iterative(head, data):
@@ -25,3 +26,4 @@ def tail_insert_recursive(head, data):
 		else:
 			head.next = Node(data, None)
 		return head
+

@@ -2,6 +2,7 @@
 Reverse a linked list, head could be None as well for empty list
 Return back the head of the linked list in the below method.
 """
+from . import Node
 
 
 def reverse_iterative(head):

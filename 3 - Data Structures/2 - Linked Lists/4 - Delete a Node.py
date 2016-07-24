@@ -1,6 +1,7 @@
 """
 Delete Node at a given position in a linked list.
 """
+from . import Node
 
 
 def delete_iterative(head, position):

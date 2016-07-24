@@ -1,6 +1,7 @@
 """
 Insert Node at the end of a linked list head input could be None as well for empty list
 """
+from . import Node
 
 
 # This is a "method-only" submission.

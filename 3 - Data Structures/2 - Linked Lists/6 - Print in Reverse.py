@@ -2,6 +2,7 @@
 Print elements of a linked list in reverse order as standard output.
 Head could be None as well for empty list.
 """
+from . import Node
 
 
 def print_reverse_iterative(head):

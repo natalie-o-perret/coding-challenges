@@ -1,6 +1,5 @@
-#!/bin/python3
-
 import re
+
 
 gmail_regex = re.compile("^[a-z\.]+@gmail.com$")
 gmail_accounts = dict()

@@ -1,5 +1,6 @@
 import random
 
+
 T = random.randrange(5, 20, 1)
 print(T)
 for t in range(T):
