@@ -1,8 +1,3 @@
-#!/bin/python3
-
-import sys
-
-
 n = int(input().strip())
 s = '#'
 for i in range(1, n + 1):

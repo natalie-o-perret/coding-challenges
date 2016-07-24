@@ -8,6 +8,7 @@ def minimum_reductions(s):
 			previous = current
 	return count
 
+
 T = int(input())
 for _ in range(T):
 	s = input()

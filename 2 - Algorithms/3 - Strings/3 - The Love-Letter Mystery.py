@@ -11,6 +11,7 @@ def minimum_reductions(s):
 				count += right - left
 	return count
 
+
 T = int(input())
 for _ in range(T):
 	s = input()

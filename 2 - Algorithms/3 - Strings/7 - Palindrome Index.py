@@ -1,10 +1,11 @@
-def minimum_palindrome(S):
-	length = len(S)
+def minimum_palindrome(s):
+	length = len(s)
 	count = 0
 	for i in range(length):
-		if S[i] != S[(length - 1) - i]:
+		if s[i] != s[(length - 1) - i]:
 			count += 1
 	return True
+
 
 T = int(input())
 for i in range(T):

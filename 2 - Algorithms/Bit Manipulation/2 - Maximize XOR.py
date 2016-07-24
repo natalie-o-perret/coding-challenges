@@ -1,9 +1,7 @@
-#!/usr/bin/python3
-
 import math
 
 
-def maxxor(left, right):
+def max_xor(left, right):
 	# First bit to 1 is where left and right start to differ.
 	# e.g. 4 ^ 2 = 100 ^ 010 = 111
 	result = left ^ right
@@ -16,7 +14,6 @@ def maxxor(left, right):
 	return maximum
 
 
-if __name__ == '__main__':
-	left = int(input())
-	right = int(input())
-	print(maxxor(left, right))
+left = int(input())
+right = int(input())
+print(max_xor(left, right))

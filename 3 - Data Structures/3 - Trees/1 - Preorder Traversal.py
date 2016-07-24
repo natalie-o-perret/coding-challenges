@@ -24,12 +24,12 @@ def traverse_pre_order_iterative(root, action=print):
 				stack.append(node.left)
 
 
-root = BinaryTreeNode("A")
-root.left = BinaryTreeNode("B")
-root.left.left = BinaryTreeNode("C")
-root.left.right = BinaryTreeNode("D")
-root.right = BinaryTreeNode("E")
-root.right.left = BinaryTreeNode("G")
-root.right.right = BinaryTreeNode("F")
+root = Node("A")
+root.left = Node("B")
+root.left.left = Node("C")
+root.left.right = Node("D")
+root.right = Node("E")
+root.right.left = Node("G")
+root.right.right = Node("F")
 
 traverse_pre_order_iterative(root)

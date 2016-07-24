@@ -13,8 +13,9 @@ def is_pangram(s):
                 occurences[letter] = 1
     return len(occurences) == len(string.ascii_lowercase)
 
+
 s = input()
-if (is_pangram(s)):
+if is_pangram(s):
     print("pangram")
 else:
     print("not pangram")

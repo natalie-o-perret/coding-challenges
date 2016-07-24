@@ -7,9 +7,10 @@ def is_funny(S):
 		Ri = ord(S[(N - 1) - (i - 1)]) 
 		Sdiff = abs(Si - Si_1)
 		Rdiff = abs(Ri - Ri_1)
-		if (Sdiff != Rdiff):
+		if Sdiff != Rdiff:
 			return False
 	return True
+
 
 T = int(input())
 for _ in range(T):

@@ -14,6 +14,7 @@ def count(target, source):
 			counter += 1
 	return counter
 
+
 N = int(input())
 strings = []
 for _ in range(N):

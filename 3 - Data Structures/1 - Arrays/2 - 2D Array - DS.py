@@ -7,7 +7,6 @@ e f g
 There are hourglasses in A, and an hourglass sum is the sum of an hourglass' values.
 """
 
-
 A = []
 for arr_i in range(6):
 	arr_t = [int(arr_temp) for arr_temp in input().strip().split(' ')]

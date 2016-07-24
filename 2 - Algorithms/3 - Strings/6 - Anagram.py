@@ -12,6 +12,7 @@ def minimum_changes(S):
 		difference_counter = s1_counter - s2_counter
 		return sum(difference_counter.values())
 
+
 T = int(input())
 for _ in range(T):
 	S = input()

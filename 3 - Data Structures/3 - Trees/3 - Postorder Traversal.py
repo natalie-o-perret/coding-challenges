@@ -2,7 +2,6 @@
 Complete the preOrder function in your editor below, which has  parameter: a pointer to the root of a binary tree.
 It must print the values in the tree's postorder traversal as a single line of space-separated values.
 """
-from . import Node
 
 
 def traverse_in_order_recursive(root):

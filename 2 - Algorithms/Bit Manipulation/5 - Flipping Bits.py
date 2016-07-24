@@ -1,13 +1,9 @@
-#!/usr/bin/python3
-
-
-def flipbits(n):
+def flip_bits(n):
 	return ~n + 2 ** 32
 
 
-if __name__ == '__main__':
-	t = int(input().strip())
-	for a0 in range(t):
-		n = int(input().strip())
-		flippedn = flipbits(n)
-		print(flippedn)
+t = int(input().strip())
+for a0 in range(t):
+	n = int(input().strip())
+	flippedn = flip_bits(n)
+	print(flippedn)
