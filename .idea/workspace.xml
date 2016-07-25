@@ -2,71 +2,47 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="00a07016-aa52-4a1b-97e0-cfe27523dc72" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/profiles_settings.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/1 - Tutorials/30 Days of Code/__init__.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/1 - Tutorials/__init__.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/2 - Algorithms/1 - Warmup/__init__.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/2 - Algorithms/2 - Implementation/__init__.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/2 - Algorithms/3 - Strings/__init__.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/2 - Algorithms/Bit Manipulation/__init__.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/2 - Algorithms/__init__.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/3 - Data Structures/1 - Arrays/__init__.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/3 - Data Structures/10 - Trie/__init__.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/3 - Data Structures/11 - Advanced/__init__.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/3 - Data Structures/2 - Linked Lists/__init__.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/3 - Data Structures/3 - Trees/__init__.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/3 - Data Structures/4 - Balanced Trees/__init__.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/3 - Data Structures/5 - Queues/__init__.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/3 - Data Structures/6 - Stacks/__init__.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/3 - Data Structures/7 - Heap/__init__.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/3 - Data Structures/8 - Disjoint Set/__init__.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/3 - Data Structures/9 - Multiple Choice/__init__.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/3 - Data Structures/__init__.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/4 - Mathematics/__init__.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/5 - Artificial Intelligence/__init__.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/6 - Python/Built-Ins/__init__.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/6 - Python/Classes/__init__.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/6 - Python/Collections/__init__.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/6 - Python/Data Types/__init__.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/6 - Python/Date AndTime/__init__.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/6 - Python/Errors And Exceptions/__init__.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/6 - Python/Functionals/__init__.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/6 - Python/Introduction/__init__.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/6 - Python/Itertools/__init__.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/6 - Python/Math/__init__.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/6 - Python/Regex And Patterns/__init__.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/6 - Python/Sets/__init__.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/6 - Python/Strings/__init__.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/6 - Python/__init__.py" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/EhouarnPerret.Python.HackerRank.iml" afterPath="$PROJECT_DIR$/.idea/EhouarnPerret.Python.HackerRank.iml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/misc.xml" afterPath="$PROJECT_DIR$/.idea/misc.xml" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/1 - Tutorials/__init__.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/2 - Algorithms/1 - Warmup/__init__.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/2 - Algorithms/2 - Implementation/__init__.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/2 - Algorithms/3 - Strings/__init__.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/2 - Algorithms/Bit Manipulation/__init__.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/2 - Algorithms/__init__.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/3 - Data Structures/1 - Arrays/__init__.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/3 - Data Structures/10 - Trie/__init__.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/3 - Data Structures/11 - Advanced/__init__.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/3 - Data Structures/2 - Linked Lists/__init__.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/3 - Data Structures/3 - Trees/__init__.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/3 - Data Structures/4 - Balanced Trees/__init__.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/3 - Data Structures/5 - Queues/__init__.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/3 - Data Structures/6 - Stacks/__init__.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/3 - Data Structures/7 - Heap/__init__.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/3 - Data Structures/8 - Disjoint Set/__init__.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/3 - Data Structures/9 - Multiple Choice/__init__.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/3 - Data Structures/__init__.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/4 - Mathematics/__init__.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/5 - Artificial Intelligence/__init__.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/6 - Python/Built-Ins/__init__.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/6 - Python/Classes/__init__.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/6 - Python/Collections/__init__.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/6 - Python/Data Types/__init__.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/6 - Python/Date AndTime/__init__.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/6 - Python/Errors And Exceptions/__init__.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/6 - Python/Functionals/__init__.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/6 - Python/Introduction/__init__.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/6 - Python/Itertools/__init__.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/6 - Python/Math/__init__.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/6 - Python/Regex And Patterns/__init__.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/6 - Python/Sets/__init__.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/6 - Python/Strings/__init__.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/6 - Python/__init__.py" afterPath="" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/2 - Algorithms/1 - Warmup/1 - Solve Me First.py" afterPath="$PROJECT_DIR$/2 - Algorithms/1 - Warmup/1 - Solve Me First.py" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/2 - Algorithms/1 - Warmup/2 - Simple Array Sum.py" afterPath="$PROJECT_DIR$/2 - Algorithms/1 - Warmup/2 - Simple Array Sum.py" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/2 - Algorithms/1 - Warmup/3 - A Very Big Sum.py" afterPath="$PROJECT_DIR$/2 - Algorithms/1 - Warmup/3 - A Very Big Sum.py" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/2 - Algorithms/1 - Warmup/4 - Diagonal Difference.py" afterPath="$PROJECT_DIR$/2 - Algorithms/1 - Warmup/4 - Diagonal Difference.py" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/2 - Algorithms/1 - Warmup/5 - Plus Minus.py" afterPath="$PROJECT_DIR$/2 - Algorithms/1 - Warmup/5 - Plus Minus.py" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/2 - Algorithms/1 - Warmup/6 - Staircase.py" afterPath="$PROJECT_DIR$/2 - Algorithms/1 - Warmup/6 - Staircase.py" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/2 - Algorithms/1 - Warmup/7 - Time Conversion.py" afterPath="$PROJECT_DIR$/2 - Algorithms/1 - Warmup/7 - Time Conversion.py" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/2 - Algorithms/2 - Implementation/1 - Angry Professor.py" afterPath="$PROJECT_DIR$/2 - Algorithms/2 - Implementation/1 - Angry Professor.py" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/2 - Algorithms/3 - Strings/1 - Pangrams.py" afterPath="$PROJECT_DIR$/2 - Algorithms/3 - Strings/1 - Pangrams.py" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/2 - Algorithms/3 - Strings/2 - Alternating Characters.py" afterPath="$PROJECT_DIR$/2 - Algorithms/3 - Strings/2 - Alternating Characters.py" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/2 - Algorithms/3 - Strings/3 - The Love-Letter Mystery.py" afterPath="$PROJECT_DIR$/2 - Algorithms/3 - Strings/3 - The Love-Letter Mystery.py" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/2 - Algorithms/3 - Strings/4 - Gemstones.py" afterPath="$PROJECT_DIR$/2 - Algorithms/3 - Strings/4 - Gemstones.py" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/2 - Algorithms/3 - Strings/5 - Funny String.py" afterPath="$PROJECT_DIR$/2 - Algorithms/3 - Strings/5 - Funny String.py" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/2 - Algorithms/3 - Strings/6 - Anagram.py" afterPath="$PROJECT_DIR$/2 - Algorithms/3 - Strings/6 - Anagram.py" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/2 - Algorithms/3 - Strings/7 - Palindrome Index.py" afterPath="$PROJECT_DIR$/2 - Algorithms/3 - Strings/7 - Palindrome Index.py" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/2 - Algorithms/Bit Manipulation/1 - Lonely Integer.py" afterPath="$PROJECT_DIR$/2 - Algorithms/Bit Manipulation/1 - Lonely Integer.py" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/2 - Algorithms/Bit Manipulation/2 - Maximize XOR.py" afterPath="$PROJECT_DIR$/2 - Algorithms/Bit Manipulation/2 - Maximize XOR.py" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/2 - Algorithms/Bit Manipulation/3 - Counter Game.py" afterPath="$PROJECT_DIR$/2 - Algorithms/Bit Manipulation/3 - Counter Game.py" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/2 - Algorithms/Bit Manipulation/4 - Sansa and XOR.py" afterPath="$PROJECT_DIR$/2 - Algorithms/Bit Manipulation/4 - Sansa and XOR.py" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/2 - Algorithms/Bit Manipulation/5 - Flipping Bits.py" afterPath="$PROJECT_DIR$/2 - Algorithms/Bit Manipulation/5 - Flipping Bits.py" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/3 - Data Structures/1 - Arrays/2 - 2D Array - DS.py" afterPath="$PROJECT_DIR$/3 - Data Structures/1 - Arrays/2 - 2D Array - DS.py" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/3 - Data Structures/1 - Arrays/4 - Array Left Rotation.py" afterPath="$PROJECT_DIR$/3 - Data Structures/1 - Arrays/4 - Array Left Rotation.py" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/3 - Data Structures/1 - Arrays/5 - Sparse Arrays.py" afterPath="$PROJECT_DIR$/3 - Data Structures/1 - Arrays/5 - Sparse Arrays.py" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/3 - Data Structures/3 - Trees/1 - Preorder Traversal.py" afterPath="$PROJECT_DIR$/3 - Data Structures/3 - Trees/1 - Preorder Traversal.py" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/3 - Data Structures/3 - Trees/3 - Postorder Traversal.py" afterPath="$PROJECT_DIR$/3 - Data Structures/3 - Trees/3 - Postorder Traversal.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/6 - Python/Regex And Patterns/8 - Validating Phone Numbers.py" afterPath="$PROJECT_DIR$/6 - Python/Regex And Patterns/8 - Validating Phone Numbers.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/6 - Python/Strings/12 - The Minion Game.py" afterPath="$PROJECT_DIR$/6 - Python/Strings/12 - The Minion Game.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/6 - Python/Strings/3 - Mutations.py" afterPath="$PROJECT_DIR$/6 - Python/Strings/3 - Mutations.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/6 - Python/Strings/4 - Find A String.py" afterPath="$PROJECT_DIR$/6 - Python/Strings/4 - Find A String.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/6 - Python/Strings/6 - Text Alignment.py" afterPath="$PROJECT_DIR$/6 - Python/Strings/6 - Text Alignment.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/6 - Python/Strings/8 - Desginer Door Mat.py" afterPath="$PROJECT_DIR$/6 - Python/Strings/8 - Desginer Door Mat.py" />
     </list>
     <ignored path="EhouarnPerret.Python.HackerRank.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -101,12 +77,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/3 - Data Structures/2 - Linked Lists/7 - Reverse a linked list.py" />
-        <option value="$PROJECT_DIR$/3 - Data Structures/2 - Linked Lists/8 - Compare two linked lists.py" />
-        <option value="$PROJECT_DIR$/3 - Data Structures/2 - Linked Lists/10 - Get Node Value.py" />
-        <option value="$PROJECT_DIR$/3 - Data Structures/2 - Linked Lists/9 - Merge two sorted linked lists.py" />
-        <option value="$PROJECT_DIR$/3 - Data Structures/3 - Trees/2 - Inorder Traversal.py" />
-        <option value="$PROJECT_DIR$/6 - Python/Classes/1 - Dealing With Complex Numbers.py" />
         <option value="$PROJECT_DIR$/6 - Python/Classes/2 - Find The Torsional Angle.py" />
         <option value="$PROJECT_DIR$/6 - Python/Collections/2 - DefaultDict Tutorial.py" />
         <option value="$PROJECT_DIR$/1 - Tutorials/30 Days of Code/Day 1 - Data Types.py" />
@@ -126,8 +96,6 @@
         <option value="$PROJECT_DIR$/3 - Data Structures/4 - Balanced Trees/__init__.py" />
         <option value="$PROJECT_DIR$/3 - Data Structures/1 - Arrays/__init__.py" />
         <option value="$PROJECT_DIR$/3 - Data Structures/10 - Trie/__init__.py" />
-        <option value="$PROJECT_DIR$/3 - Data Structures/3 - Trees/1 - Preorder Traversal.py" />
-        <option value="$PROJECT_DIR$/3 - Data Structures/3 - Trees/__init__.py" />
         <option value="$PROJECT_DIR$/2 - Algorithms/3 - Strings/2 - Alternating Characters.py" />
         <option value="$PROJECT_DIR$/2 - Algorithms/3 - Strings/3 - The Love-Letter Mystery.py" />
         <option value="$PROJECT_DIR$/2 - Algorithms/3 - Strings/5 - Funny String.py" />
@@ -152,6 +120,14 @@
         <option value="$PROJECT_DIR$/2 - Algorithms/1 - Warmup/1 - Solve Me First.py" />
         <option value="$PROJECT_DIR$/2 - Algorithms/1 - Warmup/7 - Time Conversion.py" />
         <option value="$PROJECT_DIR$/2 - Algorithms/2 - Implementation/1 - Angry Professor.py" />
+        <option value="$PROJECT_DIR$/6 - Python/Strings/3 - Mutations.py" />
+        <option value="$PROJECT_DIR$/6 - Python/Strings/4 - Find A String.py" />
+        <option value="$PROJECT_DIR$/6 - Python/Strings/6 - Text Alignment.py" />
+        <option value="$PROJECT_DIR$/6 - Python/Strings/8 - Desginer Door Mat.py" />
+        <option value="$PROJECT_DIR$/6 - Python/Strings/12 - The Minion Game.py" />
+        <option value="$PROJECT_DIR$/6 - Python/Regex And Patterns/8 - Validating Phone Numbers.py" />
+        <option value="$PROJECT_DIR$/3 - Data Structures/3 - Trees/1 - Preorder Traversal.py" />
+        <option value="$PROJECT_DIR$/3 - Data Structures/3 - Trees/__init__.py" />
       </list>
     </option>
   </component>
@@ -228,467 +204,7 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="6 - Python" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="Strings" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="EhouarnPerret.Python.HackerRank" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="EhouarnPerret.Python.HackerRank" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="6 - Python" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="Sets" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="EhouarnPerret.Python.HackerRank" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="EhouarnPerret.Python.HackerRank" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="6 - Python" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="Regex And Patterns" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="EhouarnPerret.Python.HackerRank" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="EhouarnPerret.Python.HackerRank" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="6 - Python" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="Math" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="EhouarnPerret.Python.HackerRank" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="EhouarnPerret.Python.HackerRank" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="6 - Python" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="Itertools" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="EhouarnPerret.Python.HackerRank" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="EhouarnPerret.Python.HackerRank" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="6 - Python" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="Introduction" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="EhouarnPerret.Python.HackerRank" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="EhouarnPerret.Python.HackerRank" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="6 - Python" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="Functionals" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="EhouarnPerret.Python.HackerRank" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="EhouarnPerret.Python.HackerRank" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="6 - Python" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="Errors And Exceptions" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="EhouarnPerret.Python.HackerRank" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="EhouarnPerret.Python.HackerRank" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="6 - Python" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="Date AndTime" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="EhouarnPerret.Python.HackerRank" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="EhouarnPerret.Python.HackerRank" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="6 - Python" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="Data Types" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="EhouarnPerret.Python.HackerRank" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="EhouarnPerret.Python.HackerRank" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="6 - Python" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="Collections" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="EhouarnPerret.Python.HackerRank" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="EhouarnPerret.Python.HackerRank" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="6 - Python" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="Classes" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="EhouarnPerret.Python.HackerRank" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="EhouarnPerret.Python.HackerRank" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="6 - Python" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="Built-Ins" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="EhouarnPerret.Python.HackerRank" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="EhouarnPerret.Python.HackerRank" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="5 - Artificial Intelligence" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="EhouarnPerret.Python.HackerRank" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="EhouarnPerret.Python.HackerRank" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="4 - Mathematics" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="EhouarnPerret.Python.HackerRank" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="EhouarnPerret.Python.HackerRank" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
               <option name="myItemId" value="3 - Data Structures" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="EhouarnPerret.Python.HackerRank" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="EhouarnPerret.Python.HackerRank" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="3 - Data Structures" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="9 - Multiple Choice" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="EhouarnPerret.Python.HackerRank" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="EhouarnPerret.Python.HackerRank" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="3 - Data Structures" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="8 - Disjoint Set" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="EhouarnPerret.Python.HackerRank" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="EhouarnPerret.Python.HackerRank" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="3 - Data Structures" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="7 - Heap" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="EhouarnPerret.Python.HackerRank" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="EhouarnPerret.Python.HackerRank" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="3 - Data Structures" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="6 - Stacks" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="EhouarnPerret.Python.HackerRank" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="EhouarnPerret.Python.HackerRank" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="3 - Data Structures" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="5 - Queues" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="EhouarnPerret.Python.HackerRank" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="EhouarnPerret.Python.HackerRank" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="3 - Data Structures" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="4 - Balanced Trees" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="EhouarnPerret.Python.HackerRank" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="EhouarnPerret.Python.HackerRank" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="3 - Data Structures" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="3 - Trees" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="EhouarnPerret.Python.HackerRank" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="EhouarnPerret.Python.HackerRank" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="3 - Data Structures" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="2 - Linked Lists" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="EhouarnPerret.Python.HackerRank" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="EhouarnPerret.Python.HackerRank" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="3 - Data Structures" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="11 - Advanced" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="EhouarnPerret.Python.HackerRank" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="EhouarnPerret.Python.HackerRank" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="3 - Data Structures" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="10 - Trie" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="EhouarnPerret.Python.HackerRank" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="EhouarnPerret.Python.HackerRank" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="3 - Data Structures" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="1 - Arrays" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
@@ -703,78 +219,6 @@
             </PATH_ELEMENT>
             <PATH_ELEMENT>
               <option name="myItemId" value="2 - Algorithms" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="EhouarnPerret.Python.HackerRank" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="EhouarnPerret.Python.HackerRank" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="2 - Algorithms" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="Bit Manipulation" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="EhouarnPerret.Python.HackerRank" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="EhouarnPerret.Python.HackerRank" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="2 - Algorithms" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="3 - Strings" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="EhouarnPerret.Python.HackerRank" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="EhouarnPerret.Python.HackerRank" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="2 - Algorithms" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="2 - Implementation" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="EhouarnPerret.Python.HackerRank" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="EhouarnPerret.Python.HackerRank" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="2 - Algorithms" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="1 - Warmup" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
@@ -789,24 +233,6 @@
             </PATH_ELEMENT>
             <PATH_ELEMENT>
               <option name="myItemId" value="1 - Tutorials" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="EhouarnPerret.Python.HackerRank" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="EhouarnPerret.Python.HackerRank" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="1 - Tutorials" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="30 Days of Code" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
@@ -830,7 +256,7 @@
       <recent name="C:\Users\ehouarn-perret\Desktop\Development\Python\EhouarnPerret.Python.HackerRank\4 - Mathematics" />
     </key>
   </component>
-  <component name="RunManager" selected="Python.__init__">
+  <component name="RunManager" selected="Python.1 - Preorder Traversal">
     <configuration default="false" name="4 - Array Left Rotation" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -1060,9 +486,9 @@
     <recent_temporary>
       <list size="5">
         <item index="0" class="java.lang.String" itemvalue="Python.__init__" />
-        <item index="1" class="java.lang.String" itemvalue="Python.3 - Postorder Traversal" />
-        <item index="2" class="java.lang.String" itemvalue="Python.2 - Inorder Traversal" />
-        <item index="3" class="java.lang.String" itemvalue="Python.1 - Preorder Traversal" />
+        <item index="1" class="java.lang.String" itemvalue="Python.1 - Preorder Traversal" />
+        <item index="2" class="java.lang.String" itemvalue="Python.3 - Postorder Traversal" />
+        <item index="3" class="java.lang.String" itemvalue="Python.2 - Inorder Traversal" />
         <item index="4" class="java.lang.String" itemvalue="Python.4 - Array Left Rotation" />
       </list>
     </recent_temporary>
@@ -1123,20 +549,27 @@
       <option name="project" value="LOCAL" />
       <updated>1469362903836</updated>
     </task>
-    <option name="localTasksCounter" value="7" />
+    <task id="LOCAL-00007" summary="__init__ ...">
+      <created>1469391986251</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1469391986251</updated>
+    </task>
+    <option name="localTasksCounter" value="8" />
     <servers />
   </component>
   <component name="ToolWindowManager">
     <frame x="-11" y="-11" width="1942" height="1056" extended-state="6" />
     <editor active="false" />
     <layout>
-      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.3361612" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.32820785" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
-      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.32520324" sideWeight="0.5063627" order="7" side_tool="true" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.32520324" sideWeight="0.5021209" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32520324" sideWeight="0.49363732" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Python Console" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Python Console" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.32520324" sideWeight="0.49787912" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.40882695" sideWeight="0.51272535" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4146054" sideWeight="0.5838028" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
@@ -1176,182 +609,6 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/1 - Tutorials/__init__.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/1 - Tutorials/30 Days of Code/__init__.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/3 - Data Structures/3 - Trees/1 - Preorder Traversal.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="672">
-          <caret line="34" column="34" selection-start-line="34" selection-start-column="34" selection-end-line="34" selection-end-column="34" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/3 - Data Structures/3 - Trees/__init__.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="24">
-          <caret line="1" column="0" selection-start-line="1" selection-start-column="0" selection-end-line="1" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/6 - Python/__init__.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/6 - Python/Built-Ins/__init__.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/6 - Python/Classes/__init__.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/6 - Python/Collections/__init__.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/6 - Python/Data Types/__init__.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/6 - Python/Date AndTime/__init__.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/6 - Python/Errors And Exceptions/__init__.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/6 - Python/Functionals/__init__.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/6 - Python/Introduction/__init__.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/6 - Python/Itertools/__init__.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/6 - Python/Math/__init__.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/6 - Python/Regex And Patterns/__init__.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/6 - Python/Sets/__init__.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/6 - Python/Strings/__init__.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/5 - Artificial Intelligence/__init__.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/4 - Mathematics/__init__.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/2 - Algorithms/Bit Manipulation/__init__.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/2 - Algorithms/2 - Implementation/__init__.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/2 - Algorithms/3 - Strings/6 - Anagram.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="336">
@@ -1380,14 +637,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="384">
           <caret line="16" column="0" selection-start-line="16" selection-start-column="0" selection-end-line="18" selection-end-column="27" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/2 - Algorithms/Bit Manipulation/1 - Lonely Integer.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
           <folding />
         </state>
       </provider>
@@ -1580,6 +829,190 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="24">
           <caret line="1" column="8" selection-start-line="1" selection-start-column="8" selection-end-line="1" selection-end-column="8" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/2 - Algorithms/Bit Manipulation/1 - Lonely Integer.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="240">
+          <caret line="10" column="0" selection-start-line="10" selection-start-column="0" selection-end-line="10" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/6 - Python/Strings/3 - Mutations.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="72">
+          <caret line="3" column="8" selection-start-line="3" selection-start-column="8" selection-end-line="3" selection-end-column="8" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/6 - Python/Strings/4 - Find A String.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="168">
+          <caret line="7" column="0" selection-start-line="7" selection-start-column="0" selection-end-line="7" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/6 - Python/Strings/6 - Text Alignment.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-221">
+          <caret line="0" column="29" selection-start-line="0" selection-start-column="29" selection-end-line="0" selection-end-column="29" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/6 - Python/Strings/8 - Desginer Door Mat.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="144">
+          <caret line="6" column="0" selection-start-line="6" selection-start-column="0" selection-end-line="6" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/6 - Python/Strings/12 - The Minion Game.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="264">
+          <caret line="11" column="0" selection-start-line="11" selection-start-column="0" selection-end-line="11" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/6 - Python/Strings/11 - Capitalize.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/6 - Python/Strings/10 - Alphabet Rangoli.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="96">
+          <caret line="4" column="25" selection-start-line="4" selection-start-column="25" selection-end-line="4" selection-end-column="25" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/6 - Python/Strings/9 - String Formatting.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/6 - Python/Strings/7 - Text Wrap.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/6 - Python/Strings/5 - String Validators.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/6 - Python/Strings/2 - String Split And Join.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="48">
+          <caret line="2" column="18" selection-start-line="2" selection-start-column="18" selection-end-line="2" selection-end-column="18" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/6 - Python/Strings/1 - sWAP cASE.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/6 - Python/Sets/12 - Check Strict Superset.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="168">
+          <caret line="7" column="11" selection-start-line="7" selection-start-column="11" selection-end-line="7" selection-end-column="11" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/6 - Python/Sets/10 - The Captain's Room.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/6 - Python/Sets/9 - Set Mutations.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/6 - Python/Regex And Patterns/8 - Validating Phone Numbers.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="192">
+          <caret line="8" column="0" selection-start-line="8" selection-start-column="0" selection-end-line="8" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/6 - Python/Sets/__init__.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/3 - Data Structures/3 - Trees/Node.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/3 - Data Structures/3 - Trees/1 - Preorder Traversal.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="96">
+          <caret line="4" column="6" selection-start-line="4" selection-start-column="6" selection-end-line="4" selection-end-column="6" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/3 - Data Structures/3 - Trees/__init__.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="18" selection-start-line="0" selection-start-column="18" selection-end-line="0" selection-end-column="18" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/6 - Python/Collections/2 - DefaultDict Tutorial.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/6 - Python/Built-Ins/5 - Any Or All..py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
           <folding />
         </state>
       </provider>

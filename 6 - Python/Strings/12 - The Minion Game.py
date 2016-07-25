@@ -1,4 +1,4 @@
-s =  input()
+s = input()
 
 vowels = "AEIOU"
 
@@ -10,9 +10,9 @@ for i in range(len(s)):
 	else:
 		stuart += len(s) - i
 
-if (kevin > stuart):
-	print ("Kevin " + str(kevin))
-elif (stuart > kevin):
-	print ("Stuart " + str(stuart))
+if kevin > stuart:
+	print("Kevin " + str(kevin))
+elif stuart > kevin:
+	print("Stuart " + str(stuart))
 else:
-	print ("Draw")
+	print("Draw")
