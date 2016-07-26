@@ -1,5 +1,6 @@
 import math
 
+
 class Complex:
 	def __init__(self, x = 0, y = 0):
 		self.x = x
@@ -39,6 +40,7 @@ class Complex:
 		x = math.sqrt(self.x**2 + self.y**2)
 		r = Complex(x)
 		return r
+
 
 Cr, Ci = map(float, input().split())
 Dr, Di = map(float, input().split())

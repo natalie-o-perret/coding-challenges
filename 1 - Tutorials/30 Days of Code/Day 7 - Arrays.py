@@ -1,6 +1,11 @@
-#!/bin/python3
+"""
+Objective
+Today, we're learning about the Array data structure.
 
-import sys
+Task
+Given an array, A, of N integers, print A's elements in reverse order
+as a single line of space-separated numbers.
+"""
 
 
 n = int(input().strip())

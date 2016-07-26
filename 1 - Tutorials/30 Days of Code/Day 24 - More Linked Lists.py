@@ -24,7 +24,7 @@ class Solution:
             print(current.data, end=' ')
             current = current.next
 
-    def removeDuplicates(self, head):
+    def remove_duplicates(self, head):
         # Write your code here
         previous = head
         s = set()
@@ -39,11 +39,12 @@ class Solution:
             current = current.next
         return head
 
+
 mylist = Solution()
 T = int(input())
 head = None
 for i in range(T):
     data = int(input())
     head = mylist.insert(head,data)    
-head = mylist.removeDuplicates(head)
+head = mylist.remove_duplicates(head)
 mylist.display(head)

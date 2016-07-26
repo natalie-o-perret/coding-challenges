@@ -1,7 +1,3 @@
-#!/bin/python3
-
-import sys
-
 n = int(input())
 
 max_one_count = 0

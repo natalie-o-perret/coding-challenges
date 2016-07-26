@@ -1,5 +1,3 @@
-import sys
-
 class Solution(object):
 	# Write your code here
 	def __init__(self):

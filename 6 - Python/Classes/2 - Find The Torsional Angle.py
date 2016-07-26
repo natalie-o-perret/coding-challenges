@@ -1,5 +1,6 @@
 import math
 
+
 class Point3D(object):
 	def __init__(self, x=0, y=0, z=0):
 		self.x = x
@@ -57,6 +58,7 @@ class Vector3D(object):
 
 	def __abs__(self):
 		return self.norm()
+
 
 # Points
 A = Point3D(*list(map(float, input().split())))
