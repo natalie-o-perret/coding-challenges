@@ -5,7 +5,7 @@ for t in range(T):
 	n = int(input())
 	lengths = deque(map(int, input().split()))
 	top = max(lengths)
-	while (len(lengths) > 0):
+	while len(lengths) > 0:
 		left = lengths[0]
 		right = lengths[-1]
 		if (right >= left) and (right <= top):
@@ -16,7 +16,7 @@ for t in range(T):
 			lengths.popleft()
 		else:
 			break
-	if (len(lengths) == 0):
+	if len(lengths) == 0:
 		print("YES")
 	else:
 		print("NO")

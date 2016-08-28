@@ -1,6 +1,5 @@
 from collections import defaultdict
 
-
 n, m = map(int, input().split())
 A = defaultdict(list)
 for i in range(1, n + 1):
@@ -8,6 +7,6 @@ for i in range(1, n + 1):
 for _ in range(m):
 	key = input()
 	if key in A:
-		print (*A[key], sep = " ")
+		print(*A[key], sep=" ")
 	else:
-		print (-1)
+		print(-1)

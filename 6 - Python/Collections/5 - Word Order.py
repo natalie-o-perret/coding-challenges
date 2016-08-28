@@ -1,4 +1,4 @@
-from collections import deque
+from collections import OrderedDict
 
 words = OrderedDict()
 n = int(input())

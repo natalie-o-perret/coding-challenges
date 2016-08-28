@@ -1,5 +1,5 @@
-n, k = map(int, "6 3".split())
-a = list(map(int, "1 3 2 6 1 2".split()))
+n, k = map(int, input().split())
+a = list(map(int, input().split()))
 
 count = 0
 counts = [0] * k
@@ -14,7 +14,6 @@ for aj in a:
 	# => complement: (k - aj % k) % k
 	complement = (k - bucket) % k
 	count += counts[complement]
-
 	counts[bucket] += 1
 
 print(count)
