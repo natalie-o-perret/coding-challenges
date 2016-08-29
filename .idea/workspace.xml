@@ -2,25 +2,15 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="00a07016-aa52-4a1b-97e0-cfe27523dc72" name="Default" comment="">
-      <change type="MOVED" beforePath="$PROJECT_DIR$/1 - Tutorials/30 Days of Code/__init__.py" afterPath="$PROJECT_DIR$/2 - Algorithms/3 - Strings/Super Reduced String.py" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/2 - Algorithms/1 - Warmup/3 - A Very Big Sum.py" afterPath="$PROJECT_DIR$/2 - Algorithms/1 - Warmup/4 - A Very Big Sum.py" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/2 - Algorithms/1 - Warmup/4 - Diagonal Difference.py" afterPath="$PROJECT_DIR$/2 - Algorithms/1 - Warmup/5 - Diagonal Difference.py" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/2 - Algorithms/1 - Warmup/5 - Plus Minus.py" afterPath="$PROJECT_DIR$/2 - Algorithms/1 - Warmup/6 - Plus Minus.py" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/2 - Algorithms/1 - Warmup/6 - Staircase.py" afterPath="$PROJECT_DIR$/2 - Algorithms/1 - Warmup/7 - Staircase.py" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/2 - Algorithms/1 - Warmup/7 - Time Conversion.py" afterPath="$PROJECT_DIR$/2 - Algorithms/1 - Warmup/8 - Time Conversion.py" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/2 - Algorithms/1 - Warmup/Circular Array Rotation.py" afterPath="$PROJECT_DIR$/2 - Algorithms/1 - Warmup/9 - Circular Array Rotation.py" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/2 - Algorithms/1 - Warmup/Compare the Triplets.py" afterPath="$PROJECT_DIR$/2 - Algorithms/1 - Warmup/3 - Compare the Triplets.py" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/2 - Algorithms/2 - Implementation/1 - Angry Professor.py" afterPath="$PROJECT_DIR$/2 - Algorithms/2 - Implementation/3 - Angry Professor.py" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/2 - Algorithms/2 - Implementation/Divisible Sum Pair.py" afterPath="$PROJECT_DIR$/2 - Algorithms/2 - Implementation/2 - Divisible Sum Pair.py" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/2 - Algorithms/2 - Implementation/Kangaroo.py" afterPath="$PROJECT_DIR$/2 - Algorithms/2 - Implementation/1 - Kangaroo.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/2 - Algorithms/Greedy/1 - Grid Challenge.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/2 - Algorithms/Greedy/2 - Luck Challenge.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/2 - Algorithms/Greedy/3 - Beautiful Pairs.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/2 - Algorithms/Greedy/4 - Sherlock And The Beast.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/2 - Algorithms/Greedy/5 - Jim and the Orders.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/test.py" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/2 - Algorithms/2 - Implementation/2 - Sherlock And The Beast.py" afterPath="" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/6 - Python/Collections/1 - Collections.Counter.py" afterPath="$PROJECT_DIR$/6 - Python/Collections/1 - Collections.Counter.py" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/6 - Python/Collections/2 - DefaultDict Tutorial.py" afterPath="$PROJECT_DIR$/6 - Python/Collections/2 - DefaultDict Tutorial.py" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/6 - Python/Collections/3 - Collections.NamedTuple.py" afterPath="$PROJECT_DIR$/6 - Python/Collections/3 - Collections.NamedTuple.py" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/6 - Python/Collections/5 - Word Order.py" afterPath="$PROJECT_DIR$/6 - Python/Collections/5 - Word Order.py" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/6 - Python/Collections/7 - Piling Up!.py" afterPath="$PROJECT_DIR$/6 - Python/Collections/7 - Piling Up!.py" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/6 - Python/Data Types/1 - Lists.py" afterPath="$PROJECT_DIR$/6 - Python/Data Types/1 - Lists.py" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/6 - Python/Date AndTime/1 - Calendar Module.py" afterPath="$PROJECT_DIR$/6 - Python/Date AndTime/1 - Calendar Module.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/2 - Algorithms/2 - Implementation/3 - Angry Professor.py" afterPath="$PROJECT_DIR$/2 - Algorithms/2 - Implementation/3 - Angry Professor.py" />
     </list>
     <ignored path="EhouarnPerret.Python.HackerRank.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -40,21 +30,41 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="450">
-      <file leaf-file-name="Day 0 - Hello, World.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/1 - Tutorials/30 Days of Code/Day 0 - Hello, World.py">
+      <file leaf-file-name="1 - Kangaroo.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/2 - Algorithms/2 - Implementation/1 - Kangaroo.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="0">
-              <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+            <state relative-caret-position="120">
+              <caret line="5" column="0" selection-start-line="5" selection-start-column="0" selection-end-line="5" selection-end-column="0" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="9 - Circular Array Rotation.py" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/2 - Algorithms/1 - Warmup/9 - Circular Array Rotation.py">
+      <file leaf-file-name="2 - Divisible Sum Pair.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/2 - Algorithms/2 - Implementation/2 - Divisible Sum Pair.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="72">
-              <caret line="3" column="0" selection-start-line="3" selection-start-column="0" selection-end-line="3" selection-end-column="0" />
+            <state relative-caret-position="288">
+              <caret line="12" column="19" selection-start-line="12" selection-start-column="19" selection-end-line="12" selection-end-column="19" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="3 - Angry Professor.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/2 - Algorithms/2 - Implementation/3 - Angry Professor.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="120">
+              <caret line="5" column="24" selection-start-line="5" selection-start-column="24" selection-end-line="5" selection-end-column="24" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="test.py" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/test.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="0">
+              <caret line="0" column="10" selection-start-line="0" selection-start-column="7" selection-end-line="0" selection-end-column="10" />
               <folding />
             </state>
           </provider>
@@ -75,15 +85,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/3 - Data Structures/3 - Trees/3 - Postorder Traversal.py" />
-        <option value="$PROJECT_DIR$/3 - Data Structures/4 - Balanced Trees/__init__.py" />
-        <option value="$PROJECT_DIR$/3 - Data Structures/1 - Arrays/__init__.py" />
-        <option value="$PROJECT_DIR$/3 - Data Structures/10 - Trie/__init__.py" />
-        <option value="$PROJECT_DIR$/2 - Algorithms/3 - Strings/2 - Alternating Characters.py" />
-        <option value="$PROJECT_DIR$/2 - Algorithms/3 - Strings/3 - The Love-Letter Mystery.py" />
-        <option value="$PROJECT_DIR$/2 - Algorithms/3 - Strings/5 - Funny String.py" />
-        <option value="$PROJECT_DIR$/2 - Algorithms/3 - Strings/6 - Anagram.py" />
-        <option value="$PROJECT_DIR$/2 - Algorithms/Bit Manipulation/4 - Sansa and XOR.py" />
         <option value="$PROJECT_DIR$/2 - Algorithms/Bit Manipulation/5 - Flipping Bits.py" />
         <option value="$PROJECT_DIR$/2 - Algorithms/Bit Manipulation/3 - Counter Game.py" />
         <option value="$PROJECT_DIR$/2 - Algorithms/Bit Manipulation/2 - Maximize XOR.py" />
@@ -126,14 +127,22 @@
         <option value="$PROJECT_DIR$/6 - Python/Collections/7 - Piling Up!.py" />
         <option value="$PROJECT_DIR$/6 - Python/Date AndTime/1 - Calendar Module.py" />
         <option value="$PROJECT_DIR$/2 - Algorithms/1 - Warmup/9 - Circular Array Rotation.py" />
+        <option value="$PROJECT_DIR$/2 - Algorithms/Greedy/1  - Grid Challenge.py" />
+        <option value="$PROJECT_DIR$/2 - Algorithms/Greedy/2 - Sherlock And The Beast.py" />
+        <option value="$PROJECT_DIR$/2 - Algorithms/Greedy/2 - Luck Challenge.py" />
+        <option value="$PROJECT_DIR$/2 - Algorithms/Greedy/3 - Beautiful Pairs.py" />
+        <option value="$PROJECT_DIR$/2 - Algorithms/Greedy/5 - Jim and the Orders.py" />
+        <option value="$PROJECT_DIR$/2 - Algorithms/Greedy/1 - Grid Challenge.py" />
+        <option value="$PROJECT_DIR$/6 - Python/werwer.py" />
+        <option value="$PROJECT_DIR$/2 - Algorithms/2 - Implementation/3 - Angry Professor.py" />
+        <option value="$PROJECT_DIR$/test.py" />
       </list>
     </option>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="-11" />
-    <option name="y" value="-11" />
-    <option name="width" value="1924" />
-    <option name="height" value="1056" />
+    <option name="x" value="85" />
+    <option name="width" value="1626" />
+    <option name="height" value="1044" />
   </component>
   <component name="ProjectInspectionProfilesVisibleTreeState">
     <entry key="Project Default">
@@ -199,120 +208,6 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="EhouarnPerret.Python.HackerRank" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="EhouarnPerret.Python.HackerRank" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="6 - Python" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="EhouarnPerret.Python.HackerRank" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="EhouarnPerret.Python.HackerRank" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="3 - Data Structures" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="EhouarnPerret.Python.HackerRank" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="EhouarnPerret.Python.HackerRank" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="2 - Algorithms" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="Bit Manipulation" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="EhouarnPerret.Python.HackerRank" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="EhouarnPerret.Python.HackerRank" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="2 - Algorithms" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="3 - Strings" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="EhouarnPerret.Python.HackerRank" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="EhouarnPerret.Python.HackerRank" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="2 - Algorithms" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="2 - Implementation" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="EhouarnPerret.Python.HackerRank" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="EhouarnPerret.Python.HackerRank" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="2 - Algorithms" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="1 - Warmup" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="EhouarnPerret.Python.HackerRank" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="EhouarnPerret.Python.HackerRank" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="1 - Tutorials" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
         </subPane>
       </pane>
     </panes>
@@ -323,6 +218,9 @@
     <property name="last_opened_file_path" value="C:/Python36/python.exe" />
   </component>
   <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\ehouarn-perret\Desktop\Development\Python\EhouarnPerret.Python.HackerRank\2 - Algorithms\Greedy" />
+    </key>
     <key name="CopyFile.RECENT_KEYS">
       <recent name="C:\Users\ehouarn-perret\Desktop\Development\Python\EhouarnPerret.Python.HackerRank\2 - Algorithms\1 - Warmup" />
       <recent name="C:\Users\ehouarn-perret\Desktop\Development\Python\EhouarnPerret.Python.HackerRank\2 - Algorithms\2 - Implementation" />
@@ -331,41 +229,7 @@
       <recent name="C:\Users\ehouarn-perret\Desktop\Development\Python\EhouarnPerret.Python.HackerRank\4 - Mathematics" />
     </key>
   </component>
-  <component name="RunManager" selected="Python.Super Reduced String">
-    <configuration default="false" name="Compare the Triplets" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/2 - Algorithms/1 - Warmup" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <module name="EhouarnPerret.Python.HackerRank" />
-      <option name="SCRIPT_NAME" value="C:\Users\ehouarn-perret\Desktop\Development\Python\EhouarnPerret.Python.HackerRank\2 - Algorithms\1 - Warmup\3 - Compare the Triplets.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <method />
-    </configuration>
-    <configuration default="false" name="Circular Array Rotation" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/2 - Algorithms/1 - Warmup" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <module name="EhouarnPerret.Python.HackerRank" />
-      <option name="SCRIPT_NAME" value="C:\Users\ehouarn-perret\Desktop\Development\Python\EhouarnPerret.Python.HackerRank\2 - Algorithms\1 - Warmup\9 - Circular Array Rotation.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <method />
-    </configuration>
+  <component name="RunManager" selected="Python.test">
     <configuration default="false" name="Kangaroo" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -413,6 +277,40 @@
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <module name="EhouarnPerret.Python.HackerRank" />
       <option name="SCRIPT_NAME" value="$PROJECT_DIR$/2 - Algorithms/3 - Strings/Super Reduced String.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <method />
+    </configuration>
+    <configuration default="false" name="werwer" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/6 - Python" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="EhouarnPerret.Python.HackerRank" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/6 - Python/werwer.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <method />
+    </configuration>
+    <configuration default="false" name="test" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="EhouarnPerret.Python.HackerRank" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/test.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <method />
@@ -552,19 +450,19 @@
       <method />
     </configuration>
     <list size="5">
-      <item index="0" class="java.lang.String" itemvalue="Python.Compare the Triplets" />
-      <item index="1" class="java.lang.String" itemvalue="Python.Circular Array Rotation" />
-      <item index="2" class="java.lang.String" itemvalue="Python.Kangaroo" />
-      <item index="3" class="java.lang.String" itemvalue="Python.Divisible Sum Pair" />
-      <item index="4" class="java.lang.String" itemvalue="Python.Super Reduced String" />
+      <item index="0" class="java.lang.String" itemvalue="Python.Kangaroo" />
+      <item index="1" class="java.lang.String" itemvalue="Python.Divisible Sum Pair" />
+      <item index="2" class="java.lang.String" itemvalue="Python.Super Reduced String" />
+      <item index="3" class="java.lang.String" itemvalue="Python.werwer" />
+      <item index="4" class="java.lang.String" itemvalue="Python.test" />
     </list>
     <recent_temporary>
       <list size="5">
-        <item index="0" class="java.lang.String" itemvalue="Python.Super Reduced String" />
-        <item index="1" class="java.lang.String" itemvalue="Python.Divisible Sum Pair" />
-        <item index="2" class="java.lang.String" itemvalue="Python.Kangaroo" />
-        <item index="3" class="java.lang.String" itemvalue="Python.Circular Array Rotation" />
-        <item index="4" class="java.lang.String" itemvalue="Python.Compare the Triplets" />
+        <item index="0" class="java.lang.String" itemvalue="Python.test" />
+        <item index="1" class="java.lang.String" itemvalue="Python.werwer" />
+        <item index="2" class="java.lang.String" itemvalue="Python.Super Reduced String" />
+        <item index="3" class="java.lang.String" itemvalue="Python.Divisible Sum Pair" />
+        <item index="4" class="java.lang.String" itemvalue="Python.Kangaroo" />
       </list>
     </recent_temporary>
   </component>
@@ -652,29 +550,36 @@
       <option name="project" value="LOCAL" />
       <updated>1471820539225</updated>
     </task>
-    <option name="localTasksCounter" value="11" />
+    <task id="LOCAL-00011" summary="Warmup Algorithms sorting">
+      <created>1472400244108</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1472400244108</updated>
+    </task>
+    <option name="localTasksCounter" value="12" />
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-11" y="-11" width="1924" height="1056" extended-state="0" />
+    <frame x="85" y="0" width="1626" height="1044" extended-state="0" />
     <editor active="true" />
     <layout>
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.20728442" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.27342257" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
-      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.29122806" sideWeight="0.5313337" order="7" side_tool="true" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.23487544" sideWeight="0.53664756" order="7" side_tool="true" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3251462" sideWeight="0.48955545" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Python Console" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3251462" sideWeight="0.4938992" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.29122806" sideWeight="0.46866632" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.23487544" sideWeight="0.46335244" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
-      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.23453237" sideWeight="0.5302219" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.35043988" sideWeight="0.52640843" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
       <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
-      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32520324" sideWeight="0.49363732" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
     </layout>
   </component>
@@ -698,71 +603,16 @@
     <MESSAGE value="__init__ ..." />
     <MESSAGE value="new warmup problems" />
     <MESSAGE value="new implementation problems" />
-    <option name="LAST_COMMIT_MESSAGE" value="new implementation problems" />
+    <MESSAGE value="Warmup Algorithms sorting" />
+    <option name="LAST_COMMIT_MESSAGE" value="Warmup Algorithms sorting" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
-      <option name="time" value="7" />
+      <option name="time" value="9" />
     </breakpoint-manager>
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/6 - Python/Strings/6 - Text Alignment.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-221">
-          <caret line="0" column="29" selection-start-line="0" selection-start-column="29" selection-end-line="0" selection-end-column="29" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/6 - Python/Strings/8 - Desginer Door Mat.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="144">
-          <caret line="6" column="0" selection-start-line="6" selection-start-column="0" selection-end-line="6" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/6 - Python/Strings/12 - The Minion Game.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="264">
-          <caret line="11" column="0" selection-start-line="11" selection-start-column="0" selection-end-line="11" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/6 - Python/Strings/11 - Capitalize.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/6 - Python/Strings/10 - Alphabet Rangoli.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="96">
-          <caret line="4" column="25" selection-start-line="4" selection-start-column="25" selection-end-line="4" selection-end-column="25" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/6 - Python/Strings/9 - String Formatting.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/6 - Python/Strings/7 - Text Wrap.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/6 - Python/Strings/5 - String Validators.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/6 - Python/Strings/2 - String Split And Join.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="48">
@@ -860,20 +710,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="88">
           <caret line="198" column="8" selection-start-line="198" selection-start-column="8" selection-end-line="198" selection-end-column="8" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/2 - Algorithms/2 - Implementation/1 - Kangaroo.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="72">
-          <caret line="3" column="23" selection-start-line="3" selection-start-column="23" selection-end-line="3" selection-end-column="23" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/2 - Algorithms/2 - Implementation/2 - Divisible Sum Pair.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="142">
-          <caret line="12" column="19" selection-start-line="12" selection-start-column="19" selection-end-line="12" selection-end-column="19" />
         </state>
       </provider>
     </entry>
@@ -1058,8 +894,88 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/2 - Algorithms/1 - Warmup/9 - Circular Array Rotation.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="72">
-          <caret line="3" column="0" selection-start-line="3" selection-start-column="0" selection-end-line="3" selection-end-column="0" />
+        <state relative-caret-position="168">
+          <caret line="7" column="0" selection-start-line="7" selection-start-column="0" selection-end-line="7" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/2 - Algorithms/Greedy/2 - Luck Challenge.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/2 - Algorithms/Greedy/3 - Beautiful Pairs.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/2 - Algorithms/Greedy/5 - Jim and the Orders.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/2 - Algorithms/Greedy/4 - Sherlock And The Beast.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="264">
+          <caret line="11" column="10" selection-start-line="11" selection-start-column="10" selection-end-line="11" selection-end-column="10" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/2 - Algorithms/Greedy/1 - Grid Challenge.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/6 - Python/werwer.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="192">
+          <caret line="8" column="0" selection-start-line="8" selection-start-column="0" selection-end-line="8" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/2 - Algorithms/2 - Implementation/1 - Kangaroo.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="120">
+          <caret line="5" column="0" selection-start-line="5" selection-start-column="0" selection-end-line="5" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/2 - Algorithms/2 - Implementation/2 - Divisible Sum Pair.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="288">
+          <caret line="12" column="19" selection-start-line="12" selection-start-column="19" selection-end-line="12" selection-end-column="19" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/2 - Algorithms/2 - Implementation/3 - Angry Professor.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="120">
+          <caret line="5" column="24" selection-start-line="5" selection-start-column="24" selection-end-line="5" selection-end-column="24" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/test.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="10" selection-start-line="0" selection-start-column="7" selection-end-line="0" selection-end-column="10" />
           <folding />
         </state>
       </provider>
