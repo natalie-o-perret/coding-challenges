@@ -1,9 +1,3 @@
-#!/bin/python3
-
-import sys
-import math
-
-
 s = input().strip()
 s = s.replace(" ", "")
 l = len(s)

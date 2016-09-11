@@ -1,6 +1,3 @@
-#!/bin/python3
-
-import sys
 import math
 
 
@@ -22,6 +19,6 @@ for n in range(p, q + 1):
 	r = (n2 // powdig)
 	if (l + r) == n:
 		print(n, end=" ")
-		count = count + 1
+		count += 1
 if count == 0:
 	print("INVALID RANGE")
