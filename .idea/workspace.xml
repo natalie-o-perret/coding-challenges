@@ -2,47 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="00a07016-aa52-4a1b-97e0-cfe27523dc72" name="Default" comment="">
-      <change type="DELETED" beforePath="$PROJECT_DIR$/1 - Tutorials/__init__.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/2 - Algorithms/1 - Warmup/__init__.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/2 - Algorithms/2 - Implementation/__init__.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/2 - Algorithms/3 - Strings/__init__.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/2 - Algorithms/Bit Manipulation/__init__.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/2 - Algorithms/__init__.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/3 - Data Structures/1 - Arrays/__init__.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/3 - Data Structures/10 - Trie/__init__.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/3 - Data Structures/11 - Advanced/__init__.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/3 - Data Structures/2 - Linked Lists/__init__.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/3 - Data Structures/3 - Trees/__init__.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/3 - Data Structures/4 - Balanced Trees/__init__.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/3 - Data Structures/5 - Queues/__init__.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/3 - Data Structures/6 - Stacks/__init__.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/3 - Data Structures/7 - Heap/__init__.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/3 - Data Structures/8 - Disjoint Set/__init__.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/3 - Data Structures/9 - Multiple Choice/__init__.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/3 - Data Structures/__init__.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/4 - Mathematics/__init__.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/5 - Artificial Intelligence/__init__.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/6 - Python/Built-Ins/__init__.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/6 - Python/Classes/__init__.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/6 - Python/Collections/__init__.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/6 - Python/Data Types/__init__.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/6 - Python/Date AndTime/__init__.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/6 - Python/Errors And Exceptions/__init__.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/6 - Python/Functionals/__init__.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/6 - Python/Introduction/__init__.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/6 - Python/Itertools/__init__.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/6 - Python/Math/__init__.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/6 - Python/Regex And Patterns/__init__.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/6 - Python/Sets/__init__.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/6 - Python/Strings/__init__.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/6 - Python/__init__.py" afterPath="" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/6 - Python/Regex And Patterns/8 - Validating Phone Numbers.py" afterPath="$PROJECT_DIR$/6 - Python/Regex And Patterns/8 - Validating Phone Numbers.py" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/6 - Python/Strings/12 - The Minion Game.py" afterPath="$PROJECT_DIR$/6 - Python/Strings/12 - The Minion Game.py" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/6 - Python/Strings/3 - Mutations.py" afterPath="$PROJECT_DIR$/6 - Python/Strings/3 - Mutations.py" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/6 - Python/Strings/4 - Find A String.py" afterPath="$PROJECT_DIR$/6 - Python/Strings/4 - Find A String.py" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/6 - Python/Strings/6 - Text Alignment.py" afterPath="$PROJECT_DIR$/6 - Python/Strings/6 - Text Alignment.py" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/6 - Python/Strings/8 - Desginer Door Mat.py" afterPath="$PROJECT_DIR$/6 - Python/Strings/8 - Desginer Door Mat.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/2 - Algorithms/2 - Implementation/9 - Save the Prisoner!.py" afterPath="$PROJECT_DIR$/2 - Algorithms/2 - Implementation/9 - Save the Prisoner!.py" />
     </list>
     <ignored path="EhouarnPerret.Python.HackerRank.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -53,7 +14,6 @@
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
-  <component name="ChangesViewManager" flattened_view="true" show_ignored="false" />
   <component name="CreatePatchCommitExecutor">
     <option name="PATCH_PATH" value="" />
   </component>
@@ -62,7 +22,28 @@
     <favorites_list name="EhouarnPerret.Python.HackerRank" />
   </component>
   <component name="FileEditorManager">
-    <leaf SIDE_TABS_SIZE_LIMIT_KEY="450" />
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="450">
+      <file leaf-file-name="8 - Bigger is Greater.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/2 - Algorithms/2 - Implementation/8 - Bigger is Greater.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="1080">
+              <caret line="45" column="9" selection-start-line="45" selection-start-column="9" selection-end-line="45" selection-end-column="9" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="9 - Save the Prisoner!.py" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/2 - Algorithms/2 - Implementation/9 - Save the Prisoner!.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="144">
+              <caret line="6" column="0" selection-start-line="6" selection-start-column="0" selection-end-line="6" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
   </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
@@ -77,40 +58,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/6 - Python/Classes/2 - Find The Torsional Angle.py" />
-        <option value="$PROJECT_DIR$/6 - Python/Collections/2 - DefaultDict Tutorial.py" />
-        <option value="$PROJECT_DIR$/1 - Tutorials/30 Days of Code/Day 1 - Data Types.py" />
-        <option value="$PROJECT_DIR$/1 - Tutorials/30 Days of Code/Day 2 - Operators.py" />
-        <option value="$PROJECT_DIR$/1 - Tutorials/30 Days of Code/Day 4 - Class vs. Instance.py" />
-        <option value="$PROJECT_DIR$/1 - Tutorials/30 Days of Code/Day 9 - Recursion.py" />
-        <option value="$PROJECT_DIR$/1 - Tutorials/30 Days of Code/Day 10 - Binary Numbers.py" />
-        <option value="$PROJECT_DIR$/1 - Tutorials/30 Days of Code/Day 11- 2D Arrays.py" />
-        <option value="$PROJECT_DIR$/1 - Tutorials/30 Days of Code/Day 18 - Queues and Stacks.py" />
-        <option value="$PROJECT_DIR$/1 - Tutorials/30 Days of Code/Day 23 - BST Level-Order Traversal.py" />
-        <option value="$PROJECT_DIR$/1 - Tutorials/30 Days of Code/Day 24 - More Linked Lists.py" />
-        <option value="$PROJECT_DIR$/1 - Tutorials/30 Days of Code/Day 26 - Nested Logic.py" />
-        <option value="$PROJECT_DIR$/1 - Tutorials/30 Days of Code/Day 27 - Testing.py" />
-        <option value="$PROJECT_DIR$/1 - Tutorials/30 Days of Code/Day 28 - RegEx, Patterns, and Intro to Databases.py" />
-        <option value="$PROJECT_DIR$/1 - Tutorials/30 Days of Code/Day 29 - Bitwise AND.py" />
-        <option value="$PROJECT_DIR$/3 - Data Structures/3 - Trees/3 - Postorder Traversal.py" />
-        <option value="$PROJECT_DIR$/3 - Data Structures/4 - Balanced Trees/__init__.py" />
-        <option value="$PROJECT_DIR$/3 - Data Structures/1 - Arrays/__init__.py" />
-        <option value="$PROJECT_DIR$/3 - Data Structures/10 - Trie/__init__.py" />
-        <option value="$PROJECT_DIR$/2 - Algorithms/3 - Strings/2 - Alternating Characters.py" />
-        <option value="$PROJECT_DIR$/2 - Algorithms/3 - Strings/3 - The Love-Letter Mystery.py" />
-        <option value="$PROJECT_DIR$/2 - Algorithms/3 - Strings/5 - Funny String.py" />
-        <option value="$PROJECT_DIR$/2 - Algorithms/3 - Strings/6 - Anagram.py" />
-        <option value="$PROJECT_DIR$/2 - Algorithms/Bit Manipulation/4 - Sansa and XOR.py" />
-        <option value="$PROJECT_DIR$/2 - Algorithms/Bit Manipulation/5 - Flipping Bits.py" />
-        <option value="$PROJECT_DIR$/2 - Algorithms/Bit Manipulation/3 - Counter Game.py" />
-        <option value="$PROJECT_DIR$/2 - Algorithms/Bit Manipulation/2 - Maximize XOR.py" />
-        <option value="$PROJECT_DIR$/2 - Algorithms/Bit Manipulation/1 - Lonely Integer.py" />
-        <option value="$PROJECT_DIR$/3 - Data Structures/1 - Arrays/2 - 2D Array - DS.py" />
-        <option value="$PROJECT_DIR$/3 - Data Structures/1 - Arrays/4 - Array Left Rotation.py" />
-        <option value="$PROJECT_DIR$/3 - Data Structures/1 - Arrays/5 - Sparse Arrays.py" />
-        <option value="$PROJECT_DIR$/3 - Data Structures/1 - Arrays/3 - Dynamic Array.py" />
-        <option value="$PROJECT_DIR$/2 - Algorithms/3 - Strings/1 - Pangrams.py" />
-        <option value="$PROJECT_DIR$/2 - Algorithms/3 - Strings/4 - Gemstones.py" />
         <option value="$PROJECT_DIR$/2 - Algorithms/3 - Strings/7 - Palindrome Index.py" />
         <option value="$PROJECT_DIR$/2 - Algorithms/1 - Warmup/6 - Staircase.py" />
         <option value="$PROJECT_DIR$/2 - Algorithms/1 - Warmup/2 - Simple Array Sum.py" />
@@ -128,6 +75,40 @@
         <option value="$PROJECT_DIR$/6 - Python/Regex And Patterns/8 - Validating Phone Numbers.py" />
         <option value="$PROJECT_DIR$/3 - Data Structures/3 - Trees/1 - Preorder Traversal.py" />
         <option value="$PROJECT_DIR$/3 - Data Structures/3 - Trees/__init__.py" />
+        <option value="$PROJECT_DIR$/2 - Algorithms/1 - Warmup/Compare the Triplets.py" />
+        <option value="$PROJECT_DIR$/2 - Algorithms/1 - Warmup/Circular Array Rotation.py" />
+        <option value="$PROJECT_DIR$/2 - Algorithms/2 - Implementation/Kangaroo.py" />
+        <option value="$PROJECT_DIR$/2 - Algorithms/2 - Implementation/Non-Divisible Subset.py" />
+        <option value="$PROJECT_DIR$/2 - Algorithms/3 - Strings/SuperReducedString.py" />
+        <option value="$PROJECT_DIR$/2 - Algorithms/2 - Implementation/Divisible Sum Pair.py" />
+        <option value="$PROJECT_DIR$/2 - Algorithms/3 - Strings/Super Reduced String.py" />
+        <option value="$PROJECT_DIR$/6 - Python/Data Types/1 - Lists.py" />
+        <option value="$PROJECT_DIR$/6 - Python/Collections/1 - Collections.Counter.py" />
+        <option value="$PROJECT_DIR$/6 - Python/Collections/2 - DefaultDict Tutorial.py" />
+        <option value="$PROJECT_DIR$/6 - Python/Collections/3 - Collections.NamedTuple.py" />
+        <option value="$PROJECT_DIR$/6 - Python/Collections/5 - Word Order.py" />
+        <option value="$PROJECT_DIR$/6 - Python/Collections/7 - Piling Up!.py" />
+        <option value="$PROJECT_DIR$/6 - Python/Date AndTime/1 - Calendar Module.py" />
+        <option value="$PROJECT_DIR$/2 - Algorithms/1 - Warmup/9 - Circular Array Rotation.py" />
+        <option value="$PROJECT_DIR$/2 - Algorithms/Greedy/1  - Grid Challenge.py" />
+        <option value="$PROJECT_DIR$/2 - Algorithms/Greedy/2 - Sherlock And The Beast.py" />
+        <option value="$PROJECT_DIR$/2 - Algorithms/Greedy/2 - Luck Challenge.py" />
+        <option value="$PROJECT_DIR$/2 - Algorithms/Greedy/3 - Beautiful Pairs.py" />
+        <option value="$PROJECT_DIR$/2 - Algorithms/Greedy/5 - Jim and the Orders.py" />
+        <option value="$PROJECT_DIR$/2 - Algorithms/Greedy/1 - Grid Challenge.py" />
+        <option value="$PROJECT_DIR$/6 - Python/werwer.py" />
+        <option value="$PROJECT_DIR$/2 - Algorithms/2 - Implementation/3 - Angry Professor.py" />
+        <option value="$PROJECT_DIR$/test.py" />
+        <option value="$PROJECT_DIR$/2 - Algorithms/2 - Implementation/Repeated String.py" />
+        <option value="$PROJECT_DIR$/2 - Algorithms/2 - Implementation/Jumping on the Clouds.py" />
+        <option value="$PROJECT_DIR$/2 - Algorithms/2 - Implementation/9 - Caesar Cypher.py" />
+        <option value="$PROJECT_DIR$/2 - Algorithms/2 - Implementation/5 - Encryption.py" />
+        <option value="$PROJECT_DIR$/2 - Algorithms/2 - Implementation/5 - Sherlock And Squares.py" />
+        <option value="$PROJECT_DIR$/2 - Algorithms/2 - Implementation/4 - Kaprekar - Numbers.py" />
+        <option value="$PROJECT_DIR$/2 - Algorithms/2 - Implementation/5 - Cut The Sticks.py" />
+        <option value="$PROJECT_DIR$/2 - Algorithms/2 - Implementation/Bigger is Greater.py" />
+        <option value="$PROJECT_DIR$/2 - Algorithms/2 - Implementation/Save the Prisoner!.py" />
+        <option value="$PROJECT_DIR$/2 - Algorithms/2 - Implementation/9 - Save the Prisoner!.py" />
       </list>
     </option>
   </component>
@@ -136,6 +117,25 @@
     <option name="y" value="-11" />
     <option name="width" value="1942" />
     <option name="height" value="1056" />
+  </component>
+  <component name="ProjectInspectionProfilesVisibleTreeState">
+    <entry key="Project Default">
+      <profile-state>
+        <expanded-state>
+          <State>
+            <id />
+          </State>
+          <State>
+            <id>Python</id>
+          </State>
+        </expanded-state>
+        <selected-state>
+          <State>
+            <id>PyPep8Inspection</id>
+          </State>
+        </selected-state>
+      </profile-state>
+    </entry>
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="false">
     <OptionsSetting value="true" id="Add" />
@@ -162,6 +162,8 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="Scope" />
+      <pane id="Scratches" />
       <pane id="ProjectPane">
         <subPane>
           <PATH>
@@ -238,8 +240,6 @@
           </PATH>
         </subPane>
       </pane>
-      <pane id="Scope" />
-      <pane id="Scratches" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -248,6 +248,9 @@
     <property name="last_opened_file_path" value="C:/Python36/python.exe" />
   </component>
   <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\ehouarn-perret\Desktop\Development\Python\EhouarnPerret.Python.HackerRank\2 - Algorithms\Greedy" />
+    </key>
     <key name="CopyFile.RECENT_KEYS">
       <recent name="C:\Users\ehouarn-perret\Desktop\Development\Python\EhouarnPerret.Python.HackerRank\2 - Algorithms\1 - Warmup" />
       <recent name="C:\Users\ehouarn-perret\Desktop\Development\Python\EhouarnPerret.Python.HackerRank\2 - Algorithms\2 - Implementation" />
@@ -256,88 +259,88 @@
       <recent name="C:\Users\ehouarn-perret\Desktop\Development\Python\EhouarnPerret.Python.HackerRank\4 - Mathematics" />
     </key>
   </component>
-  <component name="RunManager" selected="Python.1 - Preorder Traversal">
-    <configuration default="false" name="4 - Array Left Rotation" type="PythonConfigurationType" factoryName="Python" temporary="true">
+  <component name="RunManager" selected="Python.9 - Save the Prisoner!">
+    <configuration default="false" name="werwer" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
       <envs>
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/3 - Data Structures/1 - Arrays" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/6 - Python" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <module name="EhouarnPerret.Python.HackerRank" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/3 - Data Structures/1 - Arrays/4 - Array Left Rotation.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/6 - Python/werwer.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <method />
     </configuration>
-    <configuration default="false" name="1 - Preorder Traversal" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration default="false" name="test" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
       <envs>
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/3 - Data Structures/3 - Trees" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <module name="EhouarnPerret.Python.HackerRank" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/3 - Data Structures/3 - Trees/1 - Preorder Traversal.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/test.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <method />
     </configuration>
-    <configuration default="false" name="2 - Inorder Traversal" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration default="false" name="Repeated String" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
       <envs>
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/3 - Data Structures/3 - Trees" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/2 - Algorithms/2 - Implementation" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <module name="EhouarnPerret.Python.HackerRank" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/3 - Data Structures/3 - Trees/2 - Inorder Traversal.py" />
+      <option name="SCRIPT_NAME" value="C:\Users\ehouarn-perret\Desktop\Development\Python\EhouarnPerret.Python.HackerRank\2 - Algorithms\2 - Implementation\6 - Repeated String.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <method />
     </configuration>
-    <configuration default="false" name="3 - Postorder Traversal" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration default="false" name="Bigger is Greater" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
       <envs>
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/3 - Data Structures/3 - Trees" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/2 - Algorithms/2 - Implementation" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <module name="EhouarnPerret.Python.HackerRank" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/3 - Data Structures/3 - Trees/3 - Postorder Traversal.py" />
+      <option name="SCRIPT_NAME" value="C:\Users\ehouarn-perret\Desktop\Development\Python\EhouarnPerret.Python.HackerRank\2 - Algorithms\2 - Implementation\8 - Bigger is Greater.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <method />
     </configuration>
-    <configuration default="false" name="__init__" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration default="false" name="9 - Save the Prisoner!" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
       <envs>
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/3 - Data Structures/3 - Trees" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/2 - Algorithms/2 - Implementation" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <module name="EhouarnPerret.Python.HackerRank" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/3 - Data Structures/3 - Trees/__init__.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/2 - Algorithms/2 - Implementation/9 - Save the Prisoner!.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <method />
@@ -477,19 +480,19 @@
       <method />
     </configuration>
     <list size="5">
-      <item index="0" class="java.lang.String" itemvalue="Python.4 - Array Left Rotation" />
-      <item index="1" class="java.lang.String" itemvalue="Python.1 - Preorder Traversal" />
-      <item index="2" class="java.lang.String" itemvalue="Python.2 - Inorder Traversal" />
-      <item index="3" class="java.lang.String" itemvalue="Python.3 - Postorder Traversal" />
-      <item index="4" class="java.lang.String" itemvalue="Python.__init__" />
+      <item index="0" class="java.lang.String" itemvalue="Python.werwer" />
+      <item index="1" class="java.lang.String" itemvalue="Python.test" />
+      <item index="2" class="java.lang.String" itemvalue="Python.Repeated String" />
+      <item index="3" class="java.lang.String" itemvalue="Python.Bigger is Greater" />
+      <item index="4" class="java.lang.String" itemvalue="Python.9 - Save the Prisoner!" />
     </list>
     <recent_temporary>
       <list size="5">
-        <item index="0" class="java.lang.String" itemvalue="Python.__init__" />
-        <item index="1" class="java.lang.String" itemvalue="Python.1 - Preorder Traversal" />
-        <item index="2" class="java.lang.String" itemvalue="Python.3 - Postorder Traversal" />
-        <item index="3" class="java.lang.String" itemvalue="Python.2 - Inorder Traversal" />
-        <item index="4" class="java.lang.String" itemvalue="Python.4 - Array Left Rotation" />
+        <item index="0" class="java.lang.String" itemvalue="Python.9 - Save the Prisoner!" />
+        <item index="1" class="java.lang.String" itemvalue="Python.Bigger is Greater" />
+        <item index="2" class="java.lang.String" itemvalue="Python.Repeated String" />
+        <item index="3" class="java.lang.String" itemvalue="Python.test" />
+        <item index="4" class="java.lang.String" itemvalue="Python.werwer" />
       </list>
     </recent_temporary>
   </component>
@@ -556,24 +559,66 @@
       <option name="project" value="LOCAL" />
       <updated>1469391986251</updated>
     </task>
-    <option name="localTasksCounter" value="8" />
+    <task id="LOCAL-00008" summary="__init__ ...">
+      <created>1469480313476</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1469480313476</updated>
+    </task>
+    <task id="LOCAL-00009" summary="new warmup problems">
+      <created>1471682532128</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1471682532128</updated>
+    </task>
+    <task id="LOCAL-00010" summary="new implementation problems">
+      <created>1471820539225</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1471820539225</updated>
+    </task>
+    <task id="LOCAL-00011" summary="Warmup Algorithms sorting">
+      <created>1472400244108</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1472400244108</updated>
+    </task>
+    <task id="LOCAL-00012" summary="Warmup Algorithms sorting">
+      <created>1472505095310</created>
+      <option name="number" value="00012" />
+      <option name="presentableId" value="LOCAL-00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1472505095310</updated>
+    </task>
+    <task id="LOCAL-00013" summary="Refactored implementation algorithm exercises">
+      <created>1473627556153</created>
+      <option name="number" value="00013" />
+      <option name="presentableId" value="LOCAL-00013" />
+      <option name="project" value="LOCAL" />
+      <updated>1473627556153</updated>
+    </task>
+    <option name="localTasksCounter" value="14" />
     <servers />
   </component>
   <component name="ToolWindowManager">
     <frame x="-11" y="-11" width="1942" height="1056" extended-state="6" />
-    <editor active="false" />
+    <editor active="true" />
     <layout>
-      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.32820785" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.2535809" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
-      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.32520324" sideWeight="0.5021209" order="7" side_tool="true" content_ui="tabs" />
-      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32520324" sideWeight="0.49363732" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Python Console" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.32520324" sideWeight="0.49787912" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.20350876" sideWeight="0.32307693" order="7" side_tool="true" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3251462" sideWeight="0.48328912" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4146054" sideWeight="0.5838028" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Python Console" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3251462" sideWeight="0.4938992" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.20350876" sideWeight="0.6769231" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
-      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.2853067" sideWeight="0.51658475" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
@@ -600,196 +645,75 @@
     <MESSAGE value="Cleaning up some solutions" />
     <MESSAGE value="cleaning up project imports" />
     <MESSAGE value="__init__ ..." />
-    <option name="LAST_COMMIT_MESSAGE" value="__init__ ..." />
+    <MESSAGE value="new warmup problems" />
+    <MESSAGE value="new implementation problems" />
+    <MESSAGE value="Warmup Algorithms sorting" />
+    <MESSAGE value="Refactored implementation algorithm exercises" />
+    <option name="LAST_COMMIT_MESSAGE" value="Refactored implementation algorithm exercises" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
-      <option name="time" value="2" />
+      <breakpoints-dialog>
+        <breakpoints-dialog />
+      </breakpoints-dialog>
+      <option name="time" value="18" />
     </breakpoint-manager>
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/2 - Algorithms/3 - Strings/6 - Anagram.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="336">
-          <caret line="14" column="0" selection-start-line="14" selection-start-column="0" selection-end-line="14" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/2 - Algorithms/Bit Manipulation/4 - Sansa and XOR.py">
+    <entry file="file://$PROJECT_DIR$/6 - Python/Built-Ins/5 - Any Or All..py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/2 - Algorithms/Bit Manipulation/3 - Counter Game.py">
+    <entry file="file://$PROJECT_DIR$/2 - Algorithms/1 - Warmup/7 - Staircase.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="216">
-          <caret line="9" column="8" selection-start-line="9" selection-start-column="8" selection-end-line="9" selection-end-column="8" />
-          <folding />
+        <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/2 - Algorithms/Bit Manipulation/2 - Maximize XOR.py">
+    <entry file="file://$PROJECT_DIR$/2 - Algorithms/1 - Warmup/3 - Compare the Triplets.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="384">
-          <caret line="16" column="0" selection-start-line="16" selection-start-column="0" selection-end-line="18" selection-end-column="27" />
-          <folding />
+        <state relative-caret-position="240">
+          <caret line="10" column="9" selection-start-line="0" selection-start-column="0" selection-end-line="15" selection-end-column="0" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/2 - Algorithms/Bit Manipulation/5 - Flipping Bits.py">
+    <entry file="file://$PROJECT_DIR$/2 - Algorithms/2 - Implementation/Non-Divisible Subset.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="216">
-          <caret line="9" column="0" selection-start-line="9" selection-start-column="0" selection-end-line="9" selection-end-column="0" />
-          <folding />
+        <state relative-caret-position="72">
+          <caret line="3" column="0" selection-start-line="3" selection-start-column="0" selection-end-line="3" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$APPLICATION_HOME_DIR$/helpers/python-skeletons/re.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="88">
+          <caret line="198" column="8" selection-start-line="198" selection-start-column="8" selection-end-line="198" selection-end-column="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/2 - Algorithms/3 - Strings/Super Reduced String.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-69">
+          <caret line="8" column="23" selection-start-line="8" selection-start-column="23" selection-end-line="24" selection-end-column="0" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/3 - Data Structures/1 - Arrays/1 - Arrays - DS.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="14" selection-end-column="0" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/3 - Data Structures/1 - Arrays/4 - Array Left Rotation.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="144">
-          <caret line="6" column="0" selection-start-line="6" selection-start-column="0" selection-end-line="6" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/3 - Data Structures/1 - Arrays/5 - Sparse Arrays.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="192">
-          <caret line="8" column="0" selection-start-line="8" selection-start-column="0" selection-end-line="8" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/3 - Data Structures/1 - Arrays/3 - Dynamic Array.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="216">
-          <caret line="9" column="0" selection-start-line="9" selection-start-column="0" selection-end-line="9" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/3 - Data Structures/1 - Arrays/2 - 2D Array - DS.py">
+    <entry file="file://$PROJECT_DIR$/2 - Algorithms/1 - Warmup/1 - Solve Me First.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="48">
-          <caret line="8" column="0" selection-start-line="8" selection-start-column="0" selection-end-line="8" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/3 - Data Structures/1 - Arrays/__init__.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/2 - Algorithms/3 - Strings/3 - The Love-Letter Mystery.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="312">
-          <caret line="13" column="0" selection-start-line="13" selection-start-column="0" selection-end-line="13" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/2 - Algorithms/3 - Strings/2 - Alternating Characters.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="240">
-          <caret line="10" column="0" selection-start-line="10" selection-start-column="0" selection-end-line="10" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/2 - Algorithms/3 - Strings/1 - Pangrams.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="12" selection-start-line="0" selection-start-column="12" selection-end-line="0" selection-end-column="12" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/2 - Algorithms/3 - Strings/4 - Gemstones.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="48">
-          <caret line="2" column="30" selection-start-line="2" selection-start-column="30" selection-end-line="2" selection-end-column="30" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/2 - Algorithms/3 - Strings/5 - Funny String.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="96">
-          <caret line="4" column="13" selection-start-line="4" selection-start-column="13" selection-end-line="4" selection-end-column="13" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/2 - Algorithms/3 - Strings/__init__.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/2 - Algorithms/3 - Strings/7 - Palindrome Index.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="23" selection-start-line="0" selection-start-column="23" selection-end-line="0" selection-end-column="23" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/2 - Algorithms/1 - Warmup/7 - Time Conversion.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="288">
-          <caret line="12" column="5" selection-start-line="12" selection-start-column="5" selection-end-line="12" selection-end-column="5" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/2 - Algorithms/2 - Implementation/1 - Angry Professor.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="192">
-          <caret line="8" column="9" selection-start-line="8" selection-start-column="9" selection-end-line="8" selection-end-column="9" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/2 - Algorithms/1 - Warmup/6 - Staircase.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/2 - Algorithms/1 - Warmup/__init__.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/1 - Tutorials/30 Days of Code/Day 0 - Hello, World.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="456">
-          <caret line="19" column="0" selection-start-line="19" selection-start-column="0" selection-end-line="19" selection-end-column="0" />
-          <folding />
+          <caret line="2" column="0" selection-start-line="2" selection-start-column="0" selection-end-line="2" selection-end-column="0" />
         </state>
       </provider>
     </entry>
@@ -797,43 +721,225 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="72">
           <caret line="3" column="10" selection-start-line="3" selection-start-column="10" selection-end-line="3" selection-end-column="10" />
-          <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/2 - Algorithms/1 - Warmup/3 - A Very Big Sum.py">
+    <entry file="file://$PROJECT_DIR$/2 - Algorithms/1 - Warmup/4 - A Very Big Sum.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/2 - Algorithms/1 - Warmup/4 - Diagonal Difference.py">
+    <entry file="file://$PROJECT_DIR$/2 - Algorithms/1 - Warmup/5 - Diagonal Difference.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="24">
           <caret line="1" column="6" selection-start-line="1" selection-start-column="6" selection-end-line="1" selection-end-column="6" />
-          <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/2 - Algorithms/1 - Warmup/5 - Plus Minus.py">
+    <entry file="file://$PROJECT_DIR$/6 - Python/Regex And Patterns/1 - Introduction To Regex Module.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="408">
-          <caret line="17" column="0" selection-start-line="17" selection-start-column="0" selection-end-line="17" selection-end-column="0" />
-          <folding />
+        <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/2 - Algorithms/1 - Warmup/1 - Solve Me First.py">
+    <entry file="file://$PROJECT_DIR$/6 - Python/Regex And Patterns/2 - Re.split().py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/6 - Python/Data Types/1 - Lists.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="96">
+          <caret line="4" column="10" selection-start-line="4" selection-start-column="10" selection-end-line="4" selection-end-column="10" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/6 - Python/Collections/1 - Collections.Counter.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="192">
+          <caret line="8" column="9" selection-start-line="8" selection-start-column="9" selection-end-line="8" selection-end-column="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/6 - Python/Collections/2 - DefaultDict Tutorial.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="288">
+          <caret line="12" column="0" selection-start-line="12" selection-start-column="0" selection-end-line="12" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/6 - Python/Collections/3 - Collections.NamedTuple.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/6 - Python/Collections/4 - Collections.OrderedDict.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="216">
+          <caret line="9" column="14" selection-start-line="9" selection-start-column="14" selection-end-line="9" selection-end-column="14" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/6 - Python/Collections/5 - Word Order.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="24">
-          <caret line="1" column="8" selection-start-line="1" selection-start-column="8" selection-end-line="1" selection-end-column="8" />
+          <caret line="1" column="0" selection-start-line="1" selection-start-column="0" selection-end-line="1" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/6 - Python/Collections/7 - Piling Up!.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="480">
+          <caret line="20" column="9" selection-start-line="20" selection-start-column="9" selection-end-line="20" selection-end-column="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/6 - Python/Collections/8 - Most Common.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/6 - Python/Data Types/3 - Set - Symmetric Difference.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="96">
+          <caret line="4" column="3" selection-start-line="4" selection-start-column="3" selection-end-line="4" selection-end-column="3" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/6 - Python/Data Types/6 - Nested Lists.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="144">
+          <caret line="6" column="0" selection-start-line="6" selection-start-column="0" selection-end-line="6" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/6 - Python/Date AndTime/1 - Calendar Module.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="96">
+          <caret line="4" column="5" selection-start-line="4" selection-start-column="5" selection-end-line="4" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/6 - Python/Date AndTime/2 - Time Delta.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="8" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/6 - Python/Errors And Exceptions/1 - Exceptions.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="168">
+          <caret line="7" column="0" selection-start-line="7" selection-start-column="0" selection-end-line="7" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/6 - Python/Errors And Exceptions/2 - Incorrect Regex.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/LICENSE">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="312">
+          <caret line="13" column="0" selection-start-line="13" selection-start-column="0" selection-end-line="13" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/1 - Tutorials/30 Days of Code/Day 0 - Hello, World.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/2 - Algorithms/1 - Warmup/9 - Circular Array Rotation.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="168">
+          <caret line="7" column="0" selection-start-line="7" selection-start-column="0" selection-end-line="7" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/2 - Algorithms/Greedy/2 - Luck Challenge.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/2 - Algorithms/Greedy/3 - Beautiful Pairs.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/2 - Algorithms/Greedy/5 - Jim and the Orders.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/2 - Algorithms/Greedy/4 - Sherlock And The Beast.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="264">
+          <caret line="11" column="10" selection-start-line="11" selection-start-column="10" selection-end-line="11" selection-end-column="10" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/2 - Algorithms/Greedy/1 - Grid Challenge.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/6 - Python/werwer.py" />
+    <entry file="file://$PROJECT_DIR$/test.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="406">
+          <caret line="64" column="33" selection-start-line="64" selection-start-column="33" selection-end-line="64" selection-end-column="33" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/2 - Algorithms/Bit Manipulation/1 - Lonely Integer.py">
+    <entry file="file://$PROJECT_DIR$/2 - Algorithms/2 - Implementation/1 - Kangaroo.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="120">
+          <caret line="5" column="0" selection-start-line="5" selection-start-column="0" selection-end-line="5" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/2 - Algorithms/2 - Implementation/4 - Angry Professor.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="216">
+          <caret line="9" column="0" selection-start-line="9" selection-start-column="0" selection-end-line="9" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/2 - Algorithms/2 - Implementation/2 - Divisible Sum Pairs.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="264">
+          <caret line="14" column="20" selection-start-line="4" selection-start-column="16" selection-end-line="14" selection-end-column="20" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/2 - Algorithms/2 - Implementation/6 - Repeated String.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="240">
           <caret line="10" column="0" selection-start-line="10" selection-start-column="0" selection-end-line="10" selection-end-column="0" />
@@ -841,178 +947,82 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/6 - Python/Strings/3 - Mutations.py">
+    <entry file="file://$PROJECT_DIR$/2 - Algorithms/2 - Implementation/X - Caesar Cypher.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="387">
+          <caret line="31" column="0" selection-start-line="31" selection-start-column="0" selection-end-line="31" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/2 - Algorithms/2 - Implementation/7 - Jumping on the Clouds.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="72">
-          <caret line="3" column="8" selection-start-line="3" selection-start-column="8" selection-end-line="3" selection-end-column="8" />
+          <caret line="3" column="0" selection-start-line="3" selection-start-column="0" selection-end-line="3" selection-end-column="11" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/6 - Python/Strings/4 - Find A String.py">
+    <entry file="file://$PROJECT_DIR$/2 - Algorithms/2 - Implementation/X - Matrix Rotation.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="168">
-          <caret line="7" column="0" selection-start-line="7" selection-start-column="0" selection-end-line="7" selection-end-column="0" />
+        <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/6 - Python/Strings/6 - Text Alignment.py">
+    <entry file="file://$PROJECT_DIR$/2 - Algorithms/2 - Implementation/X - Sherlock And Squares.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-221">
-          <caret line="0" column="29" selection-start-line="0" selection-start-column="29" selection-end-line="0" selection-end-column="29" />
+        <state relative-caret-position="144">
+          <caret line="6" column="28" selection-start-line="6" selection-start-column="28" selection-end-line="6" selection-end-column="28" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/6 - Python/Strings/8 - Desginer Door Mat.py">
+    <entry file="file://$PROJECT_DIR$/2 - Algorithms/2 - Implementation/5 - Cut The Sticks.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="144">
+          <caret line="6" column="11" selection-start-line="6" selection-start-column="11" selection-end-line="6" selection-end-column="11" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/2 - Algorithms/2 - Implementation/X - Kaprekar - Numbers.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="504">
+          <caret line="21" column="12" selection-start-line="21" selection-start-column="12" selection-end-line="21" selection-end-column="12" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/2 - Algorithms/2 - Implementation/5 - Encryption.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/.PyCharm2016.2/system/python_stubs/-1184660488/builtins.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="143">
+          <caret line="1859" column="8" selection-start-line="1859" selection-start-column="8" selection-end-line="1859" selection-end-column="8" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/2 - Algorithms/2 - Implementation/8 - Bigger is Greater.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1080">
+          <caret line="45" column="9" selection-start-line="45" selection-start-column="9" selection-end-line="45" selection-end-column="9" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/2 - Algorithms/2 - Implementation/9 - Save the Prisoner!.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="144">
           <caret line="6" column="0" selection-start-line="6" selection-start-column="0" selection-end-line="6" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/6 - Python/Strings/12 - The Minion Game.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="264">
-          <caret line="11" column="0" selection-start-line="11" selection-start-column="0" selection-end-line="11" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/6 - Python/Strings/11 - Capitalize.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/6 - Python/Strings/10 - Alphabet Rangoli.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="96">
-          <caret line="4" column="25" selection-start-line="4" selection-start-column="25" selection-end-line="4" selection-end-column="25" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/6 - Python/Strings/9 - String Formatting.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/6 - Python/Strings/7 - Text Wrap.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/6 - Python/Strings/5 - String Validators.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/6 - Python/Strings/2 - String Split And Join.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="48">
-          <caret line="2" column="18" selection-start-line="2" selection-start-column="18" selection-end-line="2" selection-end-column="18" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/6 - Python/Strings/1 - sWAP cASE.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/6 - Python/Sets/12 - Check Strict Superset.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="168">
-          <caret line="7" column="11" selection-start-line="7" selection-start-column="11" selection-end-line="7" selection-end-column="11" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/6 - Python/Sets/10 - The Captain's Room.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/6 - Python/Sets/9 - Set Mutations.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/6 - Python/Regex And Patterns/8 - Validating Phone Numbers.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="192">
-          <caret line="8" column="0" selection-start-line="8" selection-start-column="0" selection-end-line="8" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/6 - Python/Sets/__init__.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/3 - Data Structures/3 - Trees/Node.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/3 - Data Structures/3 - Trees/1 - Preorder Traversal.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="96">
-          <caret line="4" column="6" selection-start-line="4" selection-start-column="6" selection-end-line="4" selection-end-column="6" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/3 - Data Structures/3 - Trees/__init__.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="18" selection-start-line="0" selection-start-column="18" selection-end-line="0" selection-end-column="18" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/6 - Python/Collections/2 - DefaultDict Tutorial.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/6 - Python/Built-Ins/5 - Any Or All..py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
           <folding />
         </state>
       </provider>
