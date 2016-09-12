@@ -2,24 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="00a07016-aa52-4a1b-97e0-cfe27523dc72" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/2 - Algorithms/2 - Implementation/6 - Repeated String.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/2 - Algorithms/2 - Implementation/7 - Jumping on the Clouds.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/2 - Algorithms/2 - Implementation/8 - Bigger is Greater.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/2 - Algorithms/2 - Implementation/9 - Save the Prisoner!.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/2 - Algorithms/2 - Implementation/X - Sherlock And Squares.py" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/2 - Algorithms/2 - Implementation/5 - Sherlock And Squares.py" afterPath="" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/2 - Algorithms/2 - Implementation/2 - Divisible Sum Pair.py" afterPath="$PROJECT_DIR$/2 - Algorithms/2 - Implementation/2 - Divisible Sum Pairs.py" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/2 - Algorithms/2 - Implementation/3 - Angry Professor.py" afterPath="$PROJECT_DIR$/2 - Algorithms/2 - Implementation/4 - Angry Professor.py" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/2 - Algorithms/2 - Implementation/4 - Find Digits.py" afterPath="$PROJECT_DIR$/2 - Algorithms/2 - Implementation/X - Find Digits.py" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/2 - Algorithms/2 - Implementation/4 - Kaprekar - Numbers.py" afterPath="$PROJECT_DIR$/2 - Algorithms/2 - Implementation/X - Kaprekar - Numbers.py" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/2 - Algorithms/2 - Implementation/6 - Matrix Rotation.py" afterPath="$PROJECT_DIR$/2 - Algorithms/2 - Implementation/X - Matrix Rotation.py" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/2 - Algorithms/2 - Implementation/6 - Service Lane.py" afterPath="$PROJECT_DIR$/2 - Algorithms/2 - Implementation/X - Service Lane.py" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/2 - Algorithms/2 - Implementation/7 - Cut The Sticks.py" afterPath="$PROJECT_DIR$/2 - Algorithms/2 - Implementation/5 - Cut The Sticks.py" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/2 - Algorithms/2 - Implementation/8 - Chocolate Feast.py" afterPath="$PROJECT_DIR$/2 - Algorithms/2 - Implementation/X - Chocolate Feast.py" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/2 - Algorithms/2 - Implementation/9 - Caesar Cypher.py" afterPath="$PROJECT_DIR$/2 - Algorithms/2 - Implementation/X - Caesar Cypher.py" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/2 - Algorithms/2 - Implementation/5 - Encryption.py" afterPath="$PROJECT_DIR$/2 - Algorithms/2 - Implementation/5 - Encryption.py" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/test.py" afterPath="$PROJECT_DIR$/test.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/2 - Algorithms/2 - Implementation/9 - Save the Prisoner!.py" afterPath="$PROJECT_DIR$/2 - Algorithms/2 - Implementation/9 - Save the Prisoner!.py" />
     </list>
     <ignored path="EhouarnPerret.Python.HackerRank.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -129,10 +113,10 @@
     </option>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="570" />
-    <option name="y" value="59" />
-    <option name="width" value="1298" />
-    <option name="height" value="866" />
+    <option name="x" value="-11" />
+    <option name="y" value="-11" />
+    <option name="width" value="1942" />
+    <option name="height" value="1056" />
   </component>
   <component name="ProjectInspectionProfilesVisibleTreeState">
     <entry key="Project Default">
@@ -225,46 +209,6 @@
               <option name="myItemId" value="3 - Data Structures" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="3 - Trees" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="EhouarnPerret.Python.HackerRank" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="EhouarnPerret.Python.HackerRank" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="3 - Data Structures" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="2 - Linked Lists" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="EhouarnPerret.Python.HackerRank" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="EhouarnPerret.Python.HackerRank" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="3 - Data Structures" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="1 - Arrays" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
           </PATH>
           <PATH>
             <PATH_ELEMENT>
@@ -277,82 +221,6 @@
             </PATH_ELEMENT>
             <PATH_ELEMENT>
               <option name="myItemId" value="2 - Algorithms" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="Greedy" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="EhouarnPerret.Python.HackerRank" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="EhouarnPerret.Python.HackerRank" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="2 - Algorithms" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="Bit Manipulation" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="EhouarnPerret.Python.HackerRank" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="EhouarnPerret.Python.HackerRank" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="2 - Algorithms" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="3 - Strings" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="EhouarnPerret.Python.HackerRank" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="EhouarnPerret.Python.HackerRank" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="2 - Algorithms" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="2 - Implementation" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="EhouarnPerret.Python.HackerRank" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="EhouarnPerret.Python.HackerRank" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="2 - Algorithms" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="1 - Warmup" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
@@ -367,10 +235,6 @@
             </PATH_ELEMENT>
             <PATH_ELEMENT>
               <option name="myItemId" value="1 - Tutorials" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="30 Days of Code" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
@@ -730,20 +594,27 @@
       <option name="project" value="LOCAL" />
       <updated>1472505095310</updated>
     </task>
-    <option name="localTasksCounter" value="13" />
+    <task id="LOCAL-00013" summary="Refactored implementation algorithm exercises">
+      <created>1473627556153</created>
+      <option name="number" value="00013" />
+      <option name="presentableId" value="LOCAL-00013" />
+      <option name="project" value="LOCAL" />
+      <updated>1473627556153</updated>
+    </task>
+    <option name="localTasksCounter" value="14" />
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="570" y="59" width="1298" height="866" extended-state="0" />
+    <frame x="-11" y="-11" width="1942" height="1056" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.20628525" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.2535809" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
-      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.26165414" sideWeight="0.32473812" order="7" side_tool="true" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.20350876" sideWeight="0.32307693" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3251462" sideWeight="0.48328912" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Python Console" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3251462" sideWeight="0.4938992" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.26165414" sideWeight="0.6752619" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.20350876" sideWeight="0.6769231" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
@@ -777,7 +648,8 @@
     <MESSAGE value="new warmup problems" />
     <MESSAGE value="new implementation problems" />
     <MESSAGE value="Warmup Algorithms sorting" />
-    <option name="LAST_COMMIT_MESSAGE" value="Warmup Algorithms sorting" />
+    <MESSAGE value="Refactored implementation algorithm exercises" />
+    <option name="LAST_COMMIT_MESSAGE" value="Refactored implementation algorithm exercises" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
