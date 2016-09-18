@@ -1,27 +1,27 @@
-def median_core(values, start, stop):
-	n = stop - start + 1
-	m = start + n // 2
-	if (n % 2) == 0:
-		return (values[m - 1] + values[m]) / 2
+def median(values: list, start_index: int, stop_index: int) -> float:
+	length = stop_index - start_index + 1
+	middle_index = start_index + length // 2
+	if (length % 2) == 0:
+		return (values[middle_index - 1] + values[middle_index]) / 2
 	else:
-		return values[m]
+		return values[middle_index]
 
 
-def quartiles(values):
+def quartiles(values: list) -> tuple:
 	values = sorted(values)
-	n = len(values)
-	q2 = median_core(values, 0, n - 1)
-	m = n // 2
-	if (n % 2) == 0:
-		q1 = median_core(values, 0, m - 1)
-		q3 = median_core(values, m , n - 1)
+	length = len(values)
+	q2 = median(values, 0, length - 1)
+	middle_index = length // 2
+	if (length % 2) == 0:
+		q1 = median(values, 0, middle_index - 1)
+		q3 = median(values, middle_index, length - 1)
 	else:
-		q1 = median_core(values, 0, m - 1)
-		q3 = median_core(values, m + 1, n - 1)
+		q1 = median(values, 0, middle_index - 1)
+		q3 = median(values, middle_index + 1, length - 1)
 	return q1, q2, q3
 
 
-def interquatile_range(values, frequencies):
+def interquatile_range(values: list, frequencies: list) -> float:
 	n = len(values)
 	s = []
 	for i in range(n):
@@ -35,7 +35,7 @@ def interquatile_range(values, frequencies):
 	return result
 
 
-#n = int(input())
-x = [int(i) for i in "10 40 30 50 20 10 40 30 50 20 1 2 3 4 5 6 7 8 9 10 20 10 40 30 50 20 10 40 30 50".split()]
-f = [int(i) for i in "1 2 3 4 5 6 7 8 9 10 1 2 3 4 5 6 7 8 9 10 10 40 30 50 20 10 40 30 50 20".split()]
+n = int(input())
+x = [int(i) for i in input().split()]
+f = [int(i) for i in input().split()]
 print(interquatile_range(x, f))

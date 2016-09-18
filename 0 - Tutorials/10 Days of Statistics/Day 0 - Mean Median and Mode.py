@@ -1,39 +1,38 @@
-def mean(values):
-	sum = 0
-	count = 0
+def mean(values: list) -> int:
+	length = len(values)
+	result = 0
 	for value in values:
-		sum += value
-		count += 1
-	result = sum / count
+		result += value
+	result /= length
 	return result
 
 
-def median(values):
+def median(values: list) -> float:
+	length = len(values)
 	values = sorted(values)
-	n = len(values)
-	if n % 2 != 0:
-		return values[n // 2]
+	if length % 2 != 0:
+		return values[length // 2]
 	else:
-		return (values[n // 2] + values[n // 2 - 1]) / 2
+		return (values[length // 2] + values[length // 2 - 1]) / 2
 
 
-def mode(values):
+def mode(values: list) -> int:
 	counters = dict()
-	mode = None
+	result = None
 	for value in values:
 		if value in counters:
 			counters[value] += 1
 		else:
 			counters[value] = 1
-		if (mode is None) or (counters[value] > counters[mode]):
-			mode = value
-		elif (counters[value] == counters[mode]) and (value < mode):
-			mode = value
-	return mode
+		if (result is None) or (counters[value] > counters[result]):
+			result = value
+		elif (counters[value] == counters[result]) and (value < result):
+			result = value
+	return result
 
 
 n = int(input())
-x = list(map(int, input().split()))
+x = [int(token) for token in input().split()]
 print(mean(x))
 print(median(x))
 print(mode(x))

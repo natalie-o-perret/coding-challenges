@@ -1,4 +1,4 @@
-def weighted_mean(values, weights):
+def weighted_mean(values: list, weights: list) -> float:
 	sum_weighted_values = 0
 	sum_weights = 0
 	for i in range(len(values)):
@@ -11,6 +11,6 @@ def weighted_mean(values, weights):
 
 
 n = int(input())
-x = list(map(int, input().split()))
-w = list(map(int, input().split()))
+x = [int(token) for token in input().split()]
+w = [int(token) for token in input().split()]
 print(round(weighted_mean(x, w), 1))

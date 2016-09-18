@@ -1,4 +1,3 @@
-t = int(input().strip())
+t = int(input())
 for a0 in range(t):
-    n,k = input().strip().split(' ')
-    n,k = [int(n),int(k)]
+    n, k = map(int, input().split())
