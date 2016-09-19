@@ -2,15 +2,10 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="00a07016-aa52-4a1b-97e0-cfe27523dc72" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/dictionaries/ehouarn_perret.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/0 - Tutorials/10 Days of Statistics/Day 1 - Standard Deviation.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/0 - Tutorials/10 Days of Statistics/Day 2 - Basic Probability.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/0 - Tutorials/10 Days of Statistics/Day 2 - Compound Event Probability.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/0 - Tutorials/10 Days of Statistics/Day 2 - More Dice.py" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/0 - Tutorials/10 Days of Statistics/Day 0 - Mean Median and Mode.py" afterPath="$PROJECT_DIR$/0 - Tutorials/10 Days of Statistics/Day 0 - Mean Median and Mode.py" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/0 - Tutorials/10 Days of Statistics/Day 0 - Weighted Mean.py" afterPath="$PROJECT_DIR$/0 - Tutorials/10 Days of Statistics/Day 0 - Weighted Mean.py" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/0 - Tutorials/10 Days of Statistics/Day 1 - Interquartile Range.py" afterPath="$PROJECT_DIR$/0 - Tutorials/10 Days of Statistics/Day 1 - Interquartile Range.py" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/0 - Tutorials/10 Days of Statistics/Day 1 - Quartiles.py" afterPath="$PROJECT_DIR$/0 - Tutorials/10 Days of Statistics/Day 1 - Quartiles.py" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/0 - Tutorials/30 Days of Code/Day 25 - Running Time and Complexity.py" afterPath="$PROJECT_DIR$/0 - Tutorials/30 Days of Code/Day 25 - Running Time and Complexity.py" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/0 - Tutorials/30 Days of Code/Day 29 - Bitwise AND.py" afterPath="$PROJECT_DIR$/0 - Tutorials/30 Days of Code/Day 29 - Bitwise AND.py" />
     </list>
     <ignored path="EhouarnPerret.Python.HackerRank.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -30,102 +25,34 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="450">
-      <file leaf-file-name="Day 26 - Nested Logic.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/0 - Tutorials/30 Days of Code/Day 26 - Nested Logic.py">
+      <file leaf-file-name="Day 2 - Compound Event Probability.py" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/0 - Tutorials/10 Days of Statistics/Day 2 - Compound Event Probability.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="0">
-              <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+            <state relative-caret-position="269">
+              <caret line="29" column="0" selection-start-line="29" selection-start-column="0" selection-end-line="29" selection-end-column="0" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="Day 25 - Running Time and Complexity.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/0 - Tutorials/30 Days of Code/Day 25 - Running Time and Complexity.py">
+      <file leaf-file-name="Day 2 - Basic Probability.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/0 - Tutorials/10 Days of Statistics/Day 2 - Basic Probability.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="216">
-              <caret line="9" column="0" selection-start-line="9" selection-start-column="0" selection-end-line="9" selection-end-column="0" />
+            <state relative-caret-position="72">
+              <caret line="3" column="2" selection-start-line="3" selection-start-column="2" selection-end-line="3" selection-end-column="2" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="Day 1 - Quartiles.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/0 - Tutorials/10 Days of Statistics/Day 1 - Quartiles.py">
+      <file leaf-file-name="Day 2 - More Dice.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/0 - Tutorials/10 Days of Statistics/Day 2 - More Dice.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="396">
-              <caret line="21" column="0" selection-start-line="21" selection-start-column="0" selection-end-line="21" selection-end-column="0" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="Day 0 - Mean Median and Mode.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/0 - Tutorials/10 Days of Statistics/Day 0 - Mean Median and Mode.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-348">
-              <caret line="7" column="0" selection-start-line="7" selection-start-column="0" selection-end-line="7" selection-end-column="0" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="Day 0 - Hello, World.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/0 - Tutorials/30 Days of Code/Day 0 - Hello, World.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="0">
-              <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="Day 1 - Data Types.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/0 - Tutorials/30 Days of Code/Day 1 - Data Types.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="0">
-              <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="Day 2 - Operators.py" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/0 - Tutorials/30 Days of Code/Day 2 - Operators.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="192">
-              <caret line="8" column="0" selection-start-line="8" selection-start-column="0" selection-end-line="8" selection-end-column="0" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="Day 1 - Standard Deviation.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/0 - Tutorials/10 Days of Statistics/Day 1 - Standard Deviation.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="0">
-              <caret line="0" column="45" selection-start-line="0" selection-start-column="45" selection-end-line="0" selection-end-column="45" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="Day 0 - Weighted Mean.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/0 - Tutorials/10 Days of Statistics/Day 0 - Weighted Mean.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="0">
-              <caret line="0" column="12" selection-start-line="0" selection-start-column="12" selection-end-line="0" selection-end-column="12" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="Day 1 - Interquartile Range.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/0 - Tutorials/10 Days of Statistics/Day 1 - Interquartile Range.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="216">
-              <caret line="9" column="19" selection-start-line="9" selection-start-column="19" selection-end-line="9" selection-end-column="19" />
-              <folding />
+            <state relative-caret-position="336">
+              <caret line="14" column="20" selection-start-line="14" selection-start-column="20" selection-end-line="14" selection-end-column="20" />
+              <folding>
+                <element signature="e#0#11#0" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -145,9 +72,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/3 - Data Structures/3 - Trees/__init__.py" />
-        <option value="$PROJECT_DIR$/2 - Algorithms/1 - Warmup/Compare the Triplets.py" />
-        <option value="$PROJECT_DIR$/2 - Algorithms/1 - Warmup/Circular Array Rotation.py" />
         <option value="$PROJECT_DIR$/2 - Algorithms/2 - Implementation/Kangaroo.py" />
         <option value="$PROJECT_DIR$/2 - Algorithms/2 - Implementation/Non-Divisible Subset.py" />
         <option value="$PROJECT_DIR$/2 - Algorithms/3 - Strings/SuperReducedString.py" />
@@ -196,14 +120,17 @@
         <option value="$PROJECT_DIR$/0 - Tutorials/10 Days of Statistics/Day 1 - Quartiles.py" />
         <option value="$PROJECT_DIR$/0 - Tutorials/10 Days of Statistics/Day 1 - Standard Deviation.py" />
         <option value="$PROJECT_DIR$/0 - Tutorials/30 Days of Code/Day 2 - Operators.py" />
+        <option value="$PROJECT_DIR$/0 - Tutorials/10 Days of Statistics/Day 2 - Basic Probability.py" />
+        <option value="$PROJECT_DIR$/0 - Tutorials/10 Days of Statistics/Day 2 - More Dice.py" />
+        <option value="$PROJECT_DIR$/0 - Tutorials/10 Days of Statistics/Day 2 - Compound Event Probability.py" />
       </list>
     </option>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="-11" />
-    <option name="y" value="-11" />
-    <option name="width" value="1942" />
-    <option name="height" value="1056" />
+    <option name="x" value="532" />
+    <option name="y" value="186" />
+    <option name="width" value="1358" />
+    <option name="height" value="817" />
   </component>
   <component name="ProjectInspectionProfilesVisibleTreeState">
     <entry key="Project Default">
@@ -329,58 +256,7 @@
       <recent name="C:\Users\ehouarn-perret\Desktop\Development\Python\EhouarnPerret.Python.HackerRank\2 - Algorithms\Greedy" />
     </key>
   </component>
-  <component name="RunManager" selected="Python.Day 1 - Interquartile Range">
-    <configuration default="false" name="Day 0 - Mean Median and Mode" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/1 - Tutorials/10 Days of Statistics" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <module name="EhouarnPerret.Python.HackerRank" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/1 - Tutorials/10 Days of Statistics/Day 0 - Mean Median and Mode.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <method />
-    </configuration>
-    <configuration default="false" name="Day 0 - Weighted Mean" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/1 - Tutorials/10 Days of Statistics" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <module name="EhouarnPerret.Python.HackerRank" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/1 - Tutorials/10 Days of Statistics/Day 0 - Weighted Mean.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <method />
-    </configuration>
-    <configuration default="false" name="4 - Leonardos Prime Factors" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/3 - Mathematics/Fundamentals" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <module name="EhouarnPerret.Python.HackerRank" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/3 - Mathematics/Fundamentals/4 - Leonardos Prime Factors.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <method />
-    </configuration>
+  <component name="RunManager" selected="Python.Day 2 - Compound Event Probability">
     <configuration default="false" name="Day 1 - Quartiles" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -411,6 +287,57 @@
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <module name="EhouarnPerret.Python.HackerRank" />
       <option name="SCRIPT_NAME" value="$PROJECT_DIR$/0 - Tutorials/10 Days of Statistics/Day 1 - Interquartile Range.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <method />
+    </configuration>
+    <configuration default="false" name="Day 2 - Basic Probability" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/0 - Tutorials/10 Days of Statistics" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="EhouarnPerret.Python.HackerRank" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/0 - Tutorials/10 Days of Statistics/Day 2 - Basic Probability.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <method />
+    </configuration>
+    <configuration default="false" name="Day 2 - More Dice" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/0 - Tutorials/10 Days of Statistics" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="EhouarnPerret.Python.HackerRank" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/0 - Tutorials/10 Days of Statistics/Day 2 - More Dice.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <method />
+    </configuration>
+    <configuration default="false" name="Day 2 - Compound Event Probability" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/0 - Tutorials/10 Days of Statistics" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="EhouarnPerret.Python.HackerRank" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/0 - Tutorials/10 Days of Statistics/Day 2 - Compound Event Probability.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <method />
@@ -550,19 +477,19 @@
       <method />
     </configuration>
     <list size="5">
-      <item index="0" class="java.lang.String" itemvalue="Python.Day 0 - Mean Median and Mode" />
-      <item index="1" class="java.lang.String" itemvalue="Python.Day 0 - Weighted Mean" />
-      <item index="2" class="java.lang.String" itemvalue="Python.4 - Leonardos Prime Factors" />
-      <item index="3" class="java.lang.String" itemvalue="Python.Day 1 - Quartiles" />
-      <item index="4" class="java.lang.String" itemvalue="Python.Day 1 - Interquartile Range" />
+      <item index="0" class="java.lang.String" itemvalue="Python.Day 1 - Quartiles" />
+      <item index="1" class="java.lang.String" itemvalue="Python.Day 1 - Interquartile Range" />
+      <item index="2" class="java.lang.String" itemvalue="Python.Day 2 - Basic Probability" />
+      <item index="3" class="java.lang.String" itemvalue="Python.Day 2 - More Dice" />
+      <item index="4" class="java.lang.String" itemvalue="Python.Day 2 - Compound Event Probability" />
     </list>
     <recent_temporary>
       <list size="5">
-        <item index="0" class="java.lang.String" itemvalue="Python.Day 1 - Interquartile Range" />
-        <item index="1" class="java.lang.String" itemvalue="Python.Day 1 - Quartiles" />
-        <item index="2" class="java.lang.String" itemvalue="Python.4 - Leonardos Prime Factors" />
-        <item index="3" class="java.lang.String" itemvalue="Python.Day 0 - Weighted Mean" />
-        <item index="4" class="java.lang.String" itemvalue="Python.Day 0 - Mean Median and Mode" />
+        <item index="0" class="java.lang.String" itemvalue="Python.Day 2 - Compound Event Probability" />
+        <item index="1" class="java.lang.String" itemvalue="Python.Day 2 - More Dice" />
+        <item index="2" class="java.lang.String" itemvalue="Python.Day 2 - Basic Probability" />
+        <item index="3" class="java.lang.String" itemvalue="Python.Day 1 - Interquartile Range" />
+        <item index="4" class="java.lang.String" itemvalue="Python.Day 1 - Quartiles" />
       </list>
     </recent_temporary>
   </component>
@@ -727,24 +654,31 @@
       <option name="project" value="LOCAL" />
       <updated>1474232969891</updated>
     </task>
-    <option name="localTasksCounter" value="22" />
+    <task id="LOCAL-00022" summary="YAKSE II =]">
+      <created>1474235591324</created>
+      <option name="number" value="00022" />
+      <option name="presentableId" value="LOCAL-00022" />
+      <option name="project" value="LOCAL" />
+      <updated>1474235591324</updated>
+    </task>
+    <option name="localTasksCounter" value="23" />
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-11" y="-11" width="1942" height="1056" extended-state="6" />
-    <editor active="true" />
+    <frame x="532" y="186" width="1358" height="817" extended-state="0" />
+    <editor active="false" />
     <layout>
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.22917771" sideWeight="0.67417675" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.26518062" sideWeight="0.5597345" order="0" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
-      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.3251462" sideWeight="0.5209549" order="7" side_tool="true" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.26623377" sideWeight="0.4142967" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3251462" sideWeight="0.4790451" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Python Console" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3251462" sideWeight="0.4938992" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.19649123" sideWeight="0.59840846" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.26623377" sideWeight="0.5857033" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.22917771" sideWeight="0.32582322" order="2" side_tool="true" content_ui="tabs" />
-      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3494687" sideWeight="0.8412017" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.26518062" sideWeight="0.44026548" order="2" side_tool="true" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3482143" sideWeight="0.82954544" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
@@ -783,39 +717,19 @@
     <MESSAGE value="Maths for kids HR" />
     <MESSAGE value="Maths for kids HR, again" />
     <MESSAGE value="YAKSE =]" />
-    <option name="LAST_COMMIT_MESSAGE" value="YAKSE =]" />
+    <MESSAGE value="YAKSE II =]" />
+    <option name="LAST_COMMIT_MESSAGE" value="YAKSE II =]" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
       <breakpoints-dialog>
         <breakpoints-dialog />
       </breakpoints-dialog>
-      <option name="time" value="101" />
+      <option name="time" value="104" />
     </breakpoint-manager>
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/1 - Algorithms/1 - Warmup/9 - Circular Array Rotation.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="168">
-          <caret line="7" column="0" selection-start-line="7" selection-start-column="0" selection-end-line="7" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/1 - Algorithms/Greedy/2 - Luck Challenge.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/1 - Algorithms/Greedy/3 - Beautiful Pairs.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/1 - Algorithms/Greedy/5 - Jim and the Orders.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
@@ -1178,6 +1092,32 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="192">
           <caret line="8" column="0" selection-start-line="8" selection-start-column="0" selection-end-line="8" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/0 - Tutorials/10 Days of Statistics/Day 2 - Basic Probability.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="72">
+          <caret line="3" column="2" selection-start-line="3" selection-start-column="2" selection-end-line="3" selection-end-column="2" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/0 - Tutorials/10 Days of Statistics/Day 2 - More Dice.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="336">
+          <caret line="14" column="20" selection-start-line="14" selection-start-column="20" selection-end-line="14" selection-end-column="20" />
+          <folding>
+            <element signature="e#0#11#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/0 - Tutorials/10 Days of Statistics/Day 2 - Compound Event Probability.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="269">
+          <caret line="29" column="0" selection-start-line="29" selection-start-column="0" selection-end-line="29" selection-end-column="0" />
           <folding />
         </state>
       </provider>
