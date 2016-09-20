@@ -2,52 +2,13 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="00a07016-aa52-4a1b-97e0-cfe27523dc72" name="Default" comment="">
-      <change type="MOVED" beforePath="$PROJECT_DIR$/1 - Algorithms/1 - Warmup/1 - Solve Me First.py" afterPath="$PROJECT_DIR$/1 - Algorithms/0 - Warmup/1 - Solve Me First.py" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/1 - Algorithms/1 - Warmup/2 - Simple Array Sum.py" afterPath="$PROJECT_DIR$/1 - Algorithms/0 - Warmup/2 - Simple Array Sum.py" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/1 - Algorithms/1 - Warmup/3 - Compare the Triplets.py" afterPath="$PROJECT_DIR$/1 - Algorithms/0 - Warmup/3 - Compare the Triplets.py" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/1 - Algorithms/1 - Warmup/4 - A Very Big Sum.py" afterPath="$PROJECT_DIR$/1 - Algorithms/0 - Warmup/4 - A Very Big Sum.py" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/1 - Algorithms/1 - Warmup/5 - Diagonal Difference.py" afterPath="$PROJECT_DIR$/1 - Algorithms/0 - Warmup/5 - Diagonal Difference.py" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/1 - Algorithms/1 - Warmup/6 - Plus Minus.py" afterPath="$PROJECT_DIR$/1 - Algorithms/0 - Warmup/6 - Plus Minus.py" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/1 - Algorithms/1 - Warmup/7 - Staircase.py" afterPath="$PROJECT_DIR$/1 - Algorithms/0 - Warmup/7 - Staircase.py" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/1 - Algorithms/1 - Warmup/8 - Time Conversion.py" afterPath="$PROJECT_DIR$/1 - Algorithms/0 - Warmup/8 - Time Conversion.py" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/1 - Algorithms/1 - Warmup/9 - Circular Array Rotation.py" afterPath="$PROJECT_DIR$/1 - Algorithms/0 - Warmup/9 - Circular Array Rotation.py" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/1 - Algorithms/2 - Implementation/1 - Kangaroo.py" afterPath="$PROJECT_DIR$/1 - Algorithms/1 - Implementation/1 - Kangaroo.py" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/1 - Algorithms/2 - Implementation/10 - Strange Counter.py" afterPath="$PROJECT_DIR$/1 - Algorithms/1 - Implementation/10 - Strange Counter.py" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/1 - Algorithms/2 - Implementation/2 - Divisible Sum Pairs.py" afterPath="$PROJECT_DIR$/1 - Algorithms/1 - Implementation/2 - Divisible Sum Pairs.py" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/1 - Algorithms/2 - Implementation/3 - Utopian Tree.py" afterPath="$PROJECT_DIR$/1 - Algorithms/1 - Implementation/3 - Utopian Tree.py" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/1 - Algorithms/2 - Implementation/4 - Angry Professor.py" afterPath="$PROJECT_DIR$/1 - Algorithms/1 - Implementation/4 - Angry Professor.py" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/1 - Algorithms/2 - Implementation/5 - Cut The Sticks.py" afterPath="$PROJECT_DIR$/1 - Algorithms/1 - Implementation/5 - Cut The Sticks.py" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/1 - Algorithms/2 - Implementation/5 - Encryption.py" afterPath="$PROJECT_DIR$/1 - Algorithms/1 - Implementation/5 - Encryption.py" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/1 - Algorithms/2 - Implementation/6 - Repeated String.py" afterPath="$PROJECT_DIR$/1 - Algorithms/1 - Implementation/6 - Repeated String.py" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/1 - Algorithms/2 - Implementation/7 - Jumping on the Clouds.py" afterPath="$PROJECT_DIR$/1 - Algorithms/1 - Implementation/7 - Jumping on the Clouds.py" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/1 - Algorithms/2 - Implementation/8 - Bigger is Greater.py" afterPath="$PROJECT_DIR$/1 - Algorithms/1 - Implementation/8 - Bigger is Greater.py" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/1 - Algorithms/2 - Implementation/9 - Save the Prisoner!.py" afterPath="$PROJECT_DIR$/1 - Algorithms/1 - Implementation/9 - Save the Prisoner!.py" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/1 - Algorithms/2 - Implementation/Non-Divisible Subset.py" afterPath="$PROJECT_DIR$/1 - Algorithms/1 - Implementation/Non-Divisible Subset.py" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/1 - Algorithms/2 - Implementation/X - Caesar Cypher.py" afterPath="$PROJECT_DIR$/1 - Algorithms/1 - Implementation/X - Caesar Cypher.py" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/1 - Algorithms/2 - Implementation/X - Chocolate Feast.py" afterPath="$PROJECT_DIR$/1 - Algorithms/1 - Implementation/X - Chocolate Feast.py" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/1 - Algorithms/2 - Implementation/X - Find Digits.py" afterPath="$PROJECT_DIR$/1 - Algorithms/1 - Implementation/X - Find Digits.py" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/1 - Algorithms/2 - Implementation/X - Kaprekar - Numbers.py" afterPath="$PROJECT_DIR$/1 - Algorithms/1 - Implementation/X - Kaprekar - Numbers.py" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/1 - Algorithms/2 - Implementation/X - Matrix Rotation.py" afterPath="$PROJECT_DIR$/1 - Algorithms/1 - Implementation/X - Matrix Rotation.py" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/1 - Algorithms/2 - Implementation/X - Service Lane.py" afterPath="$PROJECT_DIR$/1 - Algorithms/1 - Implementation/X - Service Lane.py" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/1 - Algorithms/2 - Implementation/X - Sherlock And Squares.py" afterPath="$PROJECT_DIR$/1 - Algorithms/1 - Implementation/X - Sherlock And Squares.py" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/1 - Algorithms/3 - Strings/1 - Pangrams.py" afterPath="$PROJECT_DIR$/1 - Algorithms/2 - Strings/1 - Pangrams.py" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/1 - Algorithms/3 - Strings/2 - Alternating Characters.py" afterPath="$PROJECT_DIR$/1 - Algorithms/2 - Strings/2 - Alternating Characters.py" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/1 - Algorithms/3 - Strings/3 - The Love-Letter Mystery.py" afterPath="$PROJECT_DIR$/1 - Algorithms/2 - Strings/3 - The Love-Letter Mystery.py" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/1 - Algorithms/3 - Strings/4 - Gemstones.py" afterPath="$PROJECT_DIR$/1 - Algorithms/2 - Strings/4 - Gemstones.py" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/1 - Algorithms/3 - Strings/5 - Funny String.py" afterPath="$PROJECT_DIR$/1 - Algorithms/2 - Strings/5 - Funny String.py" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/1 - Algorithms/3 - Strings/6 - Anagram.py" afterPath="$PROJECT_DIR$/1 - Algorithms/2 - Strings/6 - Anagram.py" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/1 - Algorithms/3 - Strings/7 - Palindrome Index.py" afterPath="$PROJECT_DIR$/1 - Algorithms/2 - Strings/7 - Palindrome Index.py" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/1 - Algorithms/3 - Strings/Super Reduced String.py" afterPath="$PROJECT_DIR$/1 - Algorithms/2 - Strings/Super Reduced String.py" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/1 - Algorithms/Bit Manipulation/1 - Lonely Integer.py" afterPath="$PROJECT_DIR$/1 - Algorithms/8 - Bit Manipulation/1 - Lonely Integer.py" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/1 - Algorithms/Bit Manipulation/2 - Maximize XOR.py" afterPath="$PROJECT_DIR$/1 - Algorithms/8 - Bit Manipulation/2 - Maximize XOR.py" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/1 - Algorithms/Bit Manipulation/3 - Counter Game.py" afterPath="$PROJECT_DIR$/1 - Algorithms/8 - Bit Manipulation/3 - Counter Game.py" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/1 - Algorithms/Bit Manipulation/4 - Sansa and XOR.py" afterPath="$PROJECT_DIR$/1 - Algorithms/8 - Bit Manipulation/4 - Sansa and XOR.py" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/1 - Algorithms/Bit Manipulation/5 - Flipping Bits.py" afterPath="$PROJECT_DIR$/1 - Algorithms/8 - Bit Manipulation/5 - Flipping Bits.py" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/1 - Algorithms/Greedy/1 - Grid Challenge.py" afterPath="$PROJECT_DIR$/1 - Algorithms/6 - Greedy/1 - Grid Challenge.py" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/1 - Algorithms/Greedy/2 - Luck Challenge.py" afterPath="$PROJECT_DIR$/1 - Algorithms/6 - Greedy/2 - Luck Challenge.py" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/1 - Algorithms/Greedy/3 - Beautiful Pairs.py" afterPath="$PROJECT_DIR$/1 - Algorithms/6 - Greedy/3 - Beautiful Pairs.py" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/1 - Algorithms/Greedy/4 - Sherlock And The Beast.py" afterPath="$PROJECT_DIR$/1 - Algorithms/6 - Greedy/4 - Sherlock And The Beast.py" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/1 - Algorithms/Greedy/5 - Jim and the Orders.py" afterPath="$PROJECT_DIR$/1 - Algorithms/6 - Greedy/5 - Jim and the Orders.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/1 - Algorithms/3 - Sorting/0 - Intro to Tutorial Challenges.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/1 - Algorithms/3 - Sorting/1 - Insertion Sort - Part 1.py" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/1 - Algorithms/1 - Implementation/1 - Kangaroo.py" afterPath="$PROJECT_DIR$/1 - Algorithms/1 - Implementation/0 - Kangaroo.py" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/1 - Algorithms/1 - Implementation/2 - Divisible Sum Pairs.py" afterPath="$PROJECT_DIR$/1 - Algorithms/1 - Implementation/1 - Divisible Sum Pairs.py" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/1 - Algorithms/1 - Implementation/3 - Utopian Tree.py" afterPath="$PROJECT_DIR$/1 - Algorithms/1 - Implementation/2 - Utopian Tree.py" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/1 - Algorithms/1 - Implementation/4 - Angry Professor.py" afterPath="$PROJECT_DIR$/1 - Algorithms/1 - Implementation/3 - Angry Professor.py" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/1 - Algorithms/1 - Implementation/5 - Cut The Sticks.py" afterPath="$PROJECT_DIR$/1 - Algorithms/1 - Implementation/4 - Cut The Sticks.py" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="EhouarnPerret.Python.HackerRank.iws" />
@@ -68,11 +29,31 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="450">
-      <file leaf-file-name="Day 2 - Compound Event Probability.py" pinned="false" current-in-tab="true">
+      <file leaf-file-name="Day 2 - Compound Event Probability.py" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/0 - Tutorials/10 Days of Statistics/Day 2 - Compound Event Probability.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="270">
-              <caret line="29" column="0" selection-start-line="29" selection-start-column="0" selection-end-line="29" selection-end-column="0" />
+            <state relative-caret-position="441">
+              <caret line="32" column="11" selection-start-line="32" selection-start-column="11" selection-end-line="32" selection-end-column="11" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="0 - Intro to Tutorial Challenges.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/1 - Algorithms/3 - Sorting/0 - Intro to Tutorial Challenges.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="336">
+              <caret line="14" column="0" selection-start-line="14" selection-start-column="0" selection-end-line="14" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="1 - Insertion Sort - Part 1.py" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/1 - Algorithms/3 - Sorting/1 - Insertion Sort - Part 1.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="360">
+              <caret line="15" column="0" selection-start-line="15" selection-start-column="0" selection-end-line="15" selection-end-column="0" />
               <folding />
             </state>
           </provider>
@@ -115,8 +96,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/2 - Algorithms/2 - Implementation/Kangaroo.py" />
-        <option value="$PROJECT_DIR$/2 - Algorithms/2 - Implementation/Non-Divisible Subset.py" />
         <option value="$PROJECT_DIR$/2 - Algorithms/3 - Strings/SuperReducedString.py" />
         <option value="$PROJECT_DIR$/2 - Algorithms/2 - Implementation/Divisible Sum Pair.py" />
         <option value="$PROJECT_DIR$/2 - Algorithms/3 - Strings/Super Reduced String.py" />
@@ -166,13 +145,16 @@
         <option value="$PROJECT_DIR$/0 - Tutorials/10 Days of Statistics/Day 2 - Basic Probability.py" />
         <option value="$PROJECT_DIR$/0 - Tutorials/10 Days of Statistics/Day 2 - More Dice.py" />
         <option value="$PROJECT_DIR$/0 - Tutorials/10 Days of Statistics/Day 2 - Compound Event Probability.py" />
+        <option value="$PROJECT_DIR$/1 - Algorithms/3 - Sorting/0 - Intro to Tutorial Challenges.py" />
+        <option value="$PROJECT_DIR$/1 - Algorithms/3 - Sorting/1 - Insertion Sort - Part 1.py" />
       </list>
     </option>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="270" />
+    <option name="x" value="149" />
+    <option name="y" value="65" />
     <option name="width" value="1781" />
-    <option name="height" value="817" />
+    <option name="height" value="943" />
   </component>
   <component name="ProjectInspectionProfilesVisibleTreeState">
     <entry key="Project Default">
@@ -255,6 +237,60 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="EhouarnPerret.Python.HackerRank" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="EhouarnPerret.Python.HackerRank" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="1 - Algorithms" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="6 - Greedy" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="EhouarnPerret.Python.HackerRank" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="EhouarnPerret.Python.HackerRank" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="1 - Algorithms" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="3 - Sorting" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="EhouarnPerret.Python.HackerRank" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="EhouarnPerret.Python.HackerRank" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="1 - Algorithms" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="1 - Implementation" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
         </subPane>
       </pane>
     </panes>
@@ -263,6 +299,7 @@
     <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
     <property name="settings.editor.splitter.proportion" value="0.2" />
     <property name="last_opened_file_path" value="C:/Python36/python.exe" />
+    <property name="SearchEverywhereHistoryKey" value="&#9;FILE&#9;file://C:/Users/ehouarn-perret/Desktop/Development/Python/EhouarnPerret.Python.HackerRank/0 - Tutorials/10 Days of Statistics/Day 2 - Compound Event Probability.py" />
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
@@ -276,24 +313,7 @@
       <recent name="C:\Users\ehouarn-perret\Desktop\Development\Python\EhouarnPerret.Python.HackerRank\2 - Algorithms\Greedy" />
     </key>
   </component>
-  <component name="RunManager" selected="Python.Day 2 - Compound Event Probability">
-    <configuration default="false" name="Day 1 - Quartiles" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/0 - Tutorials/10 Days of Statistics" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <module name="EhouarnPerret.Python.HackerRank" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/0 - Tutorials/10 Days of Statistics/Day 1 - Quartiles.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <method />
-    </configuration>
+  <component name="RunManager" selected="Python.1 - Insertion Sort - Part 1">
     <configuration default="false" name="Day 1 - Interquartile Range" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -358,6 +378,23 @@
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <module name="EhouarnPerret.Python.HackerRank" />
       <option name="SCRIPT_NAME" value="$PROJECT_DIR$/0 - Tutorials/10 Days of Statistics/Day 2 - Compound Event Probability.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <method />
+    </configuration>
+    <configuration default="false" name="1 - Insertion Sort - Part 1" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/1 - Algorithms/3 - Sorting" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="EhouarnPerret.Python.HackerRank" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/1 - Algorithms/3 - Sorting/1 - Insertion Sort - Part 1.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <method />
@@ -497,19 +534,19 @@
       <method />
     </configuration>
     <list size="5">
-      <item index="0" class="java.lang.String" itemvalue="Python.Day 1 - Quartiles" />
-      <item index="1" class="java.lang.String" itemvalue="Python.Day 1 - Interquartile Range" />
-      <item index="2" class="java.lang.String" itemvalue="Python.Day 2 - Basic Probability" />
-      <item index="3" class="java.lang.String" itemvalue="Python.Day 2 - More Dice" />
-      <item index="4" class="java.lang.String" itemvalue="Python.Day 2 - Compound Event Probability" />
+      <item index="0" class="java.lang.String" itemvalue="Python.Day 1 - Interquartile Range" />
+      <item index="1" class="java.lang.String" itemvalue="Python.Day 2 - Basic Probability" />
+      <item index="2" class="java.lang.String" itemvalue="Python.Day 2 - More Dice" />
+      <item index="3" class="java.lang.String" itemvalue="Python.Day 2 - Compound Event Probability" />
+      <item index="4" class="java.lang.String" itemvalue="Python.1 - Insertion Sort - Part 1" />
     </list>
     <recent_temporary>
       <list size="5">
-        <item index="0" class="java.lang.String" itemvalue="Python.Day 2 - Compound Event Probability" />
-        <item index="1" class="java.lang.String" itemvalue="Python.Day 2 - More Dice" />
-        <item index="2" class="java.lang.String" itemvalue="Python.Day 2 - Basic Probability" />
-        <item index="3" class="java.lang.String" itemvalue="Python.Day 1 - Interquartile Range" />
-        <item index="4" class="java.lang.String" itemvalue="Python.Day 1 - Quartiles" />
+        <item index="0" class="java.lang.String" itemvalue="Python.1 - Insertion Sort - Part 1" />
+        <item index="1" class="java.lang.String" itemvalue="Python.Day 2 - Compound Event Probability" />
+        <item index="2" class="java.lang.String" itemvalue="Python.Day 2 - More Dice" />
+        <item index="3" class="java.lang.String" itemvalue="Python.Day 2 - Basic Probability" />
+        <item index="4" class="java.lang.String" itemvalue="Python.Day 1 - Interquartile Range" />
       </list>
     </recent_temporary>
   </component>
@@ -688,20 +725,27 @@
       <option name="project" value="LOCAL" />
       <updated>1474315777349</updated>
     </task>
-    <option name="localTasksCounter" value="24" />
+    <task id="LOCAL-00024" summary="Project remodeling">
+      <created>1474316131483</created>
+      <option name="number" value="00024" />
+      <option name="presentableId" value="LOCAL-00024" />
+      <option name="project" value="LOCAL" />
+      <updated>1474316131483</updated>
+    </task>
+    <option name="localTasksCounter" value="25" />
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="270" y="0" width="1781" height="817" extended-state="0" />
+    <frame x="149" y="65" width="1781" height="943" extended-state="0" />
     <editor active="false" />
     <layout>
-      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.17633411" sideWeight="0.7654867" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.20823666" sideWeight="0.7654867" order="0" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
-      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.26623377" sideWeight="0.4135731" order="7" side_tool="true" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.34501347" sideWeight="0.4135731" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3251462" sideWeight="0.4790451" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Python Console" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3251462" sideWeight="0.4938992" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.26623377" sideWeight="0.5864269" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.34501347" sideWeight="0.5864269" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.26518062" sideWeight="0.23451327" order="2" side_tool="true" content_ui="tabs" />
@@ -746,7 +790,8 @@
     <MESSAGE value="YAKSE =]" />
     <MESSAGE value="YAKSE II =]" />
     <MESSAGE value="YAKSE III =]" />
-    <option name="LAST_COMMIT_MESSAGE" value="YAKSE III =]" />
+    <MESSAGE value="Project remodeling" />
+    <option name="LAST_COMMIT_MESSAGE" value="Project remodeling" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -758,20 +803,6 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/1 - Algorithms/6 - Greedy/5 - Jim and the Orders.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/1 - Algorithms/6 - Greedy/4 - Sherlock And The Beast.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="264">
-          <caret line="11" column="10" selection-start-line="11" selection-start-column="10" selection-end-line="11" selection-end-column="10" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/1 - Algorithms/6 - Greedy/1 - Grid Challenge.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
@@ -787,14 +818,14 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/1 - Algorithms/1 - Implementation/1 - Kangaroo.py">
+    <entry file="file://$PROJECT_DIR$/1 - Algorithms/1 - Implementation/0 - Kangaroo.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="120">
           <caret line="5" column="0" selection-start-line="5" selection-start-column="0" selection-end-line="5" selection-end-column="0" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/1 - Algorithms/1 - Implementation/4 - Angry Professor.py">
+    <entry file="file://$PROJECT_DIR$/1 - Algorithms/1 - Implementation/3 - Angry Professor.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="216">
           <caret line="9" column="0" selection-start-line="9" selection-start-column="0" selection-end-line="9" selection-end-column="0" />
@@ -822,7 +853,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/1 - Algorithms/1 - Implementation/5 - Cut The Sticks.py">
+    <entry file="file://$PROJECT_DIR$/1 - Algorithms/1 - Implementation/4 - Cut The Sticks.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="144">
           <caret line="6" column="11" selection-start-line="6" selection-start-column="11" selection-end-line="6" selection-end-column="11" />
@@ -844,7 +875,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/1 - Algorithms/1 - Implementation/2 - Divisible Sum Pairs.py">
+    <entry file="file://$PROJECT_DIR$/1 - Algorithms/1 - Implementation/1 - Divisible Sum Pairs.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="144">
           <caret line="9" column="10" selection-start-line="9" selection-start-column="10" selection-end-line="9" selection-end-column="10" />
@@ -1044,14 +1075,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$USER_HOME$/.PyCharm2016.2/system/python_stubs/-1184660488/builtins.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="180">
-          <caret line="947" column="6" selection-start-line="947" selection-start-column="6" selection-end-line="947" selection-end-column="6" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/0 - Tutorials/30 Days of Code/Day 25 - Running Time and Complexity.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="216">
@@ -1124,6 +1147,14 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/0 - Tutorials/10 Days of Statistics/Day 2 - Compound Event Probability.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="441">
+          <caret line="32" column="11" selection-start-line="32" selection-start-column="11" selection-end-line="32" selection-end-column="11" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/0 - Tutorials/10 Days of Statistics/Day 2 - Basic Probability.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="72">
@@ -1142,10 +1173,26 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/0 - Tutorials/10 Days of Statistics/Day 2 - Compound Event Probability.py">
+    <entry file="file://$PROJECT_DIR$/1 - Algorithms/3 - Sorting/0 - Intro to Tutorial Challenges.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="270">
-          <caret line="29" column="0" selection-start-line="29" selection-start-column="0" selection-end-line="29" selection-end-column="0" />
+        <state relative-caret-position="336">
+          <caret line="14" column="0" selection-start-line="14" selection-start-column="0" selection-end-line="14" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/.PyCharm2016.2/system/python_stubs/-1184660488/builtins.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="180">
+          <caret line="4100" column="8" selection-start-line="4100" selection-start-column="8" selection-end-line="4100" selection-end-column="8" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/1 - Algorithms/3 - Sorting/1 - Insertion Sort - Part 1.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="360">
+          <caret line="15" column="0" selection-start-line="15" selection-start-column="0" selection-end-line="15" selection-end-column="0" />
           <folding />
         </state>
       </provider>
