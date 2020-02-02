@@ -1,3 +1,3 @@
-# python-hackerrank
+# Python.HackerRank
 My Python HackerRank solution(s) =]
 
