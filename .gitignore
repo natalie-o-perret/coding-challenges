@@ -348,3 +348,17 @@ MigrationBackup/
 
 # Ionide (cross platform F# VS Code tools) working folder
 .ionide/
+
+# Clojure
+.lsp/
+.clj-kondo/
+.cpcache/
+.nrepl-port
+.rebel_readline_history
+
+# Clojure
+.lsp/
+.clj-kondo/
+.cpcache/
+.nrepl-port
+.rebel_readline_history
