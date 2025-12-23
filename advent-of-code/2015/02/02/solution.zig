@@ -26,14 +26,13 @@ fn calculateRibbon(dimensions: []const u8) !u32 {
 pub fn main() !void {
     var gpa = std.heap.GeneralPurposeAllocator(.{}){};
     defer _ = gpa.deinit();
-    const allocator = gpa.allocator();
 
     // Test cases with assertions
     std.debug.assert(try calculateRibbon("2x3x4") == 34);
     std.debug.assert(try calculateRibbon("1x1x10") == 14);
 
-    const input = try std.fs.cwd().readFileAlloc(allocator, "../input.txt", 1024 * 1024);
-    defer allocator.free(input);
+    const input = try std.fs.cwd().readFileAlloc(gpa.allocator(), "../input.txt", 1024 * 1024);
+    defer gpa.allocator().free(input);
 
     var total: u32 = 0;
     var lines = std.mem.splitScalar(u8, input, '\n');

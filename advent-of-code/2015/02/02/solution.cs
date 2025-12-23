@@ -1,3 +1,5 @@
+using System.Diagnostics;
+
 static int CalculateRibbon(string dimensions)
 {
     var dims = dimensions.Split('x').Select(int.Parse).OrderBy(x => x).ToArray();
@@ -12,8 +14,8 @@ static int CalculateRibbon(string dimensions)
 }
 
 // Test cases with assertions
-System.Diagnostics.Debug.Assert(CalculateRibbon("2x3x4") == 34);
-System.Diagnostics.Debug.Assert(CalculateRibbon("1x1x10") == 14);
+Debug.Assert(CalculateRibbon("2x3x4") == 34);
+Debug.Assert(CalculateRibbon("1x1x10") == 14);
 
 // Read input and calculate total
 var scriptDir = Directory.GetCurrentDirectory();

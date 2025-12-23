@@ -1,3 +1,5 @@
+using System.Diagnostics;
+
 static int FindBasementPosition(string source)
 {
     var floor = 0;
@@ -17,8 +19,8 @@ static int FindBasementPosition(string source)
 }
 
 // Test cases with assertions
-System.Diagnostics.Debug.Assert(FindBasementPosition(")") == 1);
-System.Diagnostics.Debug.Assert(FindBasementPosition("()())") == 5);
+Debug.Assert(FindBasementPosition(")") == 1);
+Debug.Assert(FindBasementPosition("()())") == 5);
 
 var scriptDir = Directory.GetCurrentDirectory();
 var inputPath = Path.Combine(scriptDir, "..", "input.txt");

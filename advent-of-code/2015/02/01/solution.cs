@@ -1,4 +1,6 @@
-int CalculateWrappingPaper(string dimensions)
+using System.Diagnostics;
+
+static int CalculateWrappingPaper(string dimensions)
 {
     var parts = dimensions.Split('x').Select(int.Parse).ToArray();
     var l = parts[0];
@@ -16,8 +18,8 @@ int CalculateWrappingPaper(string dimensions)
 }
 
 // Test cases with assertions
-System.Diagnostics.Debug.Assert(CalculateWrappingPaper("2x3x4") == 58);
-System.Diagnostics.Debug.Assert(CalculateWrappingPaper("1x1x10") == 43);
+Debug.Assert(CalculateWrappingPaper("2x3x4") == 58);
+Debug.Assert(CalculateWrappingPaper("1x1x10") == 43);
 
 // Read input and calculate total
 var scriptDir = Directory.GetCurrentDirectory();
