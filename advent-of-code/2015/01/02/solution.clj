@@ -1,4 +1,4 @@
-(defn find-and-print-basement-position [source]
+(defn find-basement-position [source]
   (loop [position 1
          floor 0
          chars (seq source)]
@@ -9,13 +9,14 @@
                         (= char \)) (dec floor)
                         :else floor)]
         (if (= new-floor -1)
-          (println position)
+          position
           (recur (inc position) new-floor (rest chars)))))))
 
-;; causes him to enter the basement at character position 1
-(find-and-print-basement-position ")")
+;; Test cases with assertions
+(assert (= 1 (find-basement-position ")")))
+(assert (= 5 (find-basement-position "()())")))
 
-;; causes him to enter the basement at character position 5
-(find-and-print-basement-position "()())")
-
-(find-and-print-basement-position (slurp "../input.txt"))
+;; Calculate and print the answer
+(let [script-dir (.getParent (java.io.File. *file*))
+      input-path (str script-dir "/../input.txt")]
+  (println "Clojure:" (find-basement-position (slurp input-path))))

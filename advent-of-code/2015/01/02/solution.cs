@@ -1,7 +1,7 @@
-void FindAndPrintBasementPosition(string source)
+static int FindBasementPosition(string source)
 {
     var floor = 0;
-    for (int position = 0; position < source.Length; position++)
+    for (var position = 0; position < source.Length; position++)
     {
         var character = source[position];
         
@@ -11,18 +11,15 @@ void FindAndPrintBasementPosition(string source)
             floor--;
         
         if (floor == -1)
-        {
-            Console.WriteLine(position + 1); // 1-indexed
-            break;
-        }
+            return position + 1; // 1-indexed
     }
+    return 0;
 }
 
-// causes him to enter the basement at character position 1
-FindAndPrintBasementPosition(")");
+// Test cases with assertions
+System.Diagnostics.Debug.Assert(FindBasementPosition(")") == 1);
+System.Diagnostics.Debug.Assert(FindBasementPosition("()())") == 5);
 
-// causes him to enter the basement at character position 5
-FindAndPrintBasementPosition("()())");
-
-var instructions = File.ReadAllText("../input.txt");
-FindAndPrintBasementPosition(instructions);
+var scriptDir = Directory.GetCurrentDirectory();
+var inputPath = Path.Combine(scriptDir, "..", "input.txt");
+Console.WriteLine($"C#: {FindBasementPosition(File.ReadAllText(inputPath))}");

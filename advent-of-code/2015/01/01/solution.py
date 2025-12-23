@@ -1,33 +1,24 @@
 from functools import reduce
-
 from pathlib import Path
 
 
-def calculate_and_print_floor(source: str) -> None:
-    floor: int = reduce(lambda floor, character: 
+def calculate_floor(source: str) -> int:
+    return reduce(lambda floor, character: 
         floor + 1 if character == '(' else 
         floor - 1 if character == ')' else 
         floor, source, 0)
-    print(floor)
 
-# both result in floor 0
-calculate_and_print_floor("(())")
-calculate_and_print_floor("()()")
+# Test cases with assertions
+assert calculate_floor("(())") == 0
+assert calculate_floor("()()") == 0
+assert calculate_floor("(((") == 3
+assert calculate_floor("(()(()(") == 3
+assert calculate_floor("))(((((") == 3
+assert calculate_floor("())") == -1
+assert calculate_floor("))(") == -1
+assert calculate_floor(")))") == -3
+assert calculate_floor(")())())") == -3
 
-# both result in floor 3.
-calculate_and_print_floor("(((")
-calculate_and_print_floor("(()(()("  )
-
-# also results in floor 3.
-calculate_and_print_floor("))((((("  )
-
-# both result in floor -1 (the first basement level).
-calculate_and_print_floor("())")
-calculate_and_print_floor("))(")
-
-# both result in floor -3.
-calculate_and_print_floor(")))")
-calculate_and_print_floor(")())())")
-
+# Calculate and print the answer
 input_file = Path(__file__).parent.parent / "input.txt"
-calculate_and_print_floor(input_file.read_text())
+print(f"Python: {calculate_floor(input_file.read_text())}")

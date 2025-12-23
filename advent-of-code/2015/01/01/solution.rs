@@ -1,36 +1,28 @@
 use std::fs;
 
-fn calculate_and_print_floor(source: &str) {
-    let floor = source.chars().fold(0, |floor, character| match character {
+fn calculate_floor(source: &str) -> i32 {
+    source.chars().fold(0, |floor, character| match character {
         '(' => floor + 1,
         ')' => floor - 1,
         _ => floor,
-    });
-    println!("{}", floor);
+    })
 }
 
 fn main() {
-    // both result in floor 0
-    calculate_and_print_floor("(())");
-    calculate_and_print_floor("()()");
+    // Test cases with assertions
+    assert_eq!(calculate_floor("(())"), 0);
+    assert_eq!(calculate_floor("()()"), 0);
+    assert_eq!(calculate_floor("((("), 3);
+    assert_eq!(calculate_floor("(()(()("), 3);
+    assert_eq!(calculate_floor("))((((("), 3);
+    assert_eq!(calculate_floor("())"), -1);
+    assert_eq!(calculate_floor("))("), -1);
+    assert_eq!(calculate_floor(")))"), -3);
+    assert_eq!(calculate_floor(")())())"), -3);
 
-    // both result in floor 3.
-    calculate_and_print_floor("(((");
-    calculate_and_print_floor("(()(()("  );
-
-    // also results in floor 3.
-    calculate_and_print_floor("))((((("  );
-
-    // both result in floor -1 (the first basement level).
-    calculate_and_print_floor("())");
-    calculate_and_print_floor("))(");
-
-    // both result in floor -3.
-    calculate_and_print_floor(")))");
-    calculate_and_print_floor(")())())");
-
+    // Calculate and print the answer
     let script_dir = std::path::Path::new(file!()).parent().unwrap();
     let input_path = script_dir.join("..").join("input.txt");
     let input = fs::read_to_string(input_path).unwrap();
-    calculate_and_print_floor(&input);
+    println!("Rust: {}", calculate_floor(&input));
 }

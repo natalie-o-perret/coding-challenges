@@ -3,9 +3,11 @@ package main
 import (
 	"fmt"
 	"os"
+	"path/filepath"
+	"runtime"
 )
 
-func findAndPrintBasementPosition(source string) {
+func findBasementPosition(source string) int {
 	floor := 0
 	for position, char := range source {
 		switch char {
@@ -16,22 +18,25 @@ func findAndPrintBasementPosition(source string) {
 		}
 
 		if floor == -1 {
-			fmt.Println(position + 1) // 1-indexed
-			break
+			return position + 1 // 1-indexed
 		}
 	}
+	return 0
 }
 
 func main() {
-	// causes him to enter the basement at character position 1
-	findAndPrintBasementPosition(")")
-
-	// causes him to enter the basement at character position 5
-	findAndPrintBasementPosition("()())")
-
-	data, err := os.ReadFile("../input.txt")
-	if err != nil {
-		panic(err)
+	// Test cases with assertions
+	if findBasementPosition(")") != 1 {
+		panic("Test failed: )")
 	}
-	findAndPrintBasementPosition(string(data))
+	if findBasementPosition("()())") != 5 {
+		panic("Test failed: ()())")
+	}
+
+	// Calculate and print the answer
+	_, filename, _, _ := runtime.Caller(0)
+	scriptDir := filepath.Dir(filename)
+	inputPath := filepath.Join(scriptDir, "..", "input.txt")
+	data, _ := os.ReadFile(inputPath)
+	fmt.Printf("Go: %d\n", findBasementPosition(string(data)))
 }

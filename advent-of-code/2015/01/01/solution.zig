@@ -1,6 +1,6 @@
 const std = @import("std");
 
-fn calculateAndPrintFloor(source: []const u8) void {
+fn calculateFloor(source: []const u8) i32 {
     var floor: i32 = 0;
     for (source) |character| {
         switch (character) {
@@ -9,29 +9,22 @@ fn calculateAndPrintFloor(source: []const u8) void {
             else => {},
         }
     }
-    std.debug.print("{d}\n", .{floor});
+    return floor;
 }
 
 pub fn main() !void {
-    // both result in floor 0
-    calculateAndPrintFloor("(())");
-    calculateAndPrintFloor("()()");
+    // Test cases with assertions
+    std.debug.assert(calculateFloor("(())") == 0);
+    std.debug.assert(calculateFloor("()()") == 0);
+    std.debug.assert(calculateFloor("(((") == 3);
+    std.debug.assert(calculateFloor("(()(()(") == 3);
+    std.debug.assert(calculateFloor("))(((((") == 3);
+    std.debug.assert(calculateFloor("())") == -1);
+    std.debug.assert(calculateFloor("))(") == -1);
+    std.debug.assert(calculateFloor(")))") == -3);
+    std.debug.assert(calculateFloor(")())())") == -3);
 
-    // both result in floor 3.
-    calculateAndPrintFloor("(((");
-    calculateAndPrintFloor("(()(()(");
-
-    // also results in floor 3.
-    calculateAndPrintFloor("))(((((");
-
-    // both result in floor -1 (the first basement level).
-    calculateAndPrintFloor("())");
-    calculateAndPrintFloor("))(");
-
-    // both result in floor -3.
-    calculateAndPrintFloor(")))");
-    calculateAndPrintFloor(")())())");
-
+    // Calculate and print the answer
     var gpa = std.heap.GeneralPurposeAllocator(.{}){};
     defer _ = gpa.deinit();
     const allocator = gpa.allocator();
@@ -39,5 +32,5 @@ pub fn main() !void {
     const input = try std.fs.cwd().readFileAlloc(allocator, "../input.txt", 1024 * 1024);
     defer allocator.free(input);
 
-    calculateAndPrintFloor(input);
+    std.debug.print("Zig: {d}\n", .{calculateFloor(input)});
 }

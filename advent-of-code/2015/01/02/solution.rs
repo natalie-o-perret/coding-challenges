@@ -1,6 +1,6 @@
 use std::fs;
 
-fn find_and_print_basement_position(source: &str) {
+fn find_basement_position(source: &str) -> usize {
     let mut floor = 0;
     for (position, character) in source.chars().enumerate() {
         match character {
@@ -10,20 +10,20 @@ fn find_and_print_basement_position(source: &str) {
         }
 
         if floor == -1 {
-            println!("{}", position + 1); // 1-indexed
-            break;
+            return position + 1; // 1-indexed
         }
     }
+    0
 }
 
 fn main() {
-    // causes him to enter the basement at character position 1
-    find_and_print_basement_position(")");
+    // Test cases with assertions
+    assert_eq!(find_basement_position(")"), 1);
+    assert_eq!(find_basement_position("()())"), 5);
 
-    // causes him to enter the basement at character position 5
-    find_and_print_basement_position("()())");
-
-    let instructions = fs::read_to_string("../input.txt")
-        .expect("Failed to read input file");
-    find_and_print_basement_position(&instructions);
+    // Calculate and print the answer
+    let script_dir = std::path::Path::new(file!()).parent().unwrap();
+    let input_path = script_dir.join("..").join("input.txt");
+    let instructions = fs::read_to_string(input_path).unwrap();
+    println!("Rust: {}", find_basement_position(&instructions));
 }

@@ -4,9 +4,10 @@ import (
 	"fmt"
 	"os"
 	"path/filepath"
+	"runtime"
 )
 
-func calculateAndPrintFloor(source string) {
+func calculateFloor(source string) int {
 	floor := 0
 	for _, char := range source {
 		switch char {
@@ -16,32 +17,43 @@ func calculateAndPrintFloor(source string) {
 			floor--
 		}
 	}
-	fmt.Println(floor)
+	return floor
 }
 
 func main() {
-	// both result in floor 0
-	calculateAndPrintFloor("(())")
-	calculateAndPrintFloor("()()")
+	// Test cases with assertions
+	if calculateFloor("(())") != 0 {
+		panic("Test failed: (())")
+	}
+	if calculateFloor("()()") != 0 {
+		panic("Test failed: ()()")
+	}
+	if calculateFloor("(((") != 3 {
+		panic("Test failed: (((")
+	}
+	if calculateFloor("(()(()(") != 3 {
+		panic("Test failed: (()(()(")
+	}
+	if calculateFloor("))(((((") != 3 {
+		panic("Test failed: ))(((((")
+	}
+	if calculateFloor("())") != -1 {
+		panic("Test failed: ())")
+	}
+	if calculateFloor("))(") != -1 {
+		panic("Test failed: ))(")
+	}
+	if calculateFloor(")))") != -3 {
+		panic("Test failed: )))")
+	}
+	if calculateFloor(")())())") != -3 {
+		panic("Test failed: )())())")
+	}
 
-	// both result in floor 3.
-	calculateAndPrintFloor("(((")
-	calculateAndPrintFloor("(()(()(")
-
-	// also results in floor 3.
-	calculateAndPrintFloor("))(((((")
-
-	// both result in floor -1 (the first basement level).
-	calculateAndPrintFloor("())")
-	calculateAndPrintFloor("))(")
-
-	// both result in floor -3.
-	calculateAndPrintFloor(")))")
-	calculateAndPrintFloor(")())())")
-
-	execPath, _ := os.Executable()
-	execDir := filepath.Dir(execPath)
-	inputPath := filepath.Join(execDir, "..", "input.txt")
+	// Calculate and print the answer
+	_, filename, _, _ := runtime.Caller(0)
+	scriptDir := filepath.Dir(filename)
+	inputPath := filepath.Join(scriptDir, "..", "input.txt")
 	input, _ := os.ReadFile(inputPath)
-	calculateAndPrintFloor(string(input))
+	fmt.Printf("Go: %d\n", calculateFloor(string(input)))
 }

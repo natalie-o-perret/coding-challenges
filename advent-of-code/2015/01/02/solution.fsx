@@ -1,6 +1,6 @@
 open System.IO
 
-let findAndPrintBasementPosition source =
+let findBasementPosition source =
     source
     |> Seq.indexed
     |> Seq.scan (fun (floor, _) (position, character) ->
@@ -8,19 +8,15 @@ let findAndPrintBasementPosition source =
                        | '(' -> floor + 1
                        | ')' -> floor - 1
                        | _ -> floor
-        (newFloor, position + 1)) (0, 0)
+        newFloor, position + 1) (0, 0)
     |> Seq.skip 1
     |> Seq.find (fun (floor, _) -> floor = -1)
     |> snd
-    |> printfn "%d"
 
-// causes him to enter the basement at character position 1
-")" |> findAndPrintBasementPosition
-
-// causes him to enter the basement at character position 5
-"()())" |> findAndPrintBasementPosition
+// Test cases with assertions
+assert (findBasementPosition ")" = 1)
+assert (findBasementPosition "()())" = 5)
 
 let scriptDir: string = Path.GetDirectoryName __SOURCE_FILE__
 let inputPath = Path.Combine(scriptDir, "..", "input.txt")
-File.ReadAllText(inputPath)
-|> findAndPrintBasementPosition
+printfn "F#: %d" (findBasementPosition (File.ReadAllText inputPath))

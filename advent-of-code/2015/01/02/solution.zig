@@ -1,6 +1,6 @@
 const std = @import("std");
 
-fn findAndPrintBasementPosition(source: []const u8) !void {
+fn findBasementPosition(source: []const u8) usize {
     var floor: i32 = 0;
     for (source, 0..) |char, index| {
         if (char == '(') {
@@ -10,26 +10,24 @@ fn findAndPrintBasementPosition(source: []const u8) !void {
         }
 
         if (floor == -1) {
-            const stdout = std.io.getStdOut().writer();
-            try stdout.print("{d}\n", .{index + 1}); // 1-indexed
-            break;
+            return index + 1; // 1-indexed
         }
     }
+    return 0;
 }
 
 pub fn main() !void {
-    // causes him to enter the basement at character position 1
-    try findAndPrintBasementPosition(")");
+    // Test cases with assertions
+    std.debug.assert(findBasementPosition(")") == 1);
+    std.debug.assert(findBasementPosition("()())") == 5);
 
-    // causes him to enter the basement at character position 5
-    try findAndPrintBasementPosition("()())");
+    // Calculate and print the answer
+    var gpa = std.heap.GeneralPurposeAllocator(.{}){};
+    defer _ = gpa.deinit();
+    const allocator = gpa.allocator();
 
-    const allocator = std.heap.page_allocator;
-    const file = try std.fs.cwd().openFile("../input.txt", .{});
-    defer file.close();
+    const input = try std.fs.cwd().readFileAlloc(allocator, "../input.txt", 1024 * 1024);
+    defer allocator.free(input);
 
-    const instructions = try file.readToEndAlloc(allocator, 1024 * 1024);
-    defer allocator.free(instructions);
-
-    try findAndPrintBasementPosition(instructions);
+    std.debug.print("Zig: {d}\n", .{findBasementPosition(input)});
 }

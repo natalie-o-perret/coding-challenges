@@ -1,31 +1,25 @@
-(defn calculate-and-print-floor [source]
-  (println (reduce (fn [floor character]
-                     (cond
-                       (= character \() (inc floor)
-                       (= character \)) (dec floor)
-                       :else floor))
-                   0
-                   source)))
+(defn calculate-floor [source]
+  (reduce (fn [floor character]
+            (cond
+              (= character \() (inc floor)
+              (= character \)) (dec floor)
+              :else floor))
+          0
+          source))
 
-;; both result in floor 0
-(calculate-and-print-floor "(())")
-(calculate-and-print-floor "()()")
+;; Test cases with assertions
+(assert (= 0 (calculate-floor "(())")))
+(assert (= 0 (calculate-floor "()()")))
+(assert (= 3 (calculate-floor "(((")))
+(assert (= 3 (calculate-floor "(()(()(")))
+(assert (= 3 (calculate-floor "))(((((")))
+(assert (= -1 (calculate-floor "())")))
+(assert (= -1 (calculate-floor "))(")))
+(assert (= -3 (calculate-floor ")))")))
+(assert (= -3 (calculate-floor ")())())")))
 
-;; both result in floor 3.
-(calculate-and-print-floor "(((")
-(calculate-and-print-floor "(()(()(")
 
-;; also results in floor 3.
-(calculate-and-print-floor "))(((((")
-
-;; both result in floor -1 (the first basement level).
-(calculate-and-print-floor "())")
-(calculate-and-print-floor "))(")
-
-;; both result in floor -3.
-(calculate-and-print-floor ")))")
-(calculate-and-print-floor ")())())")
-
+;; Calculate and print the answer
 (let [script-dir (.getParent (java.io.File. *file*))
       input-path (str script-dir "/../input.txt")]
-  (calculate-and-print-floor (slurp input-path)))
+  (println "Clojure:" (calculate-floor (slurp input-path))))

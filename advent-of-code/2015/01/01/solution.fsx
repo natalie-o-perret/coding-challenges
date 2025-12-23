@@ -1,34 +1,27 @@
 open System.IO
 
-let caculateAndPrintFloor source =
+let calculateFloor source =
     source
-    |> Seq.fold (fun floor character ->
-        match character with
-        | '(' -> floor + 1
-        | ')' -> floor - 1
-        | _ -> floor) 0
-    |> printfn "%d"
+    |> Seq.fold
+        (fun floor character ->
+            match character with
+            | '(' -> floor + 1
+            | ')' -> floor - 1
+            | _ -> floor)
+        0
 
-// both result in floor 0
-"(())" |> caculateAndPrintFloor
-"()()" |> caculateAndPrintFloor
+// Test cases with assertions
+assert (calculateFloor "(())" = 0)
+assert (calculateFloor "()()" = 0)
+assert (calculateFloor "(((" = 3)
+assert (calculateFloor "(()(()(" = 3)
+assert (calculateFloor "))(((((" = 3)
+assert (calculateFloor "())" = -1)
+assert (calculateFloor "))(" = -1)
+assert (calculateFloor ")))" = -3)
+assert (calculateFloor ")())())" = -3)
 
-// both result in floor 3.
-"(((" |> caculateAndPrintFloor
-"(()(()(" |> caculateAndPrintFloor 
-
-// also results in floor 3.
-"))(((((" |> caculateAndPrintFloor
-
-// both result in floor -1 (the first basement level).
-"())" |> caculateAndPrintFloor
-"))(" |> caculateAndPrintFloor
-
-// both result in floor -3.
-")))" |> caculateAndPrintFloor
-")())())" |> caculateAndPrintFloor
 
 let scriptDir: string = Path.GetDirectoryName __SOURCE_FILE__
 let inputPath = Path.Combine(scriptDir, "..", "input.txt")
-File.ReadAllText(inputPath)
-|> caculateAndPrintFloor
+printfn "F#: %d" (calculateFloor (File.ReadAllText inputPath))
